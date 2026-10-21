@@ -1,0 +1,383 @@
+Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval, SIGIR 2020, Virtual Event, China, July 25-30, 2020.
+The Next Generation of Neural Networks.
+Proof by Experimentation? Towards Better IR Research.
+Coopetition in IR Research.
+On Presuppositions of Machine Learning: A Meta Theory.
+How Deep Learning Works for Information Retrieval.
+From Information to Assistance.
+The New TREC Track on Podcast Search and Summarization.
+Large-scale Multi-modal Search and QA at Alibaba.
+Training Effective Neural CLIR by Bridging the Translation Gap.
+A Quantum Interference Inspired Neural Matching Model for Ad-hoc Retrieval.
+A Deep Recurrent Survival Model for Unbiased Ranking.
+ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT.
+Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.
+A Reinforcement Learning Framework for Relevance Feedback.
+Fairness-Aware Explainable Recommendation over Knowledge Graphs.
+Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View.
+Sequential Recommendation with Self-Attentive Multi-Adversarial Network.
+MVIN: Learning Multiview Items for Recommendation.
+Make It a Chorus: Knowledge- and Time-aware Item Modeling for Sequential Recommendation.
+Evolutionary Product Description Generation: A Dynamic Fine-Tuning Approach Leveraging User Click Behavior.
+Pairwise View Weighted Graph Network for View-based 3D Model Retrieval.
+Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning.
+BiANE: Bipartite Attributed Network Embedding.
+Hierarchical Fashion Graph Network for Personalized Outfit Recommendation.
+Global Context Enhanced Graph Neural Networks for Session-based Recommendation.
+Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.
+Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation.
+AutoGroup: Automatic Feature Grouping for Modelling Explicit High-Order Feature Interactions in CTR Prediction.
+KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation.
+CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems.
+CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network.
+Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs.
+Incorporating Scenario Knowledge into A Unified Fine-tuning Architecture for Event Representation.
+Ranking-Incentivized Quality Preserving Content Modification.
+On Understanding Data Worker Interaction Behaviors.
+Creating a Children-Friendly Reading Environment via Joint Learning of Content and Human Attention.
+Octopus: Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates.
+The Cortical Activity of Graded Relevance.
+Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback.
+Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation.
+Measuring Recommendation Explanation Quality: The Conflicting Goals of Explanations.
+Bayesian Inferential Risk Evaluation On Multiple IR Systems.
+How to Measure the Reproducibility of System-oriented IR Experiments.
+Good Evaluation Measures based on Document Preferences.
+Preference-based Evaluation Metrics for Web Image Search.
+Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics.
+Cascade or Recency: Constructing Better Evaluation Metrics for Session Search.
+Operationalizing the Legal Principle of Data Minimization for Personalization.
+Learning Personalized Risk Preferences for Recommendation.
+Certifiable Robustness to Discrete Adversarial Perturbations for Factorization Machines.
+Controlling Fairness and Bias in Dynamic Learning-to-Rank.
+Can The Crowd Identify Misinformation Objectively?: The Effects of Judgment Scale and Assessor's Background.
+Measuring and Mitigating Item Under-Recommendation Bias in Personalized Ranking Systems.
+What Makes a Top-Performing Precision Medicine Search Engine?: Tracing Main System Features in a Systematic Way.
+Accelerated Convergence for Counterfactual Learning to Rank.
+DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features.
+Policy-Aware Unbiased Learning to Rank for Top-k Rankings.
+SetRank: Learning a Permutation-Invariant Ranking Model for Information Retrieval.
+Reinforcement Learning to Rank with Pairwise Policy Gradient.
+Humor Detection in Product Question Answering Systems.
+Training Curricula for Open Domain Answer Re-Ranking.
+Open-Retrieval Conversational Question Answering.
+Learning to Ask Screening Questions for Job Postings.
+Match²: A Matching over Matching Model for Similar Question Identification.
+Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling.
+ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance.
+Table Search Using a Deep Contextualized Language Model.
+Convolutional Embedding for Edit Distance.
+ASiNE: Adversarial Signed Network Embedding.
+Efficient Graph Query Processing over Geo-Distributed Datacenters.
+Spatio-Temporal Dual Graph Attention Network for Query-POI Matching.
+LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation.
+GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation.
+Multi-behavior Recommendation with Graph Convolutional Networks.
+GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation.
+Joint Item Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network Approach.
+GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection.
+Using Phoneme Representations to Build Predictive Models Robust to ASR Errors.
+Knowledge Enhanced Personalized Search.
+Streaming Graph Neural Networks.
+An Eye Tracking Study of Web Search by People With and Without Dyslexia.
+DGL-KE: Training Knowledge Graph Embeddings at Scale.
+Neural Interactive Collaborative Filtering.
+Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme.
+Spatial Object Recommendation with Hints: When Spatial Granularity Matters.
+Product Bundle Identification using Semi-Supervised Learning.
+Coding Electronic Health Records with Adversarial Reinforcement Path Generation.
+Degree-Aware Alignment for Entities in Tail.
+Regional Relation Modeling for Visual Place Recognition.
+A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data.
+Agreement and Disagreement between True and False-Positive Metrics in Recommender Systems Evaluation.
+Leveraging Social Media for Medical Text Simplification.
+Sampler Design for Implicit Feedback Data by Noisy-label Robust Learning.
+MaHRL: Multi-goals Abstraction Based Deep Hierarchical Reinforcement Learning for Recommendations.
+Towards Question-based Recommender Systems.
+Try This Instead: Personalized and Interpretable Substitute Recommendation.
+Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce.
+Distributed Equivalent Substitution Training for Large-Scale Recommender Systems.
+Query Resolution for Conversational Search with Limited Supervision.
+Self-Supervised Reinforcement Learning for Recommender Systems.
+Generative Attribute Manipulation Scheme for Flexible Fashion Search.
+How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models.
+DPLCF: Differentially Private Local Collaborative Filtering.
+Content-aware Neural Hashing for Cold-start Recommendation.
+Meta Matrix Factorization for Federated Rating Predictions.
+The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation.
+Disentangled Graph Collaborative Filtering.
+Domain-Adaptive Neural Automated Essay Scoring.
+ADORE: Aspect Dependent Online REview Labeling for Review Generation.
+Finding the Best of Both Worlds: Faster and More Robust Top-k Document Retrieval.
+Recommending Podcasts for Cold-Start Users Based on Music Listening and Taste.
+Learning with Weak Supervision for Email Intent Detection.
+3D Self-Attention for Unsupervised Video Quantization.
+Modeling Personalized Item Frequency Information for Next-basket Recommendation.
+Transfer Learning via Contextual Invariants for One-to-Many Cross-Domain Recommendation.
+Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation.
+Next-item Recommendation with Sequential Hypergraphs.
+Encoding History with Context-aware Representation Learning for Personalized Search.
+Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation.
+Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search.
+Investigating Reference Dependence Effects on User Search Interaction and Satisfaction: A Behavioral Economics Perspective.
+DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation.
+What If Bots Feel Moods?
+Expressions of Style in Information Seeking Conversation with an Agent.
+Analyzing and Learning from User Interactions for Search Clarification.
+A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss.
+Enhancing Text Classification via Discovering Additional Semantic Clues from Logograms.
+Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation.
+Web-to-Voice Transfer for Product Recommendation on Voice.
+Minimally Supervised Categorization of Text with Metadata.
+Joint Aspect-Sentiment Analysis with Minimal User Guidance.
+AR-CF: Augmenting Virtual Users and Items in Collaborative Filtering for Addressing Cold-Start Problems.
+Studying Product Competition Using Representation Learning.
+Deep Critiquing for VAE-based Recommender Systems.
+GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation.
+Neighbor Interaction Aware Graph Convolution Networks for Recommendation.
+A Generic Network Compression Framework for Sequential Recommender Systems.
+Learning Efficient Representations of Mouse Movements to Predict User Attention.
+Query Reformulation in E-Commerce Search.
+Generating Images Instead of Retrieving Them: Relevance Feedback on Generative Adversarial Networks.
+Tree-Augmented Cross-Modal Encoding for Complex-Query Video Retrieval.
+Nonlinear Robust Discrete Hashing for Cross-Modal Retrieval.
+Employing Personal Word Embeddings for Personalized Search.
+Query Rewriting for Voice Shopping Null Queries.
+Joint-modal Distribution-based Similarity Hashing for Large-scale Unsupervised Deep Cross-modal Retrieval.
+Learning Colour Representations of Search Queries.
+Web Table Retrieval using Multimodal Deep Learning.
+Online Collective Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval.
+Correlated Features Synthesis and Alignment for Zero-shot Cross-modal Retrieval.
+HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation.
+Dual Sequential Network for Temporal Sets Prediction.
+Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation.
+Time Matters: Sequential Recommendation with Complex Temporal Information.
+Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation.
+How to Retrain Recommender System?: A Sequential Meta-Learning Method.
+Dynamic Clustering with Discrete Time Event Prediction.
+Leveraging Transitions of Emotions for Sarcasm Detection.
+JointMap: Joint Query Intent Understanding For Modeling Intent Hierarchies in E-commerce Search.
+Choppy: Cut Transformer for Ranked List Truncation.
+Studying Ransomware Attacks Using Web Search Logs.
+A Transformer-based Embedding Model for Personalized Product Search.
+Balancing Reinforcement Learning Training Experiences in Interactive Information Retrieval.
+Metadata Matters in User Engagement Prediction.
+Context-Aware Term Weighting For First Stage Passage Retrieval.
+Summarizing and Exploring Tabular Data in Conversational Search.
+Leveraging Adversarial Training in Self-Learning for Cross-Lingual Text Classification.
+Response Quality in Human-Chatbot Collaborative Systems.
+High-Precision Extraction of Emerging Concepts from Scientific Literature.
+Video Recommendation with Multi-gate Mixture of Experts Soft Actor Critic.
+Auto-annotation for Voice-enabled Entertainment Systems.
+Domain Adaptation with Reconstruction for Disaster Tweet Classification.
+Recipe Retrieval with Visual Query of Ingredients.
+Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection.
+Expansion via Prediction of Importance with Contextualization.
+Reranking for Efficient Transformer-based Answer Selection.
+Combining Contextualized and Non-contextualized Query Translations to Improve CLIR.
+Proactive Suggestion Generation: Data and Methods for Stepwise Task Assistance.
+Contextual Re-Ranking with Behavior Aware Transformers.
+Towards Explainable Retrieval Models for Precision Medicine Literature Search.
+Search Result Explanations Improve Efficiency and Trust.
+Query by Example for Cross-Lingual Event Retrieval.
+A Test Collection for Relevance and Sensitivity.
+A Study of Methods for the Generation of Domain-Aware Word Embeddings.
+Predicting Entity Popularity to Improve Spoken Entity Recognition by Virtual Assistants.
+Data Poisoning Attacks against Differentially Private Recommender Systems.
+Immersive Search: Using Virtual Reality to Examine How a Third Dimension Impacts the Searching Process.
+Having Your Cake and Eating it Too: Training Neural Retrieval for Language Inference without Losing Lexical Match.
+Neural Concept Map Generation for Effective Document Classification with Interpretable Structured Summarization.
+A Case Study of Multi-class Classification with Diversified Precision Recall Requirements for Query Disambiguation.
+A Study of Neural Matching Models for Cross-lingual IR.
+Social Media User Geolocation via Hybrid Attention.
+Personalized Query Suggestions.
+Feature Transformation for Neural Ranking Models.
+MetaGen: An academic Meta-review Generation system.
+Hier-SPCNet: A Legal Statute Hierarchy-based Heterogeneous Network for Computing Legal Case Document Similarity.
+DCDIR: A Deep Cross-Domain Recommendation System for Cold Start Users in Insurance Domain.
+A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension.
+Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems.
+Bundle Recommendation with Graph Convolutional Networks.
+Re-ranking Answer Selection with Similarity Aggregation.
+JIT2R: A Joint Framework for Item Tagging and Tag-based Recommendation.
+Attending to Inter-sentential Features in Neural Text Classification.
+Retrieving Potential Causes from a Query Event.
+Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.
+MGNN: A Multimodal Graph Neural Network for Predicting the Survival of Cancer Patients.
+Deep Neural Matching Models for Graph Retrieval.
+Session-based Recommendation with Hierarchical Leaping Networks.
+Multi-Branch Convolutional Network for Context-Aware Recommendation.
+Predicting Session Length for Product Search on E-commerce Platform.
+Dynamic Link Prediction by Integrating Node Vector Evolution and Local Neighborhood Representation.
+Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation.
+Residual-Duet Network with Tree Dependency Representation for Chinese Question-Answering Sentiment Analysis.
+Neural Mathematical Solver with Enhanced Formula Structure.
+Detecting Concept Drift In Medical Triage.
+Evidence Weighted Tree Ensembles for Text Classification.
+Graph Regularization for Multi-lingual Topic Models.
+Multi-Modal Summary Generation using Multi-Objective Optimization.
+A Re-visit of the Popularity Baseline in Recommender Systems.
+Training Mixed-Objective Pointing Decoders for Block-Level Optimization in Search Recommendation.
+Reinforcement Learning based Recommendation with Graph Convolutional Q-network.
+Crowdsourced Text Sequence Aggregation based on Hybrid Reliability and Representation.
+MRIF: Multi-resolution Interest Fusion for Recommendation.
+Joint Training Capsule Network for Cold Start Recommendation.
+Copula Guided Neural Topic Modelling for Short Texts.
+Soft Kernel-based Ranking on a Statistical Manifold.
+Multi-Level Multimodal Transformer Network for Multimodal Recipe Comprehension.
+Chinese Document Classification with Bi-directional Convolutional Language Model.
+Neural Unified Review Recommendation with Cross Attention.
+GoChat: Goal-oriented Chatbots with Hierarchical Reinforcement Learning.
+CapableOf Reasoning: A Step Towards Commonsense Oracle.
+Interactive Entity Linking Using Entity-Word Representations.
+Improving Contextual Language Models for Response Retrieval in Multi-Turn Conversation.
+Differentially Private Knowledge Distillation for Mobile Analytics.
+Towards Differentially Private Text Representations.
+Large-scale Image Retrieval with Sparse Binary Projections.
+Efficiency Implications of Term Weighting for Passage Retrieval.
+Read what you need: Controllable Aspect-based Opinion Summarization of Tourist Reviews.
+DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding.
+An Intent-guided Collaborative Machine for Session-based Recommendation.
+Rethinking Item Importance in Session-based Recommendation.
+MHM: Multi-modal Clinical Data based Hierarchical Multi-label Diagnosis Prediction.
+How Useful are Reviews for Recommendation? A Critical Review and Potential Improvements.
+Dual Learning Algorithm for Delayed Conversions.
+Evaluation of Cross Domain Text Summarization.
+Convolutional Knowledge Tracing: Modeling Individualization in Student Learning Process.
+G2T: Generating Fluent Descriptions for Knowledge Graph.
+Improving Matching Models with Hierarchical Contextualized Representations for Multi-turn Response Selection.
+Visual Intents vs. Clicks, Likes, and Purchases in E-commerce.
+MVL: Multi-View Learning for News Recommendation.
+Query/Task Satisfaction and Grid-based Evaluation Metrics Under Different Image Search Intents.
+Learning Discriminative Joint Embeddings for Efficient Face and Voice Association.
+TFNet: Multi-Semantic Feature Interaction for CTR Prediction.
+Investigating Reading Behavior in Fine-grained Relevance Judgment.
+Neural Hierarchical Factorization Machines for User's Event Sequence Analysis.
+Label-Consistency based Graph Neural Networks for Semi-supervised Node Classification.
+Symmetric Regularization based BERT for Pair-wise Semantic Reasoning.
+Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction.
+A Knowledge-Enhanced Recommendation Model with Attribute-Level Co-Attention.
+Multi-source Domain Adaptation for Sentiment Classification with Granger Causal Inference.
+TADS: Learning Time-Aware Scheduling Policy with Dyna-Style Planning for Spaced Repetition.
+TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation.
+Query Classification with Multi-objective Backoff Optimization.
+Influence Function for Unbiased Recommendation.
+Few-Shot Generative Conversational Query Rewriting.
+User-Inspired Posterior Network for Recommendation Reason Generation.
+An Analysis of BERT in Document Ranking.
+Read, Attend, and Exclude: Multi-Choice Reading Comprehension by Mimicking Human Reasoning Process.
+SummPip: Unsupervised Multi-Document Summarization with Sentence Graph Compression.
+Improving Neural Chinese Word Segmentation with Lexicon-enhanced Adaptive Attention.
+Sentiment-guided Sequential Recommendation.
+L2R²: Leveraging Ranking for Abductive Reasoning.
+Automatic Generation of Topic Labels.
+Extractive Snippet Generation for Arguments.
+Proposal and Comparison of Health Specific Features for the Automatic Assessment of Readability.
+MarkedBERT: Integrating Traditional IR Cues in Pre-trained Language Models for Passage Retrieval.
+Relevance Models for Multi-Contextual Appropriateness in Point-of-Interest Recommendation.
+CAsT-19: A Dataset for Conversational Information Seeking.
+Predicting Perceptual Speed from Search Behaviour.
+Learning Term Discrimination.
+Sampling Bias Due to Near-Duplicates in Learning to Rank.
+Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs.
+Relevance Transformer: Generating Concise Code Snippets with Relevance Feedback.
+Unsupervised Semantic Hashing with Pairwise Reconstruction.
+Factuality Checking in News Headlines with Eye Tracking.
+ArTest: The First Test Collection for Arabic Web Search with Relevance Rationales.
+Local Self-Attention over Long Text for Efficient Document Retrieval.
+Using Exploration to Alleviate Closed Loop Effects in Recommender Systems.
+A Heterogeneous Graph Neural Model for Cold-start Recommendation.
+Query-level Early Exit for Additive Learning-to-Rank Ensembles.
+Segmenting Search Query Logs by Learning to Detect Search Task Boundaries.
+A Multilingual Approach for Unsupervised Search Task Identification.
+Sequential-based Adversarial Optimisation for Personalised Top-N Item Recommendation.
+CrossBERT: A Triplet Neural Architecture for Ranking Entity Properties.
+Active Learning Stopping Strategies for Technology-Assisted Sensitivity Review.
+Topic Propagation in Conversational Search.
+Reputation (In)dependence in Ranking Systems: Demographics Influence Over Output Disparities.
+Do Neural Ranking Models Intensify Gender Bias?
+The Curious Case of IR Explainability: Explaining Document Scores within and across Ranking Models.
+Fair Classification with Counterfactual Learning.
+Multi-grouping Robust Fair Ranking.
+Distilling Knowledge for Fast Retrieval-based Chat-bots.
+An Analysis of Mixed Initiative and Collaboration in Information-Seeking Dialogues.
+Cascade Model-based Propensity Estimation for Counterfactual Learning to Rank.
+Studying Ranking-Incentivized Web Dynamics.
+How UMass-FSD Inadvertently Leverages Temporal Bias.
+On the Reliability of Test Collections for Evaluating Systems of Different Types.
+KLOOS: KL Divergence-based Out-of-Scope Intent Detection in Human-to-Machine Conversations.
+DEXA: Supporting Non-Expert Annotators with Dynamic Examples from Experts.
+A Lightweight Environment for Learning Experimental IR Research Practices.
+BRENDA: Browser Extension for Fake News Detection.
+Agent Dialogue: A Platform for Conversational Information Seeking Experimentation.
+DataMirror: Reflecting on One's Data Self: A Tool for Social Media Users to Explore Their Digital Footprints.
+Conversational Question Answering over Passages by Leveraging Word Proximity Networks.
+FigExplorer: A System for Retrieval and Exploration of Figures from Collections of Research Articles.
+APS: An Active PubMed Search System for Technology Assisted Reviews.
+Systematic Review Automation Tools for End-to-End Query Formulation.
+Deep Job Understanding at LinkedIn.
+Supporting Interoperability Between Open-Source Search Engines with the Common Index File Format.
+Web of Scholars: A Scholar Knowledge Graph.
+SPot: A Tool for Identifying Operating Segments in Financial Tables.
+Receptor: A Platform for Exploring Latent Relations in Sensitive Documents.
+FactCatch: Incremental Pay-as-You-Go Fact Checking with Minimal User Effort.
+WIRE: An Automated Report Generation System using Topical and Temporal Summarization.
+Experimaestro and Datamaestro: Experiment and Dataset Managers (for IR).
+QuAChIE: Question Answering based Chinese Information Extraction System.
+Vis-Trec: A System for the In-depth Analysis of trec_eval Results.
+JASSjr: The Minimalistic BM25 Search Engine for Teaching and Learning Information Retrieval.
+ServiceGroup: A Human-Machine Cooperation Solution for Group Chat Customer Service.
+Macaw: An Extensible Conversational Information Seeking Platform.
+REL: An Entity Linker Standing on the Shoulders of Giants.
+GMCM: Graph-based Micro-behavior Conversion Model for Post-click Conversion Rate Estimation.
+A Heterogeneous Information Network based Cross Domain Insurance Recommendation System for Cold Start Users.
+Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments.
+ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation.
+Be Aware of the Hot Zone: A Warning System of Hazard Area Prediction to Intervene Novel Coronavirus COVID-19 Outbreak.
+FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval.
+Understanding Echo Chambers in E-commerce Recommender Systems.
+Efficient and Effective Query Auto-Completion.
+Efficient Image Gallery Representations at Scale Through Multi-Task Learning.
+A Counterfactual Framework for Seller-Side A/B Testing on Marketplaces.
+Think Beyond the Word: Understanding the Implied Textual Meaning by Digesting Context, Local, and Noise.
+Automated Embedding Size Search in Deep Recommender Systems.
+Network On Network for Tabular Data Classification in Real-world Applications.
+Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach.
+Large Scale Abstractive Multi-Review Summarization (LSARS) via Aspect Alignment.
+User Behavior Retrieval for Click-Through Rate Prediction.
+Identifying Tasks from Mobile App Usage Patterns.
+Robust Layout-aware IE for Visually Rich Documents with Pre-trained Language Models.
+Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction.
+How Airbnb Tells You Will Enjoy Sunset Sailing in Barcelona? Recommendation in a Two-Sided Travel Marketplace.
+Multiplex Behavioral Relation Learning for Recommendation via Memory Augmented Transformer Network.
+Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning.
+Searching the Web for Cross-lingual Parallel Data.
+Recent Advances in Conversational Information Retrieval.
+Conversational Recommendation: Formulation, Methods, and Evaluation.
+Reciprocal Recommendation: Matching Users with the Right Users.
+Question Answering over Curated and Open Web Sources.
+Tutorial on Task-Based Search and Assistance.
+Modeling User Behavior for Vertical Search: Images, Apps and Products.
+Interactive Information Retrieval: Models, Algorithms, and Evaluation.
+AIIS: The SIGIR 2020 Workshop on Applied Interactive Information Systems.
+FinIR 2020: The First Workshop on Information Retrieval in Finance.
+BIRDS - Bridging the Gap between Information Science, Information Retrieval and Data Science.
+ECOM'20: The SIGIR 2020 Workshop on eCommerce.
+Deep Natural Language Processing for Search and Recommendation.
+Legal Intelligence: Algorithmic, Data, and Social Challenges.
+Deep Reinforcement Learning for Information Retrieval: Fundamentals and Advances.
+EARS 2020: The 3rd International Workshop on ExplainAble Recommendation and Search.
+Language Agnostic Hate Speech Detection.
+Legal Data Analytics: Developing Assistive Tools for Legal Practitioners.
+Multi-Document Answer Generation for Non-Factoid Questions.
+Spatio-temporal Conditioned Language Models.
+Explaining Recommendations in Heterogeneous Networks.
+When the Human is in the Loop: Cost, Effort and Behavior.
+End-to-End Contextualized Document Indexing and Retrieval with Neural Networks.
+Incorporating User Feedback in Conversational Question Answering over Heterogeneous Web Sources.
+User Modeling Towards Stateful Learning to Rank.
+Enhancing Graph Neural Networks for Recommender Systems.
+Towards Legal Case Retrieval.
+Biomedical Information Retrieval incorporating Knowledge Graph for Explainable Precision Medicine.
+Towards Evaluating Veracity of Textual Statements on the Web.
+Bridging East and West: An Integration of TCM and Western Medicine in Medical Text Mining.

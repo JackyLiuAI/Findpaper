@@ -1,0 +1,686 @@
+Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2026, MelbourneVICAustralia, July 20-24, 2026
+Emancipatory Information Retrieval: Towards Critical IR Theories and Practices.
+Question Answering Fit for Purpose: A Perspective From Natural Language Processing and User Modeling.
+From Search to Ask to Act: The Evolution of Information Access in the Age of Large Models and Agents.
+Understanding and Modeling Heterogeneous Search Behavior.
+ACE: Semantically-Grounded Graph Alignment via Affective Contrastive Learning.
+An Eye Tracking Study: Are AI Overviews Changing Search Behavior?
+Beyond the Single Path: Divergent Reasoning for LLM-based Recommendation.
+Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation.
+Improving Interpretability of Cognitive Diagnosis Models with LLM-based Semantic Augmentation.
+Logit Inflation in ListMLE: Theoretical Analysis and Mitigation Strategies.
+GIGP+: A CPU-GPU Co-Processing Engine for Multi-Vector Retrieval.
+GCA-KBQA: A Step-Wise Logical Form Generation Approach for KBQA with Knowledge-Assisted Calibration.
+One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment.
+When Vision Meets Texts in Listwise Reranking.
+Efficient Sparse Retrieval with Lightweight Superblock Pruning.
+Beyond Static Best-of-N: Bayesian List-wise Alignment for LLM-based Recommendation.
+Reconstructing Content with Collaborative Attention for Universal Multimodal Representation Learning.
+Think with Grounding: Curriculum Reinforced Reasoning with Video Grounding for Long Video Understanding.
+Advantage-Conditioned Flow Policy for Offline Reinforcement Learning in Recommendation.
+Mitigating Adversarial Attacks by Transferring LLM-generated Narrative Reasoning for Robust Fake News Detection.
+STRIDE: Strategic Iterative Decision-Making for Retrieval-Augmented Multi-Hop Question Answering.
+ARHN: Answer-Centric Relabeling of Hard Negatives with Open-Source LLMs for Dense Retrieval.
+Attention Grounded Enhancement for Visual Document Retrieval.
+SpecTran: Spectral-Aware Transformer-based Adapter for LLM-Enhanced Sequential Recommendation.
+Incentivizing Retrieval-Augmented Generation via Inner Adaptive Context Selection.
+MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation.
+Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation.
+CATS: Cluster-Aware Thompson Sampling for Negative Mining in Sequential Recommendation.
+ExDR: Explanation-driven Dynamic Retrieval Enhancement for Multimodal Fake News Detection.
+Tool-Star: Empowering Multi-Tool Collaborative Web Agent via Reinforcement Learning.
+Selective Constraint Learning for Unsupervised Cross-Domain Image Retrieval.
+Learning to Rank with Multi-Criteria LLM-Judge Annotations.
+Drift-Aware Incremental Token Adaptation with Collaborative Semantics for Generative Recommendation.
+Decision-Theoretic Stopping Rules for Document Screening.
+Diagnosing Identifiability in Two-Tower Models for Unbiased Learning to Rank.
+Differentiable Semantic ID for Generative Recommendation.
+NumColBERT: Non-Intrusive Numeracy Injection for Late-Interaction Retrieval Models.
+Factorized Latent Reasoning for LLM-based Recommendation.
+Why Advanced Encoders Lag on Sparse Retrieval? The Answer and an Approach to Bridging Vocabulary Gaps.
+Topic-Specific Classifiers are Better Relevance Judges than Prompted LLMs.
+Incremental Multi-Behavior Recommendation.
+Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking.
+How Generative AI Disrupts Search: An Empirical Study of Google Search, Gemini, and AI Overviews.
+Diagnosing and Mitigating Mid-Sequence Degradation in Recommender Systems.
+Think When Needed: Model-Aware Reasoning Routing for LLM-based Ranking.
+Unifying Granularity and Reliability: A Robust and Efficient Framework for Text-based Person Retrieval.
+Same Frequency Begets Shared Interests: Popular-Niche Wavelet Graph Learning for Multimodal Recommendation.
+Corpus-Centric Learning for Zero-Shot Table Retrieval.
+Inductive Dual-Polarity Modeling via Static-Dynamic Disentanglement for Dynamic Signed Networks.
+RULER: Robust Unified LLM-based Efficient Retrieval for Legal Information.
+Chunk-Wise Quantization for Graph Collaborative Filtering.
+Unsupervised 2D Image-Based 3D Model Retrieval via Decision Boundary Alignment and Graph Semantic Propagation.
+Depression Detection from Social Media: A Mutual Guidance Multi-modal Network with Complementary Graph Learning.
+Balanced Frequency Decoupling: Energy-Aware Multi-Scale Preference Modeling for Sequential Recommendation.
+HyFormer: Revisiting the Roles of Sequence Modeling and Feature Interaction in CTR Prediction.
+Generative Bid Shading in Real-Time Bidding Advertising.
+Benchmarking Filtered Approximate Nearest Neighbor Search Algorithms on Transformer-based Embedding Vectors.
+NeuCon-ICE: Neuron-Level Controllable In-Context Editing for Multimodal Large Language Models.
+Balanced Co-Clustering of Users and Items for Embedding Table Compression in Recommender Systems.
+MECI: Multi-Element Collaborative Interaction for Multimodal Entity Linking.
+HiRA: Decoupling Planning and Execution with Hierarchical Reasoning in Deep Search.
+FollowTable: A Benchmark for Instruction-Following Table Retrieval.
+Contrastive Flow Matching for Collaborative Filtering.
+Internalizing Explicit Reasoning into Latent Space for Dense Retrieval.
+MCP-Focus: Leveraging Function-Oriented Document Enhancement for MCP Server Retrieval.
+FACE: A Fine-Grained Reference-Free Evaluator for Conversational Information Access.
+Search for Coverage: Learning Coverage-Aware Retrieval with Augmented Sub-Question Answerability.
+Following the Eye-Tracking Evidence: Established Web-Search Assumptions Fail in Carousel Interfaces.
+MUDY: Multi-Granular Dynamic Candidate Contextualization for Unsupervised Keyphrase Extraction.
+A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models.
+Dynamic Memory Forest: Constructing and Tracing Conversational Trajectories for Long-Term Conversation.
+Formalized Information Needs Improve Large-Language-Model Relevance Judgments.
+Scaling Laws for Embedding Dimension in Information Retrieval.
+IPQA: A Benchmark for Core Intent Identification in Personalized Question Answering.
+Set-Based Cross-Domain Recommendation.
+FLAME: Condensing Ensemble Diversity into a Single Network for Efficient Sequential Recommendation.
+MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender.
+Is It Novel and Why? Fine-Grained Patent Novelty Prediction Based on Passage Retrieval.
+Generation-Augmented Video Corpus Moment Retrieval.
+Multi-Perspective Driven Expected Location Preferences for Next POI Recommendations.
+Countering Interest Over-Smoothing: Distilling Latent Factors via Diffusion for Multi-Interest Retrieval.
+Filling the Gaps: Selective Knowledge Augmentation for LLM Recommenders.
+SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation.
+Graph Diffusion Gated Embeddings for Recommender Systems.
+Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment.
+Hierarchical Cluster-based Open-World Graph Active Learning.
+Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion.
+An Action-Aware Generative Sequence Modeling for Short Video Recommendation.
+Retrieval-Augmented Multimodal Model for Fake News Detection.
+Divergence Meets Consensus: A Multi-Source Negative Sampling Framework for Sequential Recommendation.
+Optimizing Marketing Subsidies via Counterfactual Learning with Asymmetric Reward Function.
+Seeing the Whole Through the Parts: Discovering Objects through Semantic Part Mining in Weak Supervision.
+Inferring Targets from Calibrated Hesitations via Mutual Information Maximization in Multi-Behavior Recommendation.
+Struct-Align: Zero-Shot Text-to-3D Scene Retrieval via Locality-Aware Structural Alignment.
+Towards End-to-End Alignment of User Satisfaction via Questionnaire in Video Recommendation.
+Revisiting Collaborative Filtering by Unleashing the Power of Similarity.
+One-for-All Community Search on Unseen Graphs.
+FedMosaic: Federated Retrieval-Augmented Generation via Parametric Adapters.
+NeurPIU: Neurobiologically Inspired Personalized Intent Understanding in Large Language Models.
+A Comparative Study of Users' Information-Seeking Practices Across Search Engines and Generative AI Chatbots.
+Cross-Domain Interest Representation Learning for Scenario- and Task-Aware Recommendation.
+Verifiable Reasoning for LLM-based Generative Recommendation.
+SNBot: Modeling Self-Neighborhood Representation Discrepancy for Social Bot Detection.
+Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation.
+From Interference to Stability: Adversarial Reliability Correction for Video Moment Retrieval with Relevance Feedback.
+Towards Knowledgeable Deep Research: Framework and Benchmark.
+Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation.
+LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training.
+Fourier Kolmogorov-Arnold Network and Hypergraph Enhanced Contrastive Learning for Recommendation.
+Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment.
+Mitigating Evidence Suppression: Bi-level Active Evidence Injection for Educational Video Understanding.
+Beyond Semantic Relevance: Counterfactual Risk Minimization for Robust Retrieval-Augmented Generation.
+Think, But Don't Tell: Implicit Reasoning for LLM-based Sequential Recommendation via Multi-Teacher Distillation.
+Decoding Multimodal Cues: Unveiling the Implicit Meaning Behind Hateful Videos.
+From Clues to Generation: Language-Guided Conditional Diffusion for Cross-Domain Recommendation.
+OntoEL: Neuro-Symbolic Biomedical Entity Linking with Differentiable Fuzzy EL⊥ Reasoning.
+SRAG: A Lightweight and Specialized Retrieval-augmented Generation System at the Edge.
+Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation.
+Hierarchical Denoising Entire Space Multi-Task Model for Post-Click Conversion Rate Prediction with Noisy Labels.
+How Variability Influences Podcast Search: Queries, Transcriptions, and Judges.
+DocQAC: Adaptive Trie-Guided Decoding for Effective In-Document Query Auto-Completion.
+A Parametric Memory Head for Continual Generative Retrieval.
+Do Simulated Users Need to Remember? Analyzing the Impact of Memory Models in Conversational Search Evaluation.
+Minimal-Perturbation Counterfactuals through Guided Denoising Diffusion for Recommender Systems Explanation.
+LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation.
+Verbalizing LightGCN: Direct Learning of Textual Representations from User-Item Interaction Graph via LLMs.
+Agentic Search in the Wild: Intents and Trajectory Dynamics from 14M+ Real Search Requests.
+Recasting Web-Scale Query Suggestion as dense retrieval: Efficient, Up-to-Date, and Context-Aware Suggestions.
+Hybrid Pooling with LLMs via Relevance Context Learning.
+Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation.
+SciCheck: Reasoning Distillation for Biomedical Claim Verification.
+Multi-Faceted Continual Knowledge Graph Embedding for Semantic-Aware Link Prediction.
+R3Check: Reinforcement Learning for Iterative Retrieval and Structured Reasoning in Complex Fact Checking.
+Adaptive Mix Preference Optimization for Generative Recommendation.
+Deja Vu in Plots: Leveraging Cross-Session Evidence with Retrieval-Augmented LLMs for Live Streaming Risk Assessment.
+Bridging Behavior and Semantics for Time-aware Cross-Domain Sequential Recommendation.
+Multi-Vector Index Compression in Any Modality.
+An Epistemic Position-Based Click Model: From Interactions to Epistemic Distributions of Relevance and Bias.
+DIGEST: Dynamic Graph Refinement with Dual Contrastive Semantic Transfer for Multimodal Recommendation.
+Learning from Natural Language Feedback for Personalized Question Answering.
+Aspect-Aware Content-Based Recommendations for Mathematical Research Papers.
+GNN-Based Item Indexing for LLM-Enhanced Recommendation.
+Tokens to Types: Context Editing with Selective Entity Abstraction for Grounded Generation.
+GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items.
+Mining Informative Interests via Latent Cross Reasoning for Search Enhanced Recommendation.
+TAR: Generative Auto-Bidding and Budget Pacing via Multi-Scale Trajectory Modeling.
+FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation.
+Mitigating Structural Overfitting: A Distribution-Aware Rectification Framework for Missing Feature Imputation.
+Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation.
+Uncertainty Quantification for Retrieval-Augmented Reasoning.
+Looking for the Bottleneck in Fine-grained Temporal Relation Classification.
+Consensus-Anchored Expansion for Noise-Resilient Re-ranking.
+Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience.
+Distribution-aware Re-representations for Multi-Scenario Recommendations.
+Beyond Exposure Diversity: Debiasing News Consumption With Topic-Locality Calibration and Personalized Preview Nudges.
+RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations.
+Cognitive Style Shapes Search Behaviours: An fNIRS Study of Exploratory Search.
+Bridging LLM Embeddings and VAE Parameters for Disentangled Recommendation.
+Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs.
+When More Reformulations Hurt: Avoiding Drift using Ranker Feedback.
+RegionSLM: Region-aware Question Answering on Document Screenshots.
+StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval.
+Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items.
+Large-Scale Online Learning for Generative List Recommendation in E-commerce: An Environment Policy Optimization Approach.
+RES-MR: Risk-Aware Reasoning for Explainable and Safe Medication Recommendation.
+Inductive Subgraphs as Shortcuts: Causal Disentanglement for Heterophilic Graph Learning.
+PLAID-PRF: Pseudo-Relevance Feedback with Centroid-like Tokens in PLAID.
+OPS: An Order-Preserving Sorting Network for Information Retrieval.
+Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG.
+HCPRA: A Hierarchical Cognition-Perception-Reasoning Agent Framework for Emotion-Cause Pair Extraction in Conversations.
+Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation.
+PurifAI: Detecting and Fixing Search-Induced Distortions in Web-Augmented LLMs.
+GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks.
+Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models.
+Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation.
+CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation.
+SmartSearch: Process Reward-Guided Query Refinement for Search Agents.
+Beyond Static Diffusion: Explicitly Modeling Temporal Patterns in Sequential Recommendation.
+SynDiSC: High-Quality Tabular Data Synthesis with Distributional and Semantic Consistency.
+Constructing Hard-Positive Query-Document Pairs for Dense Retrieval via Phrase Representativeness.
+From Existence to Exhaustiveness: Unveiling the Compounding Failures of LLMs in Multi-answer Event Temporal Reasoning.
+Modular Representation Compression: Adapting LLM Representations for Efficient and Effective Recommendation.
+When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation.
+Exploration-and-Thinking: Agentic Reasoning over Knowledge Graphs via an LLM-RL Synergized Framework.
+Debiased Recommendation Beyond the Positive Propensity Assumption.
+Adaptive Sparsity Optimization with Learnable Soft Top-K and Per-Term Thresholding for Efficient Retrieval.
+ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory.
+Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation.
+The Attention Market: Interpreting Online Fair Re-ranking as Manifold Optimization under Walrasian Equilibrium.
+Recursive Short-to-Long Generalization for Multi-hop Reasoning.
+Demand-Calibrated Facet Diversification with Deployable Soft Quotas for E-Commerce Search.
+SilverTorch: A Unified Model-based System to Democratize Large-Scale Recommendation on GPUs.
+Question-Adaptive Graph Learning for Multi-hop Retrieval Augmented Generation.
+ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment.
+Coupling Global Context with Kinematic Evolution for Sequential Recommendation.
+Adaptive Rich-kernelized Contrastive Learning for Capacity Enhancement in Collaborative Filtering.
+BEAR: Towards Beam-Search-Aware Optimization for Recommendation with Large Language Models.
+Mitigating Bias in Large Language Model Based Question Answering through Causal Front Door Prompting.
+GNN-based Anchor Embedding for Efficient Subgraph Retrieval.
+TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation.
+FAIR-RAG: An End-to-End Framework for Mitigating Political Bias through Fair Retrieval-Augmented Generation.
+Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation.
+Dual-Diffusional Generative Fashion Recommendation.
+mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA.
+NuggetIndex: Governed Atomic Retrieval for Maintainable RAG.
+AsarRec: Adaptive Sequential Augmentation for Robust Self-supervised Sequential Recommendation.
+Towards Mixed-Modal Retrieval for Universal Retrieval-Augmented Generation.
+Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search.
+TimelineReasoner: Advancing Timeline Summarization with Large Reasoning Models.
+FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction.
+Cohesive Group Discovery in Interaction Graphs under Explicit Density Constraints.
+Disentangling from Collaborative and Semantic Views: Graph Collaborative Filtering for Q&A Recommendation.
+Discrete Preference Learning for Personalized Multimodal Generation.
+Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval.
+CoMCo: Consistency-Aware Multi-Agent Coordination for Zero-Shot Cross-Modal Entity Matching.
+SSR: Structured Subgraph Retrieval for Temporal Knowledge Graph Question Answering with LLMs.
+DIAURec: Dual-Intent Space Representation Optimization for Recommendation.
+ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems.
+Generative Auto-Bidding with Unified Modeling and Exploration.
+Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems.
+Exploring Knowledge Conflicts for Faithful LLM Reasoning: Benchmark and Method.
+Agentic Spatio-Temporal Grounding via Collaborative Reasoning.
+Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning.
+DLLM-Searcher: Adapting Diffusion Language Model for Efficient Search Agents.
+Universal Item Tokenization for Transferable Generative Recommendation.
+FairSpec: Expert Specialization for Fair LLM-based Recommendation.
+Hypergraph Diffusion-Based Sequential Ensemble for CTR Prediction.
+Learning to Retrieve from Agent Trajectories.
+How Far Are We from Automatically Identifying Violations of the Data Minimization Principle in Privacy Policies?
+Spectral-Adaptive Adversarial Hashing for Robust Image Retrieval.
+Towards Conflict-aware Selective Knowledge Unlearning for Continual Few-shot Knowledge Graph Completion.
+Debiased Multimodal Personality Understanding through Dual Causal Intervention.
+Good Ranks Follow Good Answers: Unsupervised Answer-Driven Reranking for Multimodal Document QA.
+Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection.
+From Tokens to Concepts: Leveraging SAE for SPLADE.
+DCGL: Dual-Channel Graph Learning with Large Language Models for Knowledge-Aware Recommendation.
+LLM-Oriented Information Retrieval: A Denoising-First Perspective.
+Privacy Preserving Information Retrieval: Defining Privacy Research Pillars for a Future Research Agenda.
+Evaluation of Agents under Simulated AI Marketplace Dynamics.
+Information Seeking Behavior in LLM-Based RAG: Mental Models and Missing Information.
+Towards a Relevance Posterior in Neural Information Access.
+Towards Inclusive Retrieval-Augmented Generation: Challenges and Opportunities for Cognitively Impaired Users.
+Deletion Isn't Enough: Auditing RAG for Selective Forgetting.
+Evaluation Validity in Information Retrieval.
+Analytical Search.
+Stop Using the Wilcoxon Test: Myth, Misconception and Misuse in IR Research.
+Rethinking Semantic-Collaborative Integration: Why Alignment Is Not Enough.
+Towards a General Intelligent Information Agent: Framework, Models, and Evaluation.
+Are LLM-Based Retrievers Worth Their Cost? An Empirical Study of Efficiency, Robustness, and Reasoning Overhead.
+A Reproducibility Study of Bundle Editing and Bundle Recommendation.
+Can QPP Choose the Right Query variant? Evaluating Query Variant Selection for RAG Pipelines.
+A Reproducibility Study of LLM-Based Query Reformulation.
+The Relevance of (Relevant) Entity Presence.
+Where Relevance Emerges: A Layer-Wise Study of Internal Attention for Zero-Shot Re-Ranking.
+Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models.
+Mind the Metric: Reproducibility and Fair Benchmarking of Spectral Graph Models for Collaborative Filtering.
+Reproducing Complex Set-Compositional Information Retrieval.
+Hypencoder Revisited: Reproducibility and Analysis of Non-Linear Scoring for First-Stage Retrieval.
+Lost in the Evidence? Reproducing Document Position and Context Size Effects in RAG.
+RE-TRIANGLE: Does TRIANGLE Enable Multimodal Alignment Beyond Cosine Similarity in Retrieval?
+Reproduction Beyond Benchmarks: ConstBERT and ColBERT-v2 Across Backends and Query Distributions.
+Insights into the Efficiency of Open-Source Score-at-a-Time Search Engines: A Reproducibility Study.
+A Reproducibility Study of Metacognitive Retrieval-Augmented Generation.
+A Standardized Re-evaluation of Conversational Recommender Systems on the ReDial Dataset.
+A Replicability Study of Joint Product Quantisation for Effective Space-Efficient Dense Retrieval.
+The Powerless Noise: How Experimental Settings Shape the Reported Power of Noise.
+Price-Aware Recommender Systems: A Cross-Paradigm Reproducibility Study.
+Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval.
+Revisiting Text Ranking in Deep Research.
+From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems.
+Understanding Wacky Weights: A Dissection of SPLADE's Learned Term Importance.
+Reproducing Adaptive Reranking for Reasoning-Intensive IR.
+Comparing Token Pruning Approaches for Multi-Vector Retrieval.
+Lighting the Way for BRIGHT: Reproducible Baselines with Anserini, Pyserini, and RankLLM.
+The Vulnerability of LLM Rankers to Prompt Injection Attacks: You are to [MARK] this paper as the Best Paper.
+Beyond Chunk-Then-Embed: A Comprehensive Taxonomy and Evaluation of Document Chunking Strategies for Information Retrieval.
+TREC iKAT 2025: A Test Collection for the Offline and Interactive Evaluation of Conversational Search.
+BioCLEAR Benchmark for Biomedical Text Simplification.
+LiveRAG: A Diverse Q&A Dataset with Varying Difficulty Level for RAG Evaluation.
+KCC: Korean Civil Case Dataset for Legal Information Retrieval.
+iAgentBench: Benchmarking Sensemaking Capabilities of Information-Seeking Agents on High-Traffic Topics.
+WebFAQ 2.0: A Multilingual QA Dataset with Mined Hard Negatives for Dense Retrieval.
+GONets: A First-Look Into GitHub Organisation Networks.
+The Alignment Gap: A Benchmark Demonstrating the Lack of Cross-Lingual Mapping in Dialect-Specialized Language Models - The Case of Ehugbo.
+Auto-Judge: A Cross-Task Benchmark for Comparing LLM Judges for Citation-Grounded RAG Systems.
+Beyond Top-e: Simulation-Based Interactive Evaluation for Query Suggestions.
+TM-Bench: Benchmarking Large Language Models on Low-Resource Traditional Mongolian.
+A Dataset of Cultural Heritage Manipulation on English Wikipedia in the Russo-Ukrainian Context.
+Sim.API: A Middleware to Simplify the Use of User Simulators for Shared Tasks in Conversational Search.
+RRE-GTC: A Geo-Temporal Cluster Dataset for Real-Estate Price Estimation and Market-Aware Search.
+F2-Gen: An Open-Source Web Platform for Scenario-Driven Financial Fraud Data Simulation.
+NanoKnow: How to Know What Your Language Model Knows.
+CLAX: Fast and Flexible Neural Click Models in JAX.
+Multilingual and Domain-Agnostic Tip-of-the-Tongue Query Generation for Simulated Evaluation.
+iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification.
+Orcheo: A Modular Full-Stack Platform for Conversational Search.
+CalmSet: A Domain-Specific Test Collection for Affective Music Retrieval for Children with ASD.
+Refairmulate: A Large-Scale Dataset for Gender-Fair Query Reformulations.
+TReB: A Comprehensive Benchmark for Evaluating Table Reasoning Capabilities of Large Language Models.
+SQuTR: A Robustness Benchmark for Spoken Query to Text Retrieval under Acoustic Noise.
+Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery.
+Beyond Maintenance: A Benchmark and Multi-Agent Framework for Repository-Usage Code Generation.
+OpeNTF2: Fairness-aware Graph Neural Team Formation.
+ERASE - A Real-World Aligned Benchmark for Unlearning in Recommender Systems.
+A Sensitivity-Aware Test Collection for Search Among Personal Information.
+A Taxonomy and Catalog of SERP Elements Across Web Search Engines.
+NERBench-Chhattisgarh: A Multi-Family NER Dataset for Low-Resource Indic Languages.
+WebMall - A Multi-Shop Benchmark for Evaluating Web Agents.
+R&F-Inventory: A Large-Scale Dataset for Monotonic Inventory Estimation in Reach and Frequency Advertising.
+KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation.
+Total Recall QA: A Verifiable Evaluation Suite for Deep Research Agents.
+CTCL: A Cross-Language Benchmark for Matching Patients to Clinical Trials.
+PeerPrism: Peer Evaluation Expertise vs Review-writing AI.
+CoverageBench: Evaluating Information Coverage across Tasks and Domains.
+Content-Based Dataset Knowledge Graphs for Dataset Search.
+SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation.
+JFinTEB: Japanese Financial Text Embedding Benchmark.
+CommonWhy: A Dataset for Evaluating Entity-Based Causal Commonsense Reasoning in Large Language Models.
+MIRA: An LLM-Assisted Benchmark for Multi-Category Integrated Retrieval.
+SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits.
+The Wikidata Query Logs Dataset.
+Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation.
+FinAuditing: A Financial Taxonomy-Structured Multi-Document Benchmark for Evaluating LLMs.
+From Single- to Cross-Document: Benchmarking Multi-Granularity Event Analysis of Large Language Models.
+Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries.
+DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent.
+AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment.
+A Sketch+Text Composed Image Retrieval Dataset for Thangka.
+EVADE-Bench: Multimodal Benchmark for Evaluating and Enhancing Evasive Content Detection.
+WeatherArchive: A Benchmark for Retrieval-Augmented Reasoning over Historical Weather Archives.
+AgentSim: A Platform for Verifiable Agent-Trace Simulation.
+IIRSim Studio: A Dashboard for User Simulation.
+SimEval-IR: A Unified Toolkit and Benchmark Suite for Evaluating User Simulators and Search Sessions.
+Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment.
+QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors.
+TEC: A Collection of Human Trial-and-error Trajectories for Problem Solving.
+Does LLM Relevance Labelling Work for Arabic?
+The Matryoshka Hypencoder.
+Learning to Reason for Multi-Step Retrieval of Personal Context in Personalized Question Answering.
+Diagnosing LLM Reranker Behavior Under Fixed Evidence Pools.
+Modalities of Expert Search: How Users Transition Between Names and Topics.
+ZIPBid: Hierarchical Zero-shot Incremental Spend Planning for Auto-bidding.
+Mitigating Collaborative Semantic ID Staleness in Generative Retrieval.
+Learning Evidence of Depression Symptoms via Prompt Induction.
+Retrieval-Augmented Contrastive Learning for Dynamic Graph Anomaly Detection.
+Retrieval-Augmented Contrastive Learning for Knowledge Tracing.
+One Pass, Any Order: Position-Invariant Listwise Reranking for LLM-Based Recommendation.
+Load-sensitive Selective Pruning in Dense Retrieval.
+Scalable K-Means Guided Partitioning for Block-based Sparse Document Retrieval.
+PrepRet: Automated Data Preparation Pipeline Selection for Neural Retrieval.
+Partial Label Learning-Inspired Denoising Implicit Feedback for Recommendation.
+From Continuous Pretraining to Domain-Adaptive Reranking via Task Vector Adaptation.
+Reformulating Post-Training as Matrix Factorization for Joint Embedding Refinement.
+Delay-Aware Sequential Recommendation with Dynamic Graphs and Variate-Temporal Decomposition.
+FEDIN: Frequency-Enhanced Deep Interest Network for Click-Through Rate Prediction.
+FAST-MEL: A Fast, Accurate, and Storage Efficient Solution for Multimodal Entity Linking.
+RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation.
+Too Many Questions: Deriving Concise and Effective Nugget Banks.
+APR: Adaptive Personalised Reranking For Conversational Search.
+Booking Funnel and Substitution-Aware User Behavior Modeling for Demand Prediction and Joint Room Pricing.
+ExODRec: An Explainable Framework for Outlier Detection Model Recommendation.
+Reinforcing User Interest Evolution in Multi-Scenario Learning for recommender systems.
+How Fine-Grained Should a RAG Benchmark Be? A Hierarchical Framework for Synthetic Question Generation.
+Confidence-Based Stopping Methods for Systematic Reviews.
+Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory.
+Query Performance Prediction under Corpus Growth in Dense Retrieval.
+Humans, LLMs, and Measures Do Not Align in Attributed Information Retrieval.
+On the Robustness of LLM Re-Rankings.
+TDHGNN: A Temporal Directed Hypergraph Neural Network for Bitcoin Fraud Detection.
+EviRAG: Evidence-Guided Retrieval-Augmented Generation for Medical Vision-Language Models.
+MSW-NTM: A Spherical Wasserstein Autoencoder for Multimodal Neural Topic Modeling with LLM-Guided Topic Refinement.
+Attend to Fragments: How Key Information Affects Large Language Models for Factual Inconsistency Detection.
+Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data.
+Towards Emotional Intelligence in Conversational AI: How Well Can LLMs Recognise Emotion in Conversations?
+A Multi-Granularity Game-Theoretic Approach to Weakly Supervised Temporal Article Grounding.
+Failing Forward: Understanding Query Failure in Retrieval, Judgment, and Generation.
+RCLRec: Reverse Curriculum Learning for Modeling Sparse Conversions in Generative Recommendation.
+Optimal Re-Ranking Depth.
+Query-Aware Context Selection for Retrieval-Augmented Generation.
+Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation.
+Revisiting BM25 Feedback Models using HyDE.
+Every Preference Has Its Strength: Injecting Ordinal Semantics into LLM-Based Recommenders.
+Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation.
+Unifying On- and Off-Policy Variance Reduction Methods.
+Efficient Query Region Expansion and Decomposition based Spatial Range Query Algorithm.
+An Asymmetric-difference based Document Exact Similarity Search Algorithm.
+HuffmanEmbed: Using Huffman Coding for Embedding Table Compression in Deep Learning Recommendation Models.
+MuPP: Multi-Preference Padding for Sequential Recommendation.
+Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging.
+Named Entity-Driven Graph Smoothing to Enhance Pretrained Document Embeddings in Clustering Tasks.
+LTRR: Learning To Rank Retrievers for LLMs.
+An Analysis of Attribute Utilization in Side Information-integrated Sequential Recommendation.
+ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation.
+REMICA: Reflective Memory and Interventional Context Alignment with Multi-Agent LLMs for Inappropriate Utterance Detection.
+Revisiting the Role of Learned Attention Weighting in SASRec.
+ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation.
+Semantic Recall for Vector Search.
+GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching.
+ACE: Anisotropy-Controllable Embedding for LLM-enhanced Sequential Recommendation.
+PEARL: Profile-based Explainable Agent for Edge LLM Recommendation via Latent Decomposition.
+Answer First, Evidence Second? Uncovering Hidden Risks in Well-Structured AI Search Summaries.
+Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems.
+Spectral Tempering for Embedding Compression in Dense Passage Retrieval.
+Equip Pre-ranking with Target Attention by Residual Quantization.
+Auditing Query Drift: Do Users Actually Benefit from Pseudo-Relevance Feedback?
+LUMI: Unsupervised Intent Clustering with Multiple Pseudo-Labels.
+WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation.
+Is a Busy Search Agent a Good One? Overthinking and Overretrieval at Scale.
+HALO: Hyperbolic Adaptation via Lift Overlay for Hierarchy-Aware Cross-Modal Retrieval.
+Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing.
+Cross-Sensory Comparison of EEG Signals for Brain-Based Information Retrieval.
+Sparse Contrastive Learning for Content-Based Cold Item Recommendation.
+Revisiting Poison Pills for Neural Information Retrieval.
+Targeted Parameter Selection for Rank-Biased Measurement.
+Context Convergence Improves Answering Inferential Questions.
+Pretraining Exposure Explains Popularity Judgments in Large Language Models.
+Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval.
+RankEvolve: Automating the Discovery of Retrieval Algorithms via LLM-Driven Evolution.
+StAR: Adaptive Structure-Aware Reranking for Semantic-Structural Alignment in GraphRAG.
+L2Rec: Towards Dual-View Understanding of LLMs for Personalized Recommendation.
+CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation.
+Better than Dense? Investigating the Natural Backward Compatibility of Learned Sparse Representations.
+CoCo: Conformal Confidence Suppression to Optimize Search Results.
+Reward Shaping for Robust Refusal in Small Language Models for Retrieval-Augmented Question Answering.
+Temporal User-Agnostic Ranking: Detecting Preference Evolution while Preserving Ethical Principles.
+Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation.
+When Context Bites: Detecting RAG Poisoning via Document-Level Attention Collapse.
+BANANA: Bounded Adaptive Navigation Architecture for Nested Archives.
+Mine over Yours: How Authorship Biases Evaluation in Generative Information Retrieval.
+When RAG Disagrees: Detecting Latent Epistemic Conflict via Logit Interactions.
+LearnDCG: End-to-End Joint Optimization of Ranker and Loss in Neural Ranking.
+G-CoS: An Interpretable Gain-Cost Framework for User Satisfaction Estimation in Generative Information Retrieval.
+From Raw Features to Effective Embeddings: A Three-Stage Approach for Multimodal Recipe Recommendation.
+BeLink: Biomedical Entity Linking Meets Generative Re-Ranking.
+Numerical Hallucinations in Retrieval-Augmented Generation: Detection and Analysis.
+Who Is Shopping With You? How Persona Design Shapes Cognitive and Social Engagement in AI Shopping Agents.
+Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion.
+AdversarialCoT: Single-Document Retrieval Poisoning for LLM Reasoning.
+DisCoRec: Disentangled Conformity-aware Recommendation with LLM-Guided Multi-View Learning.
+SAGE: Solver-Aligned Guided Exploration.
+The LLM Effect on IR Benchmarks: A Meta-Analysis of Effectiveness, Baselines, and Contamination.
+Enhancing Judgment Document Generation via Agentic Legal Information Collection and Rubric-Guided Optimization.
+HE-DeepFM: An FHE Inference System for CTR Prediction with Efficient FM Interactions.
+Learning to Route Queries to Heads for Attention-based Re-ranking with Large Language Models.
+RQ-GMM: Residual Quantized Gaussian Mixture Model for Multimodal Semantic Discretization in CTR Prediction.
+Same Image, Different Meanings: Toward Retrieval of Context-Dependent Meanings.
+A Graph-Enhanced MLLM for Hierarchical Multimodal Emotion Understanding and Support in Conversations.
+Automating Generation of Long-Form Queries.
+Clustering-Based Methods for Vector-Based Pseudo-Relevance Feedback.
+PeaCap: Patch-Level Retrieval for Lightweight Retrieval-Augmented Image Captioning.
+Teaching Small Models When Not to Call Functions: Structured Reasoning for Tool Refusal in Low-Resource Languages.
+Selective Distillation for Continual Named Entity Recognition with Memory Replay.
+Not All Imputations are Trustworthy: An Uncertainty-aware Multi-modal Entity Alignment Framework.
+SocialDropout: Dynamic Agent Dropout for Social Simulation.
+CSyMR: Benchmarking Compositional Music Information Retrieval in Symbolic Music Reasoning.
+MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG.
+Negotiating the Punchline: Contextual Meme Understanding via Discrete Semantic Energy Minimization.
+EvoMem: Timeline-Grounded Validity Adjudication for Non-Monotonic Multi-Agent Memory.
+Understanding DNNs in Feature Interaction Models: A Dimensional Collapse Perspective.
+One-Pass Decoding for Generative Recommendation with WFST-Constrained A* Search.
+Differentiable Dual Anchor Negative Sampling for Graph-based Recommendation.
+Towards Unified Affective Reasoning via In-Context Reinforcement Learning.
+Efficient Memory Alignment for Long-term Conversational Information Seeking.
+LACONIC: Dense-Level Effectiveness for Scalable Sparse Retrieval via a Two-Phase Training Curriculum.
+ColBERTSaR: Sparsified ColBERT Index via Product Quantization.
+CRED: Calibrated Relational Enhanced Distillation for LLM-Based Pointwise Reranking.
+Exploring and Improving Cross- and Multi-Domain Personalized Question Answering via a Dual Retrieval Augmentation Approach.
+When LLM Judges Inflate Scores: Exploring Overrating in Relevance Assessment.
+Follow the TRACE: Exploiting Post-Click Trajectories for Online Delayed Conversion Rate Prediction.
+GATHER: Convergence-Centric Hyper-Entity Retrieval for Zero-Shot Cell-Type Annotation.
+Simulating the Lateral Reader for News Trustworthiness Reports with an Iterative Multi-Agent RAG System.
+RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation.
+ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval.
+Separating Wheat from Chaff: Fine-Grained Defenses Against Poisoning in Multi-Perspective RAG.
+M-DaQ: Retrieving Samples with Multilingual Diversity and Quality for Instruction Fine-Tuning Datasets.
+Prototype-Calibrated Graph Prompting for Few-Shot Graph Adaptation.
+Latent Retrieval Augmented Generation.
+Calibrating Uncertainty with Cross-Model Consistency for LLM Hallucination Mitigation.
+SCORE-RAG: Self-Correcting Exploration-Exploitation Retrieval for Multi-hop Question Answering.
+Why Knowledge Distillation Fails to Scale in Neural Retrieval.
+LLM-based Semantic and ID Representations for Sequential Recommendation.
+GraphSynthQA: Knowledge-Graph-Guided Query Synthesis and Step-Level Preference Optimization for Web Agents.
+Beyond Unimodal Perspectives: Generative Retrieval with Multimodal Semantics.
+Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning.
+Layer-wise Token Compression for Efficient Document Reranking.
+Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study.
+How Trendyol Enables Trustworthy A/B Testing at E-Commerce Scale Through Integrated Statistical Methodologies.
+Cross-Category Basket Recommendation via Transactional Debiasing and Graph Propagation.
+Negative Data Mining for Contrastive Learning in Dense Retrieval at IKEA.com.
+jina-embeddings-v5-text: Compact and Robust Text Embedding Models using Task-Targeted Distillation.
+Beyond Semantic Similarity: Explicit Intent Modeling for Query-Product Matching.
+From Doxa to Logos in Scientific Peer Review.
+HybridSparse: An End-to-End Hybrid Framework for Efficient Large-Scale Retrieval.
+LLM Agents Factory: Retrieval of Domain-Specific LLM Agents.
+CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation.
+Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation.
+BERT-Based Cross-Encoder for Large-Scale Engagement Prediction and Re-ranking in Walmart Search Engine.
+Reasoning-Grounded Intent Injection for Generative Recommendation.
+MMRM: A Multiplex Multimodal Representation Model for Product Ranking in E-commerce Search.
+RAD-DPO: Robust Adaptive Denoising Direct Preference Optimization for Generative Retrieval in E-commerce.
+Joint Optimization of Relevance and Engagement in Multi-Task Ranking for E-Commerce with Efficient LLM Supervision.
+Probe-then-Plan: Environment-Aware Planning for Industrial E-commerce Search.
+RAG-Enhanced Large Language Models for Dynamic Content Expiration Prediction in Web Search.
+When & How to Write for Personalized Demand-aware Query Rewriting in Video Search.
+Bridging the Gap: An End-to-End Framework for Decoupled Alignment in Dynamic Semantic ID Generation.
+Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments.
+CMSL: Constructive Multi-Sequence Learning for Recommendation Systems.
+Learning to Forget: Satiation-Aware Long-Sequence Transducers for Mitigating Post-Purchase Redundancy.
+Unified Supervision for Walmart's Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling.
+Behavioral Feature Boosting via Substitute Relationships for E-commerce Search.
+Full Retraining, Incremental Fine-tuning, and Hybrid Serving: Model Updating and Serving for Industrial Generative Recommender Systems.
+Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation.
+RedGR: Unified Generative Retrieval for Recommendation in REDnote.
+LLM-Informed Bayesian Content Exploration in Ultra-Recency Recommendation.
+Agentic Query Reformulation for Contextualized Hyper-Personalized Product Search.
+Next Interest Flow: A Generative Pre-training Paradigm for Recommender Systems by Modeling All-domain Movelines.
+All the News That Fits in Bits: Learned Rotation-Aware Binary Projections for Efficient News Retrieval at NDTV.
+What's in a Name? Product Normalization for Enterprise RAG at NetApp.
+Surface-Form Neural Sparse Retrieval: Robust Fuzzy Matching for Industrial Music Search.
+Request-Only Optimization for Recommendation Systems.
+Population-Guided Intent-Aware Query Rewriting for Web Search.
+CSMAD: Hallucination Detection via Multi-Agent Debate with NLI-Verified Contradictory Statements.
+Calibrate Your Items! Train CTR Models in Two Steps for Robust Recommendations.
+Don't Contrast the Impossible: Region-Constrained Batching for Contrastive User Modeling on a Local Community Platform.
+A Cascaded Generative Approach for e-Commerce Recommendations.
+MedNQS: Medical State-Aware Dual-Stage Next-Turn Question Suggestion for Online Medical Consultations.
+Gesture Clustering for Real-Time User Disentanglement in Shared-Account Recommendation.
+PCANet: Price Change Aware Framework for Mitigating Inconsistencies in Large-Scale Ranking Systems.
+SkyDistill: Navigating Fuzzy Flight Search Ranking via Precise Intent Distillation.
+Effective Offline LLM and DNN based Matching, Filtering and Ranking for Search Ads Retrieval in E-Commerce.
+Bridging Passive and Active: Enhancing Conversation Starter Recommendation via Active Expression Modeling.
+ReST: A Plug-and-Play Spatially-Constrained Representation Enhancement Framework for Local-Life Recommendation.
+A Cost-Efficient AI Copilot for High-Volume E-commerce Customer Support.
+Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices.
+PersonaPlugin: A Multi-Source Persona Framework for LLM Personalization in Telecommunications.
+Domain-Specific Reranking: When is Adaptation Worth the Cost?
+From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations.
+Constraint Persistence in Conversational Product Search.
+LLM-Click Agreement: Harmonizing Implicit Feedback and Semantic Judgments for Enterprise Search.
+Precision at Scale: An End-to-End Graph-based Framework for Mitigating Network Interference in TikTok A/B Tests.
+Generative Enhanced Modeling: A Collaborative Framework for Enhancing User Representations via Semantic ID.
+SID-Coord: Coordinating Semantic IDs for ID-based Ranking in Short-Video Search.
+User Activity Modeling under Inflated Distribution.
+Synthetic Data Powers Product Retrieval for Long-tail Knowledge-Intensive Queries in E-commerce Search.
+Fast and Faithful: Real-Time Verification for Long-Document Retrieval-Augmented Generation Systems.
+Enhancing Multi-Valued Treatment Uplift Modeling with Knowledge Sharing and RCT Data.
+SkillForge: Forging Domain-Specific, Self-Evolving Agent Skills in Cloud Technical Support.
+SOLARIS: Speculative Offloading of Latent-bAsed Representation for Inference Scaling.
+SAER: Scalable Assessment of E-commerce Recommendations using Large Language Models.
+JARVIS: An Evidence-Grounded Retrieval System for Interpretable Deceptive Reviews Adjudication.
+Improving Dating Outcomes by Predicting for Conversations at Hinge.
+Building a Production Shopping Agent at Scale.
+When Search Is Not Enough: Ranking Content for Query-Less Browse Surfaces.
+Bridging the Topology-Semantic Gap: A Benchmark and Framework for Power Grid Work Ticket Generation.
+Gated Bidirectional Linear Attention for Generative Retrieval.
+From Queries to Playlists: An LLM-Driven Architecture for Semantic Music Search at Scale.
+Policy-Guided RAG: Enforcing Verbatim and Controlled Synthesis.
+Automated Feature Lifecycle Management in Large-Scale Continual Ranking Systems.
+Enhancing Enterprise Assistant Responses with Rich Multimodal Artifacts from Product Documentation.
+Variance Reduction for Heavy-Tailed Monetization Metrics in Ranking Experiments via Post-Stratification.
+Pin-SCALE: Semantic Cascading and Alignment Learning for Engagement-Aware IDs in Cold-Start Recommendations.
+Unifying User Satisfaction and Creator Incentive: A Constrained Optimization Framework for Short-Video Recommendation.
+Financial Transaction Retrieval and Contextual Evidence for Knowledge-Grounded Reasoning.
+COMET: Compatibility-Oriented Multi-modal Embedding Transformer for Visual Recommendations.
+Scalable Multi-vector Retrieval for Policy Enforcement on E-commerce Marketplaces.
+RAPO: Reason-Aware Preference Optimization for Factual Table Question Answering over Structured Data.
+NBA-Net: Next-Behavior-Aware Network for Intent Recommendation.
+BEATS: Bootstrapping E-commerce Attribute Taxonomies for Search through Iterative Human-AI Collaboration.
+Preliminary Study of an Evaluation Benchmark for Vision-Language Models in Fashion E-Commerce.
+Fast and Feasible: Permutation-based Constrained Reranking for Revenue Maximization.
+Efficient Multi-Cohort Inference for Long-Term Effects and Lifetime Value in A/B Testing with User Learning.
+Beyond Fluency: Toward Reliable Trajectories in Agentic IR.
+Beyond Item IDs: Scaling Short-Form-Video Recommendation via Semantic-Native Long Sequence Modeling.
+PGSF: Profile-Guided Semantic Fusion for Decoupled Industrial Pre-Ranking.
+OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation.
+KARMA: Knowledge-Action Regularized Multimodal Alignment for Personalized Search at Taobao.
+Breaking the Relevance-Diversity Seesaw: Hierarchical LLM Reasoning with RL for Industrial Novelty Recommendation.
+Cheaper is Better: A Discount-Aware Network for Conversion Rate Prediction in E-commerce Recommendation System.
+SECRET: SEarch query Classification with label RETrieval.
+As It Was: Aligning LLM Search Evaluation with Historical User Preferences.
+Localization Boosting for Growth Markets: Mitigating Cross-Locale Behavioral Bias in Learning-to-Rank.
+What Gets Cited: Competitive GEO in AI Answer Engines.
+Query-Attention Dual-Stream Framework with Cross-Category Transfer for Efficient Fine-Grained Interest Pre-Ranking.
+Bridging the Gap: Generative Retrieval via Query-to-Multi-Span Framework for Effective E-commerce Search.
+STAR: Staged Training with Aligned Reinforcement Learning and Multi-Faceted Distillation for Interpretable E-commerce Relevance.
+CS3: Efficient Online Capability Synergy for Two-Tower Recommendation.
+WeSEAL: Well-calibrated Search for Eliminating Attention-sink Leakage.
+DIVER: Unlocking Diversity in Ad Headline Generation with Large Language Models.
+Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer.
+TRACE: Term-level Reasoning And Chain-of-thought Enhanced distillation for E-commerce Multi-modal Relevance Learning.
+Cross-Domain Preference Transfer for Promoting Engagement with Built-in Chatbots.
+Learning to Trust: Dynamic Utilization of Retrieval-Augmented Generation for E-commerce Search Relevance.
+Policy-Grounded Dynamic Facet Suggestions for Job Search.
+Unified Semantic Modeling Framework for Large-Scale Job Understanding at LinkedIn.
+Learning to Summarize for Search Relevance with Reinforcement Learning.
+Efficient LLM Adaptation for Opinion Knowledge Graph Construction: Lessons from the Telecom Industry.
+Scaling and Stabilizing Large-Scale Embedding-Based Retrieval.
+SCOPE: Scalable Cross-Task Orthogonal Progressive Experts for Multi-Task Learning in Recommendations.
+DPEO: Dynamic Preference Evolution Optimization for Self-Evolving CTR Prediction.
+AIPO: Adaptive Anchored Intent-aware Policy Optimization for Generative Recommendation.
+SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress.
+Code-Based English Models Reveal Surprising Performance on Chinese QA Pair Extraction Task.
+GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce.
+Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising.
+LiBRA: Enhancing Live-streaming Recommendation with Bigraph-based Capacity-aware Ranking Approach.
+RecGPT-Mobile: On-Device Large Language Models for User Intent Understanding in Taobao Feed Recommendation.
+OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation.
+M²GR: Generative User Interest Modeling via Multi-Granularity Multi-Objective CoT for Industrial Recommendation.
+Cross-Stage Signal Propagation for Negative Filtering in Multi-Stage Ad Delivery.
+LLM-Enhanced Topical Trend Detection at Snapchat.
+A General Framework for Multimodal LLM-Based Multimedia Understanding in Large-Scale Recommendation Systems.
+From Unstructured to Structured: LLM-Guided Attribute Graphs for Entity Search and Ranking.
+GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation.
+Item-Targeting with Keyword Enhancement: A Hybrid Approach to Ads Targeting.
+TRACE: A Conversational Framework for Sustainable Tourism Recommendation with Agentic Counterfactual Explanations.
+IR Lens: A Tool for Interpreting Cross-Encoder Models.
+Labadain Chat: A Conversational Agent for the Tetun Language.
+SOMIN: Agentic AI for Automating Professional Visibility and Countering Content Homogenization.
+C3Flow: SIMD-Style Concurrent Claude Code Workflow for Scaling Deep Research.
+MCP Servers for Pyserini and RankLLM: Enabling Agentic Retrieval-Augmented Generation.
+Peerispect: Claim Verification in Scientific Peer Reviews.
+ATVG: Agentic System for Factually Grounded Travel Advertisement Video Generation.
+MonacGraph: A Monadic Second-Order Logic Extended Graph Database System with Community-Aware Storage.
+MuseKG: An Interactive Knowledge Graph Over Museum Collections.
+XFoodRec: An Explainable Mobile Recommender for Personalized Healthy Eating.
+RecNextEval: A Reference Implementation for Temporal Next-Batch Recommendation Evaluation.
+H-MAPS: Hierarchical Memory-Augmented Proactive Search Assistant for Scientific Literature.
+SLeDoC: System for Legal Document Comparison.
+A Demonstration of WikiRAG: An Evidence-based Link Prediction for Wikidata with Retrieval Augmented Generation.
+FactOWL: A Cost-Efficient Tool for Long-Form Factuality Evaluation.
+T-RADAR: Simulating Trademark Examination as an Interactive Retrieval Interface for Conflict Risk Assessment.
+MathMex-PDF: Towards Accessible Visual Mathematics.
+ESCOMIC: User Adaptive Explainable Search for Comic Books.
+WISE: A Multimodal Search Engine for Visual Scenes, Audio, Objects, Faces, Speech, and Metadata.
+Auto-ARGUE: LLM-Based Report Generation Evaluation.
+PatentMerit: A Holistic System for In-depth Technology Understanding.
+Visual RAG at Scale: Tile-Level Spatial Pooling for Efficient Multi-Vector Document Retrieval.
+EasyRAG: A Beginner-Friendly and Interactive Framework for Retrieval-Augmented Generation.
+Towards Building a Standard Benchmark for Low-Resource Nepali Information Retrieval.
+From Translation to Retrieval: Evaluating LLM-Based Information Retrieval for Hausa and Fongbe.
+Speak Beyond English: Multilingual Prompts Improve Query Classification in Small Language Models.
+Bridging the Language Gap in Text-to-SQL: Adapting LLMs for Chichewa in a Low-Resource Setting.
+Toward a Telugu Question Answering Dataset for Agricultural IR to Serve Marginal Farmers in Drought-Prone Rayalaseema: A Gap Analysis and Roadmap.
+Improving Amharic Information Retrieval with Translative and Multi-Agent Debate Retrieval Augmented Generation.
+Local Information Access in Marathi: Evaluating LLM-Native Web Retrieval in a Low-Resource Environment.
+Graph-Enhanced Sentence Retrieval for Multi-Document Summarization in Low-Resource Languages.
+Detectability and Evaluation Risks of LLM-Generated Answers in Low-Resource Swahili Agricultural Information Retrieval.
+Retrieval for User-Centered Translation: Lessons from RAG-based Tools for Low-Resource Domains.
+Morphology-Aware Retrieval for Low-Resource Environments: Advancing Information Retrieval for Shona Language.
+Offline-First Information Retrieval for Curriculum-Aligned STEM Resources in Low-Resource Namibian Schools.
+ViCSR: A Large-scale Benchmark and Lightweight Two-Stage Framework for Vietnamese Case-to-Statute Retrieval.
+Building Foundations for Information Retrieval in Extremely Low-Resource Ethnic Languages: Evidence from Tanzania.
+From Lab to Reality: An Eye-tracking Study of How Users are Influenced to Search in the Era of GenAI.
+Towards Evidence-Aware Retrieval and Verification for Scientific Fact-Checking.
+Evaluating Proactivity in Conversational Search through Anticipatory Retrieval.
+Adaptive Personalisation for Effective Conversational Search Systems.
+Faithful LLM-Assisted Question Answering for Technical and Academic Search.
+User Search Behavior and Knowledge Effects in Hybrid Search Environment.
+Efficient Continual Adaptation of Generative Retrieval Systems over Dynamic Corpora.
+Towards Structurally Robust Cross-Device Federated Recommendation.
+How Should Multimodal Information Be Chunked for Complex Question Answering?
+LLMs as Search Engine Components and Users: Infrastructural Adaptations to a Dual Transformation.
+Characterising the Effects of Social Conformity on Information Seeking in Mixed Human-AI Environments.
+Topology-Conditioned Weak Supervision for Scientific Retrieval.
+MANILA26: SIGIR 2026 Tutorial on Information Retrieval for Climate Change Impact.
+Transdisciplinarity for Human Information Interaction and Retrieval: Strategies for Collaborating across Research Disciplines to Foster Societal Impact.
+Trustworthy Personalized Retrieval in the LLM Era: Fairness, Bias Awareness, Privacy, and Multimodality.
+Reasoning for IR & IR for Reasoning.
+Bridging Personalization and AI: From RAG to Agent.
+Verifiable User Simulation for Search and Recommendation Systems.
+Retrieve, Rerank, Answer, Experiment: Hands-On IR Research with PyTerrier.
+Temporal Information Retrieval and Extraction: From Foundations to RAG.
+Multi-Agentic Recommender Systems: Foundations, Perspectives, and Lessons from Large Scale Deployments in eCommerce.
+Beyond Relevance: Utility-Centric Retrieval in the LLM Era.
+LLM Personalization: Foundations, Breakthroughs, and Frontiers.
+SIGIR 2026 Workshop on eCommerce (ECOM26).
+Second Workshop on Explainability in Information Retrieval.
+The 10th Workshop on Search-Oriented Conversational Artificial Intelligence (SCAI'26).
+ReNeuIR at SIGIR 2026: The Fifth Workshop on Reaching Efficiency in Neural Information Retrieval.
+SynthIR: The First Workshop on Synthetic Content in Information Retrieval Ecosystems.
+Justice, Emancipation, Democracy, and Information Access (JEDI): The SIGIR Workshop on Resisting Corporate and Authoritarian Capture of Information Access Platforms.
+VulGen: Workshop on Vulnerabilities in Generative Systems for Information Retrieval.
+AgentSearch: Indexing, Retrieval, and Ranking of AI Agents.
+LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation.
+The Second Workshop on Evaluation of Multimodal Generation.

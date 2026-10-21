@@ -1,0 +1,677 @@
+Proceedings of the 32nd ACM International Conference on Information and Knowledge Management, CIKM 2023, Birmingham, United Kingdom, October 21-25, 2023.
+Interpretable Natural Language Understanding.
+Generative AI and the Future of Information Access.
+Knowledge Graphs for Knowing More and Knowing for Sure.
+Optimizing for Member Value in an Edge Building Marketplace.
+Combining Inductive and Deductive Reasoning for Query Answering over Incomplete Knowledge Graphs.
+CLosER: Conversational Legal Longformer with Expertise-Aware Passage Response Ranker for Long Contexts.
+GripRank: Bridging the Gap between Retrieval and Generation via the Generative Knowledge Improved Passage Ranking.
+MPMRC-MNER: A Unified MRC framework for Multimodal Named Entity Recognition based Multimodal Prompt.
+Deep Integrated Explanations.
+GraphERT- Transformers-based Temporal Dynamic Graph Embedding.
+Faster Approximation Algorithms for Parameterized Graph Clustering and Edge Labeling.
+Relevance-based Infilling for Natural Language Counterfactuals.
+Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer.
+Multi-modal Mixture of Experts Represetation Learning for Sequential Recommendation.
+CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning.
+Enabling Health Data Sharing with Fine-Grained Privacy.
+Beyond Trading Data: The Hidden Influence of Public Awareness and Interest on Cryptocurrency Volatility.
+Fair&Share: Fast and Fair Multi-Criteria Selections.
+Generalization Bound for Estimating Causal Effects from Observational Network Data.
+How Expressive are Graph Neural Networks in Recommendation?
+L2R: Lifelong Learning for First-stage Retrieval with Backward-Compatible Representations.
+MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation.
+Causality and Independence Enhancement for Biased Node Classification.
+Inducing Causal Structure for Abstractive Text Summarization.
+Region Profile Enhanced Urban Spatio-Temporal Prediction via Adaptive Meta-Learning.
+Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer.
+Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models.
+Learning Pair-Centric Representation for Link Sign Prediction with Subgraph.
+Meta-Transfer-Learning for Time Series Data with Extreme Events: An Application to Water Temperature Prediction.
+Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models.
+Incorporating Constituent Syntax into Grammatical Error Correction with Multi-Task Learning.
+HEProto: A Hierarchical Enhancing ProtoNet based on Multi-Task Learning for Few-shot Named Entity Recognition.
+Continual Learning for Generative Retrieval over Dynamic Corpora.
+Deep Generative Imputation Model for Missing Not At Random Data.
+Towards Spoken Language Understanding via Multi-level Multi-grained Contrastive Learning.
+DAS-CL: Towards Multimodal Machine Translation via Dual-Level Asymmetric Contrastive Learning.
+PCT-CycleGAN: Paired Complementary Temporal Cycle-Consistent Adversarial Networks for Radar-Based Precipitation Nowcasting.
+Delivery Optimized Discovery in Behavioral User Segmentation under Budget Constraint.
+Rebalancing Social Feed to Minimize Polarization and Disagreement.
+Can Knowledge Graphs Simplify Text?
+Dually Enhanced Delayed Feedback Modeling for Streaming Conversion Rate Prediction.
+NeoMaPy: A Parametric Framework for Reasoning with MAP Inference on Temporal Markov Logic Networks.
+TPUF: Enhancing Cross-domain Sequential Recommendation via Transferring Pre-trained User Features.
+Cross-heterogeneity Graph Few-shot Learning.
+A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER.
+I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval.
+Reveal the Unknown: Out-of-Knowledge-Base Mention Discovery with Entity Linking.
+Optimal Linear Subspace Search: Learning to Construct Fast and High-Quality Schedulers for Diffusion Models.
+CLSPRec: Contrastive Learning of Long and Short-term Preferences for Next POI Recommendation.
+Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training.
+Batch-Mix Negative Sampling for Learning Recommendation Retrievers.
+Spatial-Temporal Graph Boosting Networks: Enhancing Spatial-Temporal Graph Neural Networks via Gradient Boosting.
+BOMGraph: Boosting Multi-scenario E-commerce Search with a Unified Graph Neural Network.
+Cognitive-inspired Graph Redundancy Networks for Multi-source Information Fusion.
+Cross-Scenario Maneuver Decision with Adaptive Perception for Autonomous Driving.
+Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks.
+AI in the Gray: Exploring Moderation Policies in Dialogic Large Language Models vs. Human Answers in Controversial Topics.
+On the Trade-off between Over-smoothing and Over-squashing in Deep Graph Neural Networks.
+Homophily-enhanced Structure Learning for Graph Clustering.
+Hierarchical Meta-Learning with Hyper-Tasks for Few-Shot Learning.
+KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation.
+Attacking Neural Networks with Neural Networks: Towards Deep Synchronization for Backdoor Attacks.
+RoCourseNet: Robust Training of a Prediction Aware Recourse Model.
+Query-dominant User Interest Network for Large-Scale Search Ranking.
+MGICL: Multi-Grained Interaction Contrastive Learning for Multimodal Named Entity Recognition.
+Targeted Shilling Attacks on GNN-based Recommender Systems.
+Interpretable Fake News Detection with Graph Evidence.
+Towards Fair Graph Neural Networks via Graph Counterfactual.
+James ate 5 oranges = Steve bought 5 pencils: Structure-Aware Denoising for Paraphrasing Word Problems.
+Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis.
+On Root Cause Localization and Anomaly Mitigation through Causal Inference.
+Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning.
+Large Language Models as Zero-Shot Conversational Recommenders.
+Understanding User Immersion in Online Short Video Interaction.
+Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System.
+Designing and Evaluating Presentation Strategies for Fact-Checked Content.
+Predictive Uncertainty-based Bias Mitigation in Ranking.
+Search-Efficient Computerized Adaptive Testing.
+SANN: Programming Code Representation Using Attention Neural Network with Optimized Subtree Extraction.
+Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation.
+HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion.
+Enhanced Template-Free Reaction Prediction with Molecular Graphs and Sequence-based Data Augmentation.
+Independent Distribution Regularization for Private Graph Embedding.
+Liberate Pseudo Labels from Over-Dependence: Label Information Migration on Sparsely Labeled Graphs.
+Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems.
+STAMINA (Spatial-Temporal Aligned Meteorological INformation Attention) and FPL (Focal Precip Loss): Advancements in Precipitation Nowcasting for Heavy Rainfall Events.
+Single-User Injection for Invisible Shilling Attack against Recommender Systems.
+Spans, Not Tokens: A Span-Centric Model for Multi-Span Reading Comprehension.
+Safe-NORA: Safe Reinforcement Learning-based Mobile Network Resource Allocation for Diverse User Demands.
+Deep Variational Bayesian Modeling of Haze Degradation Process.
+SAGE: A Storage-Based Approach for Scalable and Efficient Sparse Generalized Matrix-Matrix Multiplication.
+Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning.
+Self-supervised Contrastive Enhancement with Symmetric Few-shot Learning Towers for Cold-start News Recommendation.
+PriSHAP: Prior-guided Shapley Value Explanations for Correlated Features.
+Knowledge-Aware Cross-Semantic Alignment for Domain-Level Zero-Shot Recommendation.
+AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.
+Enhancing the Robustness via Adversarial Learning and Joint Spatial-Temporal Embeddings in Traffic Forecasting.
+A Momentum Loss Reweighting Method for Improving Recall.
+Replace Scoring with Arrangement: A Contextual Set-to-Arrangement Framework for Learning-to-Rank.
+Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation.
+Hierarchical Multi-Label Classification with Partial Labels and Unknown Hierarchy.
+Robust Graph Clustering via Meta Weighting for Noisy Graphs.
+Real-time Emotion Pre-Recognition in Conversations with Contrastive Multi-modal Dialogue Pre-training.
+CFOM: Lead Optimization For Drug Discovery With Limited Data.
+Nudging Neural Click Prediction Models to Pay Attention to Position.
+Meta-Learning with Adaptive Weighted Loss for Imbalanced Cold-Start Recommendation.
+Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction.
+Modeling Sequential Collaborative User Behaviors For Seller-Aware Next Basket Recommendation.
+A Model-Agnostic Method to Interpret Link Prediction Evaluation of Knowledge Graph Embeddings.
+Diving into a Sea of Opinions: Multi-modal Abstractive Summarization with Comment Sensitivity.
+Prompting Strategies for Citation Classification.
+Non-Compliant Bandits.
+VFedAD: A Defense Method Based on the Information Mechanism Behind the Vertical Federated Data Poisoning Attack.
+Learning the Co-evolution Process on Live Stream Platforms with Dual Self-attention for Next-topic Recommendations.
+A Re-evaluation of Deep Learning Methods for Attributed Graph Clustering.
+Tackling Diverse Minorities in Imbalanced Classification.
+DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series.
+GUARD: Graph Universal Adversarial Defense.
+ST-MoE: Spatio-Temporal Mixture-of-Experts for Debiasing in Traffic Prediction.
+Class-Specific Word Sense Aware Topic Modeling via Soft Orthogonalized Topics.
+AutoMRM: A Model Retrieval Method Based on Multimodal Query and Meta-learning.
+Towards Automatic ICD Coding via Knowledge Enhanced Multi-Task Learning.
+Relation-Aware Diffusion Model for Controllable Poster Layout Generation.
+ACGAN-GNNExplainer: Auxiliary Conditional Generative Explainer for Graph Neural Networks.
+HAMUR: Hyper Adapter for Multi-Domain Recommendation.
+REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning.
+Simplifying Temporal Heterogeneous Network for Continuous-Time Link prediction.
+Heterogeneous Temporal Graph Neural Network Explainer.
+Harnessing the Power of Pre-trained Vision-Language Models for Efficient Medical Report Generation.
+Graph Enhanced Hierarchical Reinforcement Learning for Goal-oriented Learning Path Recommendation.
+Tight-Sketch: A High-Performance Sketch for Heavy Item-Oriented Data Stream Mining with Limited Memory Size.
+Contrastive Representation Learning Based on Multiple Node-centered Subgraphs.
+Prompt Distillation for Efficient LLM-based Recommendation.
+Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs.
+THGNN: An Embedding-based Model for Anomaly Detection in Dynamic Heterogeneous Social Networks.
+Retrieving GNN Architecture for Collaborative Filtering.
+SAILOR: Structural Augmentation Based Tail Node Representation Learning.
+Bias Invariant Approaches for Improving Word Embedding Fairness.
+MadSGM: Multivariate Anomaly Detection with Score-based Generative Models.
+Adaptation Speed Analysis for Fairness-aware Causal Models.
+printf: Preference Modeling Based on User Reviews with Item Images and Textual Information via Graph Learning.
+On the Thresholding Strategy for Infrequent Labels in Multi-label Classification.
+Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank.
+GranCATs: Cross-Lingual Enhancement through Granularity-Specific Contrastive Adapters.
+UniTE: A Unified Treatment Effect Estimation Method for One-sided and Two-sided Marketing.
+PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering.
+AutoSeqRec: Autoencoder for Efficient Sequential Recommendation.
+MATA*: Combining Learnable Node Matching with A* Algorithm for Approximate Graph Edit Distance Computation.
+Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval.
+ForeSeer: Product Aspect Forecasting Using Temporal Graph Embedding.
+Text Matching Improves Sequential Recommendation by Reducing Popularity Biases.
+Neural Personalized Topic Modeling for Mining User Preferences on Social Media.
+Hierarchical Prompt Tuning for Few-Shot Multi-Task Learning.
+SMEF: Social-aware Multi-dimensional Edge Features-based Graph Representation Learning for Recommendation.
+Diffusion Augmentation for Sequential Recommendation.
+Weak Regression Enhanced Lifelong Learning for Improved Performance and Reduced Training Data.
+Online Efficient Secure Logistic Regression based on Function Secret Sharing.
+Khronos: A Real-Time Indexing Framework for Time Series Databases on Large-Scale Performance Monitoring Systems.
+Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph.
+Quantifying the Effectiveness of Advertising: A Bootstrap Proportion Test for Brand Lift Testing.
+Deep Task-specific Bottom Representation Network for Multi-Task Recommendation.
+Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method.
+BRep-BERT: Pre-training Boundary Representation BERT with Sub-graph Node Contrastive Learning.
+Exploring Low-Dimensional Manifolds of Deep Neural Network Parameters for Improved Model Optimization.
+Selecting Walk Schemes for Database Embedding.
+Forward Creation, Reverse Selection: Achieving Highly Pertinent Multimodal Responses in Dialogue Contexts.
+Timestamps as Prompts for Geography-Aware Location Recommendation.
+Improving Long-Tail Item Recommendation with Graph Augmentation.
+Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models.
+Integrating Priors into Domain Adaptation Based on Evidence Theory.
+Multi-scale Graph Pooling Approach with Adaptive Key Subgraph for Graph Representations.
+A Principled Decomposition of Pointwise Mutual Information for Intention Template Discovery.
+Rethinking Sensors Modeling: Hierarchical Information Enhanced Traffic Forecasting.
+MultiCAD: Contrastive Representation Learning for Multi-modal 3D Computer-Aided Design Models.
+LambdaRank Gradients are Incoherent.
+A Graph Neural Network Model for Concept Prerequisite Relation Extraction.
+Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation.
+System Initiative Prediction for Multi-turn Conversational Information Seeking.
+Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification.
+DebCSE: Rethinking Unsupervised Contrastive Sentence Embedding Learning in the Debiasing Perspective.
+Hybrid Contrastive Constraints for Multi-Scenario Ad Ranking.
+Unlocking the Potential of Non-PSD Kernel Matrices: A Polar Decomposition-based Transformation for Improved Prediction Models.
+Joint Link Prediction Via Inference from a Model.
+Non-Uniform Adversarial Perturbations for Discrete Tabular Datasets.
+Contrastive Learning of Temporal Distinctiveness for Survival Analysis in Electronic Health Records.
+Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models.
+Multi-domain Recommendation with Embedding Disentangling and Domain Alignment.
+MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement.
+Dual-Oriented Contrast for Recommendation with A Stop-Gradient Operation.
+Quad-Tier Entity Fusion Contrastive Representation Learning for Knowledge Aware Recommendation System.
+How Discriminative Are Your Qrels? How To Study the Statistical Significance of Document Adjudication Methods.
+Rule-based Knowledge Graph Completion with Canonical Models.
+Unsupervised Aspect Term Extraction by Integrating Sentence-level Curriculum Learning with Token-level Self-paced Learning.
+A Retrieve-and-Read Framework for Knowledge Graph Link Prediction.
+IUI: Intent-Enhanced User Interest Modeling for Click-Through Rate Prediction.
+Post-hoc Selection of Pareto-Optimal Solutions in Search and Recommendation.
+Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation.
+Toward a Better Understanding of Loss Functions for Collaborative Filtering.
+Concept Evolution in Deep Learning Training: A Unified Interpretation Framework and Discoveries.
+Evaluating and Optimizing the Effectiveness of Neural Machine Translation in Supporting Code Retrieval Models: A Study on the CAT Benchmark.
+RotDiff: A Hyperbolic Rotation Representation Model for Information Diffusion Prediction.
+Bi-channel Multiple Sparse Graph Attention Networks for Session-based Recommendation.
+MERIT: A Merchant Incentive Ranking Model for Hotel Search & Ranking.
+Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective.
+Federated Competing Risk Analysis.
+ELTRA: An Embedding Method based on Learning-to-Rank to Preserve Asymmetric Information in Directed Graphs.
+Dual-Process Graph Neural Network for Diversified Recommendation.
+Incremental Graph Classification by Class Prototype Construction and Augmentation.
+Dual-view Contrastive Learning for Auction Recommendation.
+Good Intentions: Adaptive Parameter Management via Intent Signaling.
+Seq-HyGAN: Sequence Classification via Hypergraph Attention Network.
+PaperLM: A Pre-trained Model for Hierarchical Examination Paper Representation Learning.
+Transferable Structure-based Adversarial Attack of Heterogeneous Graph Neural Network.
+Automatic and Precise Data Validation for Machine Learning.
+TOAK: A Topology-oriented Attack Strategy for Degrading User Identity Linkage in Cross-network Learning.
+CANA: Causal-enhanced Social Network Alignment.
+Representation Learning in Continuous-Time Dynamic Signed Networks.
+HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation.
+Improving Graph Domain Adaptation with Network Hierarchy.
+GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction.
+Calibrate Graph Neural Networks under Out-of-Distribution Nodes via Deep Q-learning.
+EmFore: Online Learning of Email Folder Classification Rules.
+Investigating the Impact of Multimodality and External Knowledge in Aspect-level Complaint and Sentiment Analysis.
+The Role of Unattributed Behavior Logs in Predictive User Segmentation.
+Follow the Will of the Market: A Context-Informed Drift-Aware Method for Stock Prediction.
+CDR: Conservative Doubly Robust Learning for Debiased Recommendation.
+Towards Fair Financial Services for All: A Temporal GNN Approach for Individual Fairness on Transaction Networks.
+SAND: Semantic Annotation of Numeric Data in Web Tables.
+Treatment Effect Estimation across Domains.
+Topic-Aware Contrastive Learning and K-Nearest Neighbor Mechanism for Stance Detection.
+Fairness through Aleatoric Uncertainty.
+Graph Inference via the Energy-efficient Dynamic Precision Matrix Estimation with One-bit Data.
+Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-informed Demand.
+EAGLE: Enhance Target-Oriented Dialogs by Global Planning and Topic Flow Integration.
+Spatio-Temporal Meta Contrastive Learning.
+Single-Cell Multimodal Prediction via Transformers.
+Explainable Spatio-Temporal Graph Neural Networks.
+Periodicity May Be Emanative: Hierarchical Contrastive Learning for Sequential Recommendation.
+Experience and Evidence are the eyes of an excellent summarizer! Towards Knowledge Infused Multi-modal Clinical Conversation Summarization.
+Multi-Representation Variational Autoencoder via Iterative Latent Attention and Implicit Differentiation.
+Citation Intent Classification and Its Supporting Evidence Extraction for Citation Graph Construction.
+Disentangled Interest importance aware Knowledge Graph Neural Network for Fund Recommendation.
+PSLF: Defending Against Label Leakage in Split Learning.
+GraphFADE: Field-aware Decorrelation Neural Network for Graphs with Tabular Features.
+MPerformer: An SE(3) Transformer-based Molecular Perceptron.
+Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction.
+Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations.
+CLOCK: Online Temporal Hierarchical Framework for Multi-scale Multi-granularity Forecasting of User Impression.
+FAMC-Net: Frequency Domain Parity Correction Attention and Multi-Scale Dilated Convolution for Time Series Forecasting.
+Diversity-aware Deep Ranking Network for Recommendation.
+UrbanFloodKG: An Urban Flood Knowledge Graph System for Risk Assessment.
+Optimizing Upstream Representations for Out-of-Domain Detection with Supervised Contrastive Learning.
+Flexible and Robust Counterfactual Explanations with Minimal Satisfiable Perturbations.
+AFRF: Angle Feature Retrieval Based Popularity Forecasting.
+Continuous Personalized Knowledge Tracing: Modeling Long-Term Learning in Online Environments.
+Low-bit Quantization for Deep Graph Neural Networks with Smoothness-aware Message Propagation.
+A Mix-up Strategy to Enhance Adversarial Training with Imbalanced Data.
+Node-dependent Semantic Search over Heterogeneous Graph Neural Networks.
+NOVO: Learnable and Interpretable Document Identifiers for Model-Based IR.
+WOT-Class: Weakly Supervised Open-world Text Classification.
+MultiPLe: Multilingual Prompt Learning for Relieving Semantic Confusions in Few-shot Event Detection.
+Selecting Top-k Data Science Models by Example Dataset.
+A Multi-Modality Framework for Drug-Drug Interaction Prediction by Harnessing Multi-source Data.
+Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation.
+Dual Intents Graph Modeling for User-centric Group Discovery.
+Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection.
+SplitGNN: Spectral Graph Neural Network for Fraud Detection against Heterophily.
+Community-Based Hierarchical Positive-Unlabeled (PU) Model Fusion for Chronic Disease Prediction.
+Rethinking Sentiment Analysis under Uncertainty.
+Dimension Independent Mixup for Hard Negative Sample in Collaborative Filtering.
+Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation.
+HiPo: Detecting Fake News via Historical and Multi-Modal Analyses of Social Media Posts.
+An Efficient Selective Ensemble Learning with Rejection Approach for Classification.
+Sentiment-aware Review Summarization with Personalized Multi-task Fine-tuning.
+Density-Aware Temporal Attentive Step-wise Diffusion Model For Medical Time Series Imputation.
+DPGN: Denoising Periodic Graph Network for Life Service Recommendation.
+Minimizing Polarization in Noisy Leader-Follower Opinion Dynamics.
+Time-series Shapelets with Learnable Lengths.
+Identifying Regional Driving Risks via Transductive Cross-City Transfer Learning Under Negative Transfer.
+Few-Shot Learning via Task-Aware Discriminant Local Descriptors Network.
+MoCLIM: Towards Accurate Cancer Subtyping via Multi-Omics Contrastive Learning with Omics-Inference Modeling.
+FARA: Future-aware Ranking Algorithm for Fairness Optimization.
+A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge.
+A Two-tier Shared Embedding Method for Review-based Recommender Systems.
+CARPG: Cross-City Knowledge Transfer for Traffic Accident Prediction via Attentive Region-Level Parameter Generation.
+Co-guided Random Walk for Polarized Communities Search.
+Multimodal Optimal Transport Knowledge Distillation for Cross-domain Recommendation.
+Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning.
+Mulco: Recognizing Chinese Nested Named Entities through Multiple Scopes.
+Explore Epistemic Uncertainty in Domain Adaptive Semantic Segmentation.
+Improving Query Correction Using Pre-train Language Model In Search Engines.
+APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation.
+FINRule: Feature Interactive Neural Rule Learning.
+iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning Recommendation Models.
+Search Result Diversification Using Query Aspects as Bottlenecks.
+Understanding and Modeling Collision Avoidance Behavior for Realistic Crowd Simulation.
+DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction.
+Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering.
+Causality-guided Graph Learning for Session-based Recommendation.
+MUSE: Multi-view Contrastive Learning for Heterophilic Graphs via Information Reconstruction.
+VILE: Block-Aware Visual Enhanced Document Retrieval.
+Manipulating Out-Domain Uncertainty Estimation in Deep Neural Networks via Targeted Clean-Label Poisoning.
+Target-Oriented Maneuver Decision for Autonomous Vehicle: A Rule-Aided Reinforcement Learning Framework.
+AKE-GNN: Effective Graph Learning with Adaptive Knowledge Exchange.
+DYANE: DYnamic Attributed Node rolEs Generative Model.
+MemoNet: Memorizing All Cross Features' Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction.
+TriD-MAE: A Generic Pre-trained Model for Multivariate Time Series with Missing Values.
+RDGSL: Dynamic Graph Representation Learning with Structure Learning.
+CoSaR: Combating Label Noise Using Collaborative Sample Selection and Adversarial Regularization.
+PromptST: Prompt-Enhanced Spatio-Temporal Multi-Attribute Prediction.
+Out of the Box Thinking: Improving Customer Lifetime Value Modelling via Expert Routing and Game Whale Detection.
+iLoRE: Dynamic Graph Representation with Instant Long-term Modeling and Re-occurrence Preservation.
+No Length Left Behind: Enhancing Knowledge Tracing for Modeling Sequences of Excessive or Insufficient Lengths.
+Counterfactual Monotonic Knowledge Tracing for Assessing Students' Dynamic Mastery of Knowledge Concepts.
+FATA-Trans: Field And Time-Aware Transformer for Sequential Tabular Data.
+Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement.
+Mutual Information-Driven Multi-View Clustering.
+Closed-form Machine Unlearning for Matrix Factorization.
+Time-aware Graph Structure Learning via Sequence Prediction on Temporal Graphs.
+Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction.
+A Co-training Approach for Noisy Time Series Learning.
+Task Relation Distillation and Prototypical Pseudo Label for Incremental Named Entity Recognition.
+Communication-Efficient Decentralized Online Continuous DR-Submodular Maximization.
+Unleashing the Power of Shared Label Structures for Human Activity Recognition.
+Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain.
+AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities.
+Towards Dynamic and Reliable Private Key Management for Hierarchical Access Structure in Decentralized Storage.
+MLPST: MLP is All You Need for Spatio-Temporal Prediction.
+Efficient Exact Minimum k-Core Search in Real-World Graphs.
+HST-GT: Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce.
+Geometric Graph Learning for Protein Mutation Effect Prediction.
+Simulating Student Interactions with Two-stage Imitation Learning for Intelligent Educational Systems.
+HTMapper: Bidirectional Head-Tail Mapping for Nested Named Entity Recognition.
+Highly-Optimized Forgetting for Creating Signature-Based Views of Ontologies.
+Sequential Recommendation via an Adaptive Cross-domain Knowledge Decomposition.
+GCformer: An Efficient Solution for Accurate and Scalable Long-Term Multivariate Time Series Forecasting.
+Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs.
+Task-Difficulty-Aware Meta-Learning with Adaptive Update Strategies for User Cold-Start Recommendation.
+Decentralized Graph Neural Network for Privacy-Preserving Recommendation.
+DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model.
+FedPSE: Personalized Sparsification with Element-wise Aggregation for Federated Learning.
+Assessing the Continuous Causal Responses of Typhoon-related Weather on Human Mobility: An Empirical Study in Japan.
+Personalized Location-Preference Learning for Federated Task Assignment in Spatial Crowdsourcing.
+RLIFE: Remaining Lifespan Prediction for E-scooters.
+A Generalized Propensity Learning Framework for Unbiased Post-Click Conversion Rate Estimation.
+Contrastive Counterfactual Learning for Causality-aware Interpretable Recommender Systems.
+All about Sample-Size Calculations for A/B Testing: Novel Extensions & Practical Guide.
+Learning Node Abnormality with Weak Supervision.
+Attention Calibration for Transformer-based Sequential Recommendation.
+Privacy-Preserving Federated Learning via Disentanglement.
+CANDY: A Causality-Driven Model for Hotel Dynamic Pricing.
+Improving Adversarial Transferability via Frequency-based Stationary Point Search.
+Scalable Neural Contextual Bandit for Recommender Systems.
+HCL4QC: Incorporating Hierarchical Category Structures Into Contrastive Learning for E-commerce Query Classification.
+FVW: Finding Valuable Weight on Deep Neural Network for Model Pruning.
+PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.
+G-STO: Sequential Main Shopping Intention Detection via Graph-Regularized Stochastic Transformer.
+DynED: Dynamic Ensemble Diversification in Data Stream Classification.
+Retrievability Bias Estimation Using Synthetically Generated Queries.
+Fine-Grained Socioeconomic Prediction from Satellite Images with Distributional Adjustment.
+Noisy Perturbations for Estimating Query Difficulty in Dense Retrievers.
+HOVER: Homophilic Oversampling via Edge Removal for Class-Imbalanced Bot Detection on Graphs.
+Accelerating Concept Learning via Sampling.
+Logarithmic Dimension Reduction for Quantum Neural Networks.
+A Comparative Study of Reference Reliability in Multiple Language Editions of Wikipedia.
+Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction.
+Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems.
+Linkage Attack on Skeleton-based Motion Visualization.
+Region-Wise Attentive Multi-View Representation Learning For Urban Region Embedding.
+'Choose your Data Wisely': Active Learning based Selection with Multi-Objective Optimisation for Mitigating Stereotypes.
+Semi-supervised Curriculum Ensemble Learning for Financial Precision Marketing.
+TCCM: Time and Content-Aware Causal Model for Unbiased News Recommendation.
+Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach.
+Segment Augmentation and Prediction Consistency Neural Network for Multi-label Unknown Intent Detection.
+Attribute-enhanced Dual Channel Representation Learning for Session-based Recommendation.
+Assessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue.
+MI-DPG: Decomposable Parameter Generation Network Based on Mutual Information for Multi-Scenario Recommendation.
+Enhancing Information Diffusion Prediction with Self-Supervised Disentangled User and Cascade Representations.
+Identify Risky Rules to Reduce Side Effects in Association Rule Hiding.
+Patient Clustering via Integrated Profiling of Clinical and Digital Data.
+Incorporating Co-purchase Correlation for Next-basket Recommendation.
+Learning Invariant Representations for New Product Sales Forecasting via Multi-Granularity Adversarial Learning.
+Reconciling Training and Evaluation Objectives in Location Agnostic Surrogate Explainers.
+DPAN: Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations.
+Efficient Variant Calling on Human Genome Sequences Using a GPU-Enabled Commodity Cluster.
+Self-supervised Learning and Graph Classification under Heterophily.
+Bridging the KB-Text Gap: Leveraging Structured Knowledge-aware Pre-training for KBQA.
+Geometric Matrix Completion via Sylvester Multi-Graph Neural Network.
+Learning Sparse Lexical Representations Over Specified Vocabularies for Retrieval.
+OnlineAutoClust: A Framework for Online Automated Clustering.
+Simulating Users in Interactive Web Table Retrieval.
+KGPR: Knowledge Graph Enhanced Passage Ranking.
+Multi-step Prompting for Few-shot Emotion-Grounded Conversations.
+Synergistic Disease Similarity Measurement via Unifying Hierarchical Relation Perception and Association Capturing.
+Extracting Methodology Components from AI Research Papers: A Data-driven Factored Sequence Labeling Approach.
+Knowledge-Enhanced Multi-Label Few-Shot Product Attribute-Value Extraction.
+Neighborhood Homophily-based Graph Convolutional Network.
+Explainable and Accurate Natural Language Understanding for Voice Assistants and Beyond.
+Leveraging Post-Click User Behaviors for Calibrated Conversion Rate Prediction Under Delayed Feedback in Online Advertising.
+Hateful Comment Detection and Hate Target Type Prediction for Video Comments.
+A Deep Conditional Generative Approach for Constrained Community Detection.
+Perturbation-Based Two-Stage Multi-Domain Active Learning.
+KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks.
+Latent Aspect Detection via Backtranslation Augmentation.
+Deep Context Interest Network for Click-Through Rate Prediction.
+Unlocking the Potential of User Feedback: Leveraging Large Language Model as User Simulators to Enhance Dialogue System.
+Forgetting-aware Linear Bias for Attentive Knowledge Tracing.
+Stochastic Subgraph Neighborhood Pooling for Subgraph Classification.
+Lightweight Adaptation of Neural Language Models via Subspace Embedding.
+Multi-Granularity Attention Model for Group Recommendation.
+CSPM: A Contrastive Spatiotemporal Preference Model for CTR Prediction in On-Demand Food Delivery Services.
+Uncertainty Quantification via Spatial-Temporal Tweedie Model for Zero-inflated and Long-tail Travel Demand Prediction.
+MSRA: A Multi-Aspect Semantic Relevance Approach for E-Commerce via Multimodal Pre-Training.
+SAFE: Sequential Attentive Face Embedding with Contrastive Learning for Deepfake Video Detection.
+Effective Slogan Generation with Noise Perturbation.
+S-Mixup: Structural Mixup for Graph Neural Networks.
+Class Label-aware Graph Anomaly Detection.
+Exploring Cohesive Subgraphs in Hypergraphs: The (k, g)-core Approach.
+Can a Chatbot be Useful in Childhood Cancer Survivorship? Development of a Chatbot for Survivors of Childhood Cancer.
+Test-Time Embedding Normalization for Popularity Bias Mitigation.
+AmpliBias: Mitigating Dataset Bias through Bias Amplification in Few-shot Learning for Generative Models.
+You're Not Alone in Battle: Combat Threat Analysis Using Attention Networks and a New Open Benchmark.
+Look At Me, No Replay! SurpriseNet: Anomaly Detection Inspired Class Incremental Learning.
+UNDO: Effective and Accurate Unlearning Method for Deep Neural Networks.
+MvFS: Multi-view Feature Selection for Recommender System.
+ST-RAP: A Spatio-Temporal Framework for Real Estate Appraisal.
+Temporal and Topological Augmentation-based Cross-view Contrastive Learning Model for Temporal Link Prediction.
+HEPT Attack: Heuristic Perpendicular Trial for Hard-label Attacks under Limited Query Budgets.
+CORD: A Three-Stage Coarse-to-Fine Framework for Relation Detection in Knowledge Base Question Answering.
+Causal Discovery in Temporal Domain from Interventional Data.
+Pseudo Triplet Networks for Classification Tasks with Cross-Source Feature Incompleteness.
+Epidemiology-aware Deep Learning for Infectious Disease Dynamics Prediction.
+Towards Trustworthy Rumor Detection with Interpretable Graph Structural Learning.
+Homogeneous Cohort-Aware Group Cognitive Diagnosis: A Multi-grained Modeling Perspective.
+Retrieval-Based Unsupervised Noisy Label Detection on Text Data.
+Boosting Meta-Learning Cold-Start Recommendation with Graph Neural Network.
+Understanding the Multi-vector Dense Retrieval Models.
+Counterfactual Adversarial Learning for Recommendation.
+STGIN: Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation.
+Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting.
+TemDep: Temporal Dependency Priority for Multivariate Time Series Prediction.
+FairGraph: Automated Graph Debiasing with Gradient Matching.
+Personalized Differentially Private Federated Learning without Exposing Privacy Budgets.
+Personalized Interest Sustainability Modeling for Sequential POI Recommendation.
+Can Embeddings Analysis Explain Large Language Model Ranking?
+DCGNN: Dual-Channel Graph Neural Network for Social Bot Detection.
+Contrastive Learning for Rumor Detection via Fitting Beta Mixture Model.
+Age-Aware Guidance via Masking-Based Attention in Face Aging.
+Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem.
+Metapath-Guided Data-Augmentation For Knowledge Graphs.
+Learning Visibility Attention Graph Representation for Time Series Forecasting.
+On the Reliability of User Feedback for Evaluating the Quality of Conversational Agents.
+A Robust Backward Compatibility Metric for Model Retraining.
+Graph Contrastive Learning with Graph Info-Min.
+Generative Graph Augmentation for Minority Class in Fraud Detection.
+SeqGen: A Sequence Generator via User Side Information for Behavior Sparsity in Recommendation.
+A Flash Attention Transformer for Multi-Behaviour Recommendation.
+Product Entity Matching via Tabular Data.
+Efficient Differencing of System-level Provenance Graphs.
+Differential Privacy in HyperNetworks for Personalized Federated Learning.
+Camaraderie: Content-based Knowledge Transfer for Medical Image Labelling using Supervised Autoencoders in a Decentralized Setting.
+Satisfaction-Aware User Interest Network for Click-Through Rate Prediction.
+Quantum Split Learning for Privacy-Preserving Information Management.
+T-SaS: Toward Shift-aware Dynamic Adaptation for Streaming Data.
+A Self-Learning Resource-Efficient Re-Ranking Method for Clinical Trials Search.
+Adversarial Density Ratio Estimation for Change Point Detection.
+Quantitative Decomposition of Prediction Errors Revealing Multi-Cause Impacts: An Insightful Framework for MLOps.
+Neural Disentanglement of Query Difficulty and Semantics.
+VN-Solver: Vision-based Neural Solver for Combinatorial Optimization over Graphs.
+EdgeNet : Encoder-decoder generative Network for Auction Design in E-commerce Online Advertising.
+DAE: Distribution-Aware Embedding for Numerical Features in Click-Through Rate Prediction.
+Learning to Simulate Complex Physical Systems: A Case Study.
+Findability: A Novel Measure of Information Accessibility.
+Improving Diversity in Unsupervised Keyphrase Extraction with Determinantal Point Process.
+Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect Dense Retrieval.
+Sequential Text-based Knowledge Update with Self-Supervised Learning for Generative Language Models.
+Higher-Order Peak Decomposition.
+Exposing Model Theft: A Robust and Transferable Watermark for Thwarting Model Extraction Attacks.
+Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models.
+RecRec: Algorithmic Recourse for Recommender Systems.
+Network Embedding with Adaptive Multi-hop Contrast.
+Efficient Multi-Task Learning via Generalist Recommender.
+Clustering-property Matters: A Cluster-aware Network for Large Scale Multivariate Time Series Forecasting.
+Training Heterogeneous Graph Neural Networks using Bandit Sampling.
+Adaptive Graph Neural Diffusion for Traffic Demand Forecasting.
+Promoting Diversity in Mixed Complex Cooperative and Competitive Multi-Agent Environment.
+MTKDN: Multi-Task Knowledge Disentanglement Network for Recommendation.
+G-Meta: Distributed Meta Learning in GPU Clusters for Large-Scale Recommender Systems.
+A Joint Training-Calibration Framework for Test-Time Personalization with Label Shift in Federated Learning.
+Geometry Interaction Augmented Graph Collaborative Filtering.
+Mitigating Semantic Confusion from Hostile Neighborhood for Graph Active Learning.
+MC-DRE: Multi-Aspect Cross Integration for Drug Event/Entity Extraction.
+Positive-Unlabeled Node Classification with Structure-aware Graph Learning.
+Graph-based Alignment and Uniformity for Recommendation.
+Toward a Foundation Model for Time Series Data.
+Simplex2vec Backward: From Vectors Back to Simplicial Complex.
+BI-GCN: Bilateral Interactive Graph Convolutional Network for Recommendation.
+Unlocking the Potential of Deep Learning in Peak-Hour Series Forecasting.
+POSPAN: Position-Constrained Span Masking for Language Model Pre-training.
+FiBiNet++: Reducing Model Size by Low Rank Feature Interaction Layer for CTR Prediction.
+Knowledge Graph Error Detection with Hierarchical Path Structure.
+XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters.
+Weight Matters: An Empirical Investigation of Distance Oracles on Knowledge Graphs.
+Differentiable Retrieval Augmentation via Generative Language Modeling for E-commerce Query Intent Classification.
+FCT-GAN: Enhancing Global Correlation of Table Synthesis via Fourier Transform.
+A Semi-Supervised Anomaly Network Traffic Detection Framework via Multimodal Traffic Information Fusion.
+LEAD-ID: Language-Enhanced Denoising and Intent Distinguishing Graph Neural Network for Sponsored Search Broad Retrievals.
+Target-oriented Few-shot Transferring via Measuring Task Similarity.
+Enhancing E-commerce Product Search through Reinforcement Learning-Powered Query Reformulation.
+Nowcast-to-Forecast: Token-Based Multiple Remote Sensing Data Fusion for Precipitation Forecast.
+Regression Compatible Listwise Objectives for Calibrated Ranking with Binary Relevance.
+CallMine: Fraud Detection and Visualization of Million-Scale Call Graphs.
+Beyond Semantics: Learning a Behavior Augmented Relevance Model with Self-supervised Learning.
+Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data.
+Towards Understanding of Deepfake Videos in the Wild.
+Continually-Adaptive Representation Learning Framework for Time-Sensitive Healthcare Applications.
+Enhancing Catalog Relationship Problems with Heterogeneous Graphs and Graph Neural Networks Distillation.
+DoRA: Domain-Based Self-Supervised Learning Framework for Low-Resource Real Estate Appraisal.
+Content-Based Email Classification at Scale.
+Robust User Behavioral Sequence Representation via Multi-scale Stochastic Distribution Prediction.
+Rec4Ad: A Free Lunch to Mitigate Sample Selection Bias for Ads CTR Prediction in Taobao.
+Predicting Interaction Quality of Conversational Assistants With Spoken Language Understanding Model Confidences.
+MEBS: Multi-task End-to-end Bid Shading for Multi-slot Display Advertising.
+An Unified Search and Recommendation Foundation Model for Cold-Start Scenario.
+DFFM: Domain Facilitated Feature Modeling for CTR Prediction.
+Learning To Rank Diversely At Airbnb.
+Continual Learning in Predictive Autoscaling.
+AutoBuild: Automatic Community Building Labeling for Last-mile Delivery.
+Urban-scale POI Updating with Crowd Intelligence.
+PS-SA: An Efficient Self-Attention via Progressive Sampling for User Behavior Sequence Modeling.
+A Stochastic Online Forecast-and-Optimize Framework for Real-Time Energy Dispatch in Virtual Power Plants under Uncertainty.
+Climate Intervention Analysis using AI Model Guided by Statistical Physics Principles.
+Generating Product Insights from Community Q&A.
+Unsupervised Multi-Modal Representation Learning for High Quality Retrieval of Similar Products at E-commerce Scale.
+Addressing Selection Bias in Computerized Adaptive Testing: A User-Wise Aggregate Influence Function Approach.
+The Price is Right: Removing A/B Test Bias in a Marketplace of Expirable Goods.
+Fragment and Integrate Network (FIN): A Novel Spatial-Temporal Modeling Based on Long Sequential Behavior for Online Food Ordering Click-Through Rate Prediction.
+A Hierarchical Imitation Learning-based Decision Framework for Autonomous Driving.
+Enhancing Dynamic On-demand Food Order Dispatching via Future-informed and Spatial-temporal Extended Decisions.
+Multitask Ranking System for Immersive Feed and No More Clicks: A Case Study of Short-Form Video Recommendation.
+FAF: A Risk Detection Framework on Industry-Scale Graphs.
+pADR: Towards Personalized Adverse Drug Reaction Prediction by Modeling Multi-sourced Data.
+Dynamic Group Parameter Modeling for Click-Through-Rate Prediction.
+BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware.
+Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search.
+Retention is All You Need.
+Exploiting Sequential Music Preferences via Optimisation-Based Sequencing.
+Optimal Real-Time Bidding Strategy for Position Auctions in Online Advertising.
+Masked Multi-Domain Network: Multi-Type and Multi-Scenario Conversion Rate Prediction with a Single Model.
+Graph Learning for Exploratory Query Suggestions in an Instant Search System.
+Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System.
+GBTTE: Graph Attention Network Based Bus Travel Time Estimation.
+Deep Query Rewriting For Geocoding.
+TrendSpotter: Forecasting E-commerce Product Trends.
+STREAMS: Towards Spatio-Temporal Causal Discovery with Reinforcement Learning for Streamflow Rate Prediction.
+Combating Ad Fatigue via Frequency-Recency Features in Online Advertising Systems.
+GraphFC: Customs Fraud Detection with Label Scarcity.
+PRODIGY: Product Design Guidance at Scale.
+LittleMu: Deploying an Online Virtual Teaching Assistant via Heterogeneous Sources Integration and Chain of Teach Prompts.
+Generating Optimized Molecules without Patent Infringement.
+MArBLE: Hierarchical Multi-Armed Bandits for Human-in-the-Loop Set Expansion.
+Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks.
+RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation.
+Logistics Audience Expansion via Temporal Knowledge Graph.
+Practice on Effectively Extracting NLP Features for Click-Through Rate Prediction.
+An Incremental Update Framework for Online Recommenders with Data-Driven Prior.
+Graph Exploration Matters: Improving both Individual-Level and System-Level Diversity in WeChat Feed Recommendation.
+An Efficient Content-based Time Series Retrieval System.
+DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions.
+SPM: Structured Pretraining and Matching Architectures for Relevance Modeling in Meituan Search.
+SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems.
+Multi-gate Mixture-of-Contrastive-Experts with Graph-based Gating Mechanism for TV Recommendation.
+3MN: Three Meta Networks for Multi-Scenario and Multi-Task Learning in Online Advertising Recommender Systems.
+Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework.
+Build Faster with Less: A Journey to Accelerate Sparse Model Building for Semantic Matching in Product Search.
+Popularity-aware Distributionally Robust Optimization for Recommendation System.
+COPR: Consistency-Oriented Pre-Ranking for Online Advertising.
+Entire Space Cascade Delayed Feedback Modeling for Effective Conversion Rate Prediction.
+Dual Interests-Aligned Graph Auto-Encoders for Cross-domain Recommendation in WeChat.
+Detecting Social Bot on the Fly using Contrastive Learning.
+DeepTagger: Knowledge Enhanced Named Entity Recognition for Web-Based Ads Queries.
+SNAKE Challenge: Sanitization Algorithms under Attack.
+AQUAPLANE: The Argument Quality Explainer App.
+DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research.
+Contrastive Keyword Extraction from Versioned Documents.
+Learning What to Ask: Mining Product Attributes for E-commerce Sales from Massive Dialogue Corpora.
+ParkFlow: Intelligent Dispersal for Mitigating Parking Shortages Using Multi-Granular Spatial-Temporal Analysis.
+The µ-RA System for Recursive Path Queries over Graphs.
+DataDoc Analyzer: A Tool for Analyzing the Documentation of Scientific Datasets.
+MORPHER: Structural Transformation of Ill-formed Rows.
+SEDAR: A Semantic Data Reservoir for Heterogeneous Datasets.
+EFFECTS: Explorable and Explainable Feature Extraction Framework for Multivariate Time-Series Classification.
+LARCH: Large Language Model-based Automatic Readme Creation with Heuristics.
+CRUISE-Screening: Living Literature Reviews Toolbox.
+STREAMER 3.0: Towards Online Monitoring and Distributed Learning.
+gFOV: A Full-Stack SPARQL Query Optimizer & Plan Visualizer.
+A Data-Driven Index Recommendation System for Slow Queries.
+Misinformation Concierge: A Proof-of-Concept with Curated Twitter Dataset on COVID-19 Vaccination.
+NumJoin: Discovering Numeric Joinable Tables with Semantically Related Columns.
+IMinimize: A System for Negative Influence Minimization via Vertex Blocking.
+Cluster-Explorer: An interactive Framework for Explaining Black-Box Clustering Results.
+HugNLP: A Unified and Comprehensive Library for Natural Language Processing.
+PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis.
+NP-SSL: A Modular and Extensible Self-supervised Learning Library with Neural Processes.
+MOSS: AI Platform for Discovery of Corrosion-Resistant Materials.
+Demonstration of ViTA: Visualizing, Testing and Analyzing Index Advisors.
+An AI-based Simulation and Optimization Framework for Logistic Systems.
+Towards Effective Modeling and Exploitation of Search and User Context in Conversational Information Retrieval.
+Towards Improving Accuracy and Computation Cost Optimization of Recommendation Systems.
+Data and Decision Fusion with Uncertainty Quantification for ML-based Healthcare Decision Systems.
+Investigating Natural and Artificial Dynamics in Graph Data Mining and Machine Learning.
+A Neuro-symbolic Approach to Enhance Interpretability of Graph Neural Network through the Integration of External Knowledge.
+Intersectional Bias Mitigation in Pre-trained Language Models: A Quantum-Inspired Approach.
+Explaining Learning to Rank Methods to Improve Them.
+Enhancing Badminton Player Performance via a Closed-Loop AI Approach: Imitation, Simulation, Optimization, and Execution.
+Exploiting Homeostatic Synaptic Modulation in Spiking Neural Networks for Semi-Supervised Graph Learning.
+Some Useful Things to Know When Combining IR and NLP: the Easy, the Hard and the Ugly.
+Tutorial on User Simulation for Evaluating Information Access Systems.
+Proactive Streaming Analytics at Scale: A Journey from the State-of-the-art to a Production Platform.
+Application of Deep Clustering Algorithms.
+Uplift Modeling: From Causal Inference to Personalization.
+Leveraging Graph Neural Networks for User Profiling: Recent Advances and Open Challenges.
+Data Augmentation for Conversational AI.
+Tutorial: Data Denoising Metrics in Recommender Systems.
+Reasoning beyond Triples: Recent Advances in Knowledge Graph Embeddings.
+Comparative Analysis of Open Source and Commercial Embedding Models for Question Answering.
+RT2S: A Framework for Learning with Noisy Labels.
+From User Activity Traces to Navigation Graph for Software Enhancement: An Application of Graph Neural Network (GNN) on a Real-World Non-Attributed Graph.
+Type Theory as a Unifying Paradigm for Modern Databases.
+Comparing Fine-Tuned Transformers and Large Language Models for Sales Call Classification: A Case Study.
+Proactive and Automatic Detection of Product Misclassifications at Massive Scale.
+Application and Evaluation of Large Language Models for the Generation of Survey Questions.
+Harnessing GPT for Topic-Based Call Segmentation in Microsoft Dynamics 365 Sales.
+Astrolabe: Visual Graph Database Queries with Tabular Output.
+Vigil: Effective End-to-end Monitoring for Large-scale Recommender Systems at Glance.
+Practical Lessons Learned From Detecting, Preventing and Mitigating Harmful Experiences on Facebook.
+Prod2Vec-Var: A Session Based Recommendation System with Enhanced Diversity.
+LAMM: Language Aware Active Learning for Multilingual Models.
+Unleashing the Power of Large Language Models for Legal Applications.
+MODIMO: Workshop on Multi-Omics Data Integration for Modelling Biological Systems.
+MUWS'2023: The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media.
+The First Workshop on Personalized Generative AI @ CIKM 2023: Personalization Meets Large Language Models.
+Workshop on Enterprise Knowledge Graphs using Large Language Models.
+Workshop on Document Intelligence Understanding.
+The 3rd International Workshop on Mining and Learning in the Legal Domain.
+Info-Wild: Knowledge Extraction and Management for Wildlife Conservation.
+IoTBDH-2023: The 5th International Workshop on Internet of Things of Big Data for Healthcare.
+International Workshop on Edge-Cloud Intelligence (ECI@CIKM2023).
+Workshop On Large Language Models' Interpretability and Trustworthiness (LLMIT).
+Anomaly and Novelty detection for Satellite and Drone systems (ANSD '23).
+Knowledge-driven Analytics and Systems Impacting Human Quality of Life- Neurosymbolic AI, Explainable AI and Beyond.
+The 1st Workshop on Recommendation with Generative Models.
+DRL4IR: 4th Workshop on Deep Reinforcement Learning for Information Retrieval.
+Knowledge-enhanced Artificial Intelligence in Drug Discovery (KAIDD).
+A Test Collection of Synthetic Documents for Training Rankers: ChatGPT vs. Human Experts.
+Ontology Enrichment from Texts: A Biomedical Dataset for Concept Discovery and Placement.
+FlaCGEC: A Chinese Grammatical Error Correction Dataset with Fine-grained Linguistic Annotation.
+Towards Filling the Gap in Conversational Search: From Passage Retrieval to Conversational Response Generation.
+PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning.
+MUSER: A Multi-View Similar Case Retrieval Dataset.
+CTCam: Enhancing Transportation Evaluation through Fusion of Cellular Traffic and Camera-Based Vehicle Flows.
+Datasets and Interfaces for Benchmarking Heterogeneous Graph Neural Networks.
+ContributionSum: Generating Disentangled Contributions for Scientific Papers.
+ClinicalRisk: A New Therapy-related Clinical Trial Dataset for Predicting Trial Status and Failure Reasons.
+Commonsense Temporal Action Knowledge (CoTAK) Dataset.
+Anserini Gets Dense Retrieval: Integration of Lucene's HNSW Indexes.
+ThyExp: An explainable AI-assisted Decision Making Toolkit for Thyroid Nodule Diagnosis based on Ultra-sound Images.
+RePair: An Extensible Toolkit to Generate Large-Scale Datasets for Query Refinement via Transformers.
+KID34K: A Dataset for Online Identity Card Fraud Detection.
+ITA-ELECTION-2022: A Multi-Platform Dataset of Social Media Conversations Around the 2022 Italian General Election.
+GOAL: A Challenging Knowledge-grounded Video Captioning Benchmark for Real-time Soccer Commentary Generation.
+OpenGDA: Graph Domain Adaptation Benchmark for Cross-network Learning.
+TEI2GO: A Multilingual Approach for Fast Temporal Expression Identification.
+KuaiSAR: A Unified Search And Recommendation Dataset.
+DynamicESG: A Dataset for Dynamically Unearthing ESG Ratings from News Articles.
+MDCC: A Multimodal Dynamic Dataset for Donation-based Crowdfunding Campaigns.

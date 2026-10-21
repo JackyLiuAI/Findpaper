@@ -1,0 +1,353 @@
+End-to-End Audiovisual Speech Recognition System With Multitask Learning.
+Soft Video Multicasting Using Adaptive Compressed Sensing.
+BVI-SynTex: A Synthetic Video Texture Dataset for Video Compression and Quality Assessment.
+Fast Non-Local Adaptive In-Loop Filter Optimization on GPU.
+High-Fidelity Reversible Image Watermarking Based on Effective Prediction Error-Pairs Modification.
+A Multi-Stream Graph Convolutional Networks-Hidden Conditional Random Field Model for Skeleton-Based Action Recognition.
+Constant Size Point Cloud Clustering: A Compact, Non-Overlapping Solution.
+Integrating Part of Speech Guidance for Image Captioning.
+A Bottom-Up and Top-Down Integration Framework for Online Object Tracking.
+Siamese Tracking Network With Informative Enhanced Loss.
+Pose-Normalized and Appearance-Preserved Street-to-Shop Clothing Image Generation and Feature Learning.
+Adversarial Disentanglement Spectrum Variations and Cross-Modality Attention Networks for NIR-VIS Face Recognition.
+Pose-Guided Tracking-by-Detection: Robust Multi-Person Pose Tracking.
+Learning Representations for High-Dynamic-Range Image Color Transfer in a Self-Supervised Way.
+Enhancing Underexposed Photos Using Perceptually Bidirectional Similarity.
+Spatial-Temporal Cascade Autoencoder for Video Anomaly Detection in Crowded Scenes.
+Learning Adaptive Neighborhood Graph on Grassmann Manifolds for Video/Image-Set Subspace Clustering.
+Graph Embedding Multi-Kernel Metric Learning for Image Set Classification With Grassmannian Manifold-Valued Features.
+Interactive Video Retrieval in the Age of Deep Learning - Detailed Evaluation of VBS 2019.
+Viewpoint Recommendation Based on Object-Oriented 3D Scene Reconstruction.
+Hierarchical Reasoning Network for Pedestrian Attribute Recognition.
+Person Re-Identification in Aerial Imagery.
+Re-Synchronization Using the Hand Preceding Model for Multi-Modal Fusion in Automatic Continuous Cued Speech Recognition.
+Spectrum Characteristics Preserved Visible and Near-Infrared Image Fusion Algorithm.
+Quality Index for View Synthesis by Measuring Instance Degradation and Global Appearance.
+A Physiology-Based QoE Comparison of Interactive Augmented Reality, Virtual Reality and Tablet-Based Applications.
+Fast Nearest Subspace Search via Random Angular Hashing.
+Boosting Temporal Binary Coding for Large-Scale Video Search.
+Dress With Style: Learning Style From Joint Deep Embedding of Clothing Styles and Body Shapes.
+LAST: Location-Appearance-Semantic-Temporal Clustering Based POI Summarization.
+SPA-GAN: Spatial Attention GAN for Image-to-Image Translation.
+Learning Localized Representations of Point Clouds With Graph-Convolutional Generative Adversarial Networks.
+3-D Human Behavior Understanding Using Generalized TS-LSTM Networks.
+Recurrent Generative Adversarial Network for Face Completion.
+Density-Aware Multi-Task Learning for Crowd Counting.
+OPMP: An Omnidirectional Pyramid Mask Proposal Network for Arbitrary-Shape Scene Text Detection.
+Learning Face Image Super-Resolution Through Facial Semantic Attribute Transformation and Self-Attentive Structure Enhancement.
+Learning and Fusing Multiple User Interest Representations for Micro-Video and Movie Recommendations.
+DeepDance: Music-to-Dance Motion Choreography With Adversarial Learning.
+Metadata Connector: Exploiting Hashtag and Tag for Cross-OSN Event Search.
+A Novel Perspective to Zero-Shot Learning: Towards an Alignment of Manifold Structures via Semantic Feature Expansion.
+IPTV Channel Zapping Recommendation With Attention Mechanism.
+Mask Cross-Modal Hashing Networks.
+Augmented Adversarial Training for Cross-Modal Retrieval.
+Driver Yawning Detection Based on Subtle Facial Action Recognition.
+Learned Resolution Scaling Powered Gaming-as-a-Service at Scale.
+Progressive Unsupervised Person Re-Identification by Tracklet Association With Spatio-Temporal Regularization.
+Beyond Vision: A Multimodal Recurrent Attention Convolutional Neural Network for Unified Image Aesthetic Prediction Tasks.
+BR$^2$Net: Defocus Blur Detection Via a Bidirectional Channel Attention Residual Refining Network.
+A Recursive Reversible Data Hiding in Encrypted Images Method With a Very High Payload.
+TCLiVi: Transmission Control in Live Video Streaming Based on Deep Reinforcement Learning.
+Utilizing Two-Phase Processing With FBLS for Single Image Deraining.
+Benchmarking Image Retrieval Diversification Techniques for Social Media.
+Exploiting Local Degradation Characteristics and Global Statistical Properties for Blind Quality Assessment of Tone-Mapped HDR Images.
+A Hierarchical Visual Feature-Based Approach For Image Sonification.
+Predictive Adaptive Streaming to Enable Mobile 360-Degree and VR Experiences.
+Patch Based Video Summarization With Block Sparse Representation.
+Viewport-Dependent Saliency Prediction in 360° Video.
+Learning Crisp Boundaries Using Deep Refinement Network and Adaptive Weighting Loss.
+Frequency-Dependent Depth Map Enhancement via Iterative Depth-Guided Affine Transformation and Intensity-Guided Refinement.
+An Attention-Based Unsupervised Adversarial Model for Movie Review Spam Detection.
+Panoramic Video Quality Assessment Based on Non-Local Spherical CNN.
+Intermittent Contextual Learning for Keyfilter-Aware UAV Object Tracking Using Deep Convolutional Feature.
+CaptionNet: A Tailor-made Recurrent Neural Network for Generating Image Descriptions.
+Single Shot Video Object Detector.
+CAT: Corner Aided Tracking With Deep Regression Network.
+Progressive Learning of Low-Precision Networks for Image Classification.
+Hierarchical Soft Quantization for Skeleton-Based Human Action Recognition.
+A Mutually Attentive Co-Training Framework for Semi-Supervised Recognition.
+Modeling QoE for Buffered Video Streaming in Interference-Limited Cellular Networks.
+A Coarse-to-Fine Facial Landmark Detection Method Based on Self-attention Mechanism.
+Deep Loss Driven Multi-Scale Hashing Based on Pyramid Connected Network.
+Blind Quality Assessment for Tone-Mapped Images by Analysis of Gradient and Chromatic Statistics.
+Attentive Cross-Modal Fusion Network for RGB-D Saliency Detection.
+QoS-Aware Multicast for Scalable Video Streaming in Software-Defined Networks.
+Query Reconstruction Network for Referring Expression Image Segmentation.
+Semi-Reference Sonar Image Quality Assessment Based on Task and Visual Perception.
+3D Pose Estimation Based on Reinforce Learning for 2D Image-Based 3D Model Retrieval.
+SAL: Selection and Attention Losses for Weakly Supervised Semantic Segmentation.
+Deep Battery Saver: End-to-End Learning for Power Constrained Contrast Enhancement.
+DENet: A Universal Network for Counting Crowd With Varying Densities and Scales.
+A New Image Compression Algorithm Based on Non-Uniform Partition and U-System.
+Adversarial Learning for Personalized Tag Recommendation.
+Less is (Just as Good as) More - an Investigation of Odor Intensity and Hedonic Valence in Mulsemedia QoE using Heart Rate and Eye Tracking.
+Rate Control Method Based on Deep Reinforcement Learning for Dynamic Video Sequences in HEVC.
+A 460 GOPS/W Improved Mnemonic Descent Method-Based Hardwired Accelerator for Face Alignment.
+Energy Optimization and QoE Satisfaction for Wireless Visual Sensor Networks in Multi Target Tracking Scenario.
+An Artificial Intelligence-Based System to Assess Nutrient Intake for Hospitalised Patients.
+Probabilistic Undirected Graph Based Denoising Method for Dynamic Vision Sensor.
+3D Face Reconstruction From A Single Image Assisted by 2D Face Images in the Wild.
+Measuring Coarse-to-Fine Texture and Geometric Distortions for Quality Assessment of DIBR-Synthesized Images.
+Fine-Grained Visual Categorization by Localizing Object Parts With Single Image.
+Attribute-Guided Feature Learning for Few-Shot Image Recognition.
+Factorized Tensor Dictionary Learning for Visual Tensor Data Completion.
+Progressive Bilateral-Context Driven Model for Post-Processing Person Re-Identification.
+Dual Neural Networks Coupling Data Regression With Explicit Priors for Monocular 3D Face Reconstruction.
+Self-Adaptive Neural Module Transformer for Visual Question Answering.
+Deep Collaborative Discrete Hashing With Semantic-Invariant Structure Construction.
+Object Cosegmentation in Noisy Videos With Multilevel Hypergraph.
+A Novel Image Representation Method Under a Non-Standard Positional Numeral System.
+R-Net: A Relationship Network for Efficient and Accurate Scene Text Detection.
+Hybrid Refinement-Correction Heatmaps for Human Pose Estimation.
+cmSalGAN: RGB-D Salient Object Detection With Cross-View Generative Adversarial Networks.
+Snowball: Iterative Model Evolution and Confident Sample Discovery for Semi-Supervised Learning on Very Small Labeled Datasets.
+Prominent Local Representation for Dynamic Textures Based on High-Order Gaussian-Gradients.
+AttentionFGAN: Infrared and Visible Image Fusion Using Attention-Based Generative Adversarial Networks.
+Stacked U-Shape Network With Channel-Wise Attention for Salient Object Detection.
+Image-Only Real-Time Incremental UAV Image Mosaic for Multi-Strip Flight.
+Weighted Adaptive Image Super-Resolution Scheme Based on Local Fractal Feature and Image Roughness.
+Salient Object Detection by Fusing Local and Global Contexts.
+A Brain-Media Deep Framework Towards Seeing Imaginations Inside Brains.
+High Capacity Reversible Data Hiding in Encrypted Image Based on Intra-Block Lossless Compression.
+Deep Multi-Patch Matching Network for Visible Thermal Person Re-Identification.
+Coarse-to-Fine CNN for Image Super-Resolution.
+Transferable Knowledge-Based Multi-Granularity Fusion Network for Weakly Supervised Temporal Action Detection.
+Perceptual Image Hashing With Texture and Invariant Vector Distance for Copy Detection.
+QoE-driven HAS Live Video Channel Placement in the Media Cloud.
+Building High-Fidelity Human Body Models From User-Generated Data.
+Blind Image Quality Assessment Based on Multi-scale KLT.
+V-Eye: A Vision-Based Navigation System for the Visually Impaired.
+Orthogonalization-Guided Feature Fusion Network for Multimodal 2D+3D Facial Expression Recognition.
+Image Quality Assessment Using Kernel Sparse Coding.
+Tag Propagation and Cost-Sensitive Learning for Music Auto-Tagging.
+SparseFusion: Dynamic Human Avatar Modeling From Sparse RGBD Images.
+A Novel Depth and Color Feature Fusion Framework for 6D Object Pose Estimation.
+Adaptive Deep Metric Learning for Affective Image Retrieval and Classification.
+Semantic Example Guided Image-to-Image Translation.
+Low-Rank Pairwise Alignment Bilinear Network For Few-Shot Fine-Grained Image Classification.
+Part-aware Progressive Unsupervised Domain Adaptation for Person Re-Identification.
+Joint Input and Output Space Learning for Multi-Label Image Classification.
+Real-world Cross-modal Retrieval via Sequential Learning.
+COMO: Efficient Deep Neural Networks Expansion With COnvolutional MaxOut.
+Learning to Visualize Music Through Shot Sequence for Automatic Concert Video Mashup.
+Adversarial Multimodal Network for Movie Story Question Answering.
+Risk Optimization for Revenue-Driven Wireless Video Broadcasting Systems: A Copula-Based Framework.
+Deep Reinforcement Polishing Network for Video Captioning.
+LD-MAN: Layout-Driven Multimodal Attention Network for Online News Sentiment Recognition.
+Dense Video Captioning Using Graph-Based Sentence Summarization.
+A Multi-FoV Viewport-Based Visual Saliency Model Using Adaptive Weighting Losses for 360$^\circ$ Images.
+Disentangling, Embedding and Ranking Label Cues for Multi-Label Image Recognition.
+3D Skeletal Gesture Recognition via Discriminative Coding on Time-Warping Invariant Riemannian Trajectories.
+Shared Low-Rank Correlation Embedding for Multiple Feature Fusion.
+Online Hashing With Bit Selection for Image Retrieval.
+Learning Feature Representation and Partial Correlation for Multimodal Multi-Label Data.
+AutoFoley: Artificial Synthesis of Synchronized Sound Tracks for Silent Videos With Deep Learning.
+Motion Compensated Virtual View Synthesis Using Novel Particle Cell.
+Accurate and Efficient Image Super-Resolution via Global-Local Adjusting Dense Network.
+Supervised Pixel-Wise GAN for Face Super-Resolution.
+An Automated and Robust Image Watermarking Scheme Based on Deep Neural Networks.
+M-GCN: Multi-Branch Graph Convolution Network for 2D Image-based on 3D Model Retrieval.
+Neural Collaborative Preference Learning With Pairwise Comparisons.
+Character Detection in Animated Movies Using Multi-Style Adaptation and Visual Attention.
+Unsupervised Moving Object Detection in Complex Scenes Using Adversarial Regularizations.
+Context-Dependent Propagating-Based Video Recommendation in Multimodal Heterogeneous Information Networks.
+Weakly Supervised Emotion Intensity Prediction for Recomi/tmi40.htmlgnition of Emotions in Images.
+Semantic Context Encoding for Accurate 3D Point Cloud Segmentation.
+Manifold Transfer Learning via Discriminant Regression Analysis.
+RealVAD: A Real-World Dataset and A Method for Voice Activity Detection by Body Motion Analysis.
+Understanding More About Human and Machine Attention in Deep Neural Networks.
+Subjective and Objective Quality Assessment for Stereoscopic Image Retargeting.
+Learning Deep Multi-Level Similarity for Thermal Infrared Object Tracking.
+Joint Intermediate Domain Generation and Distribution Alignment for 2D Image-Based 3D Objects Retrieval.
+Blind Image Denoising via Dynamic Dual Learning.
+Improving Generative Modelling in VAEs Using Multimodal Prior.
+STGL: Spatial-Temporal Graph Representation and Learning for Visual Tracking.
+Large Factor Image Super-Resolution With Cascaded Convolutional Neural Networks.
+Guest Editorial Special Section on Hybrid Human-Artificial Intelligence for Multimedia Computing.
+Human Memory Update Strategy: A Multi-Layer Template Update Mechanism for Remote Visual Monitoring.
+Unsupervised Adversarial Instance-Level Image Retrieval.
+Edge-Cloud Collaboration Enabled Video Service Enhancement: A Hybrid Human-Artificial Intelligence Scheme.
+Virtual Try-on Network With Attribute Transformation and Local Rendering.
+A Deep Image Coding Scheme With Generative Network to Learn From Correlated Images.
+Neural Style Palette: A Multimodal and Interactive Style Transfer From a Single Style Image.
+Learning Low-Rank Sparse Representations With Robust Relationship Inference for Image Memorability Prediction.
+Enabling Artistic Control Over Pattern Density and Stroke Strength.
+Separable Reversible Data Hiding for Encrypted Three-Dimensional Models Based on Spatial Subdivision and Space Encoding.
+Image Denoising Using Superpixel-Based PCA.
+Solving Jigsaw Puzzles via Nonconvex Quadratic Programming With the Projected Power Method.
+Heterogeneous Community Question Answering via Social-Aware Multi-Modal Co-Attention Convolutional Matching.
+HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation.
+Instance-Level Heterogeneous Domain Adaptation for Limited-Labeled Sketch-to-Photo Retrieval.
+Toward Multi-Modal Conditioned Fashion Image Translation.
+Universal Chosen-Ciphertext Attack for a Family of Image Encryption Schemes.
+Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval.
+QoE-Driven UAV-Enabled Pseudo-Analog Wireless Video Broadcast: A Joint Optimization of Power and Trajectory.
+Fine-Grained Image Captioning With Global-Local Discriminative Objective.
+Joint Cross-Modal and Unimodal Features for RGB-D Salient Object Detection.
+Efficient Design and Control for Network-Assisted Device-to-Device Content Delivery Network.
+GAC-GAN: A General Method for Appearance-Controllable Human Video Motion Transfer.
+SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition.
+Deep Single Image Deraining via Modeling Haze-Like Effect.
+Adaptive Graph Completion Based Incomplete Multi-View Clustering.
+Estimation of Quality Scores From Subjective Tests-Beyond Subjects' MOS.
+Object-Aware Multimodal Named Entity Recognition in Social Media Posts With Adversarial Learning.
+YuvConv: Multi-Scale Non-Uniform Convolution Structure Based on YUV Color Model.
+Emotion Attention-Aware Collaborative Deep Reinforcement Learning for Image Cropping.
+Learning to Generate Multi-Exposure Stacks With Cycle Consistency for High Dynamic Range Imaging.
+Robust CAPTCHAs Towards Malicious OCR.
+Data-Driven Bandwidth Prediction Models and Automated Model Selection for Low Latency.
+Blind Image Clustering for Camera Source Identification via Row-Sparsity Optimization.
+Group Re-Identification With Group Context Graph Neural Networks.
+Multi-Channel Deep Networks for Block-Based Image Compressive Sensing.
+Vector-Based Feature Representations for Speech Signals: From Supervector to Latent Vector.
+Robust Coding of Encrypted Images via 2D Compressed Sensing.
+AFNet: Temporal Locality-Aware Network With Dual Structure for Accurate and Fast Action Detection.
+VehicleNet: Learning Robust Visual Representation for Vehicle Re-Identification.
+Staged Sketch-to-Image Synthesis via Semi-supervised Generative Adversarial Networks.
+Arbitrarily-Oriented Text Detection in Low Light Natural Scene Images.
+Universal Cross-Domain 3D Model Retrieval.
+Adversarial Network With Multiple Classifiers for Open Set Domain Adaptation.
+Learning Specific and General Realm Feature Representations for Image Fusion.
+Quality Evaluation for Image Retargeting With Instance Semantics.
+Deep Unsupervised Binary Descriptor Learning Through Locality Consistency and Self Distinctiveness.
+A Matrix Factorization Based Framework for Fusion of Physical and Social Sensors.
+Exploring the Representativity of Art Paintings.
+Efficient Projected Frame Padding for Video-Based Point Cloud Compression.
+An Accurate, Robust Visual Odometry and Detail-Preserving Reconstruction System.
+StyleGuide: Zero-Shot Sketch-Based Image Retrieval Using Style-Guided Image Generation.
+DLGAN: Depth-Preserving Latent Generative Adversarial Network for 3D Reconstruction.
+Hardness-Aware Dictionary Learning: Boosting Dictionary for Recognition.
+Fine Granularity Access in Interactive Compression of 360-Degree Images Based on Rate-adaptive Channel Codes.
+An Adaptive Arbitrary Multiresolution Decomposition for Multiscale Geometric Analysis.
+Learning Diverse Fashion Collocation by Neural Graph Filtering.
+Saliency Detection Using Deep Features and Affinity-Based Robust Background Subtraction.
+Hybrid-Attention Enhanced Two-Stream Fusion Network for Video Venue Prediction.
+Learning Compact Multifeature Codes for Palmprint Recognition From a Single Training Image per Palm.
+Unsupervised Multi-View Clustering by Squeezing Hybrid Knowledge From Cross View and Each View.
+Towards Coding for Human and Machine Vision: Scalable Face Image Coding.
+Light Field Image Coding Using VVC Standard and View Synthesis Based on Dual Discriminator GAN.
+Motion Blur Removal With Quality Assessment Guidance.
+Expression-Aware Face Reconstruction via a Dual-Stream Network.
+Learned Multi-Resolution Variable-Rate Image Compression With Octave-Based Residual Blocks.
+Dynamic Point Cloud Inpainting via Spatial-Temporal Graph Learning.
+Intelligibility Enhancement Via Normal-to-Lombard Speech Conversion With Long Short-Term Memory Network and Bayesian Gaussian Mixture Model.
+Spatial Pyramid Attention for Deep Convolutional Neural Networks.
+Attentive Composite Residual Network for Robust Rain Removal from Single Images.
+Interclass-Relativity-Adaptive Metric Learning for Cross-Modal Matching and Beyond.
+Attribute-Aware Pedestrian Detection in a Crowd.
+Mesh Convolution: A Novel Feature Extraction Method for 3D Nonrigid Object Classification.
+Learning to Segment Video Object With Accurate Boundaries.
+Graph Regularized Encoder-Decoder Networks for Image Representation Learning.
+Latent Representation Learning Model for Multi-Band Images Fusion via Low-Rank and Sparse Embedding.
+Luminance-Aware Pyramid Network for Low-Light Image Enhancement.
+Optimizing Video QoE for Mobile eMBMS Users in Cellular Networks.
+Frame-Wise Detection of Double HEVC Compression by Learning Deep Spatio-Temporal Representations in Compression Domain.
+Co-Saliency Detection via a General Optimization Model and Adaptive Graph Learning.
+Unsupervised Video Summarization via Relation-Aware Assignment Learning.
+Handling Outliers by Robust M-Estimation in Blind Image Deblurring.
+Attention-Based Deep Reinforcement Learning for Virtual Cinematography of 360$^{\circ}$ Videos.
+Global Manifold Learning for Interactive Image Segmentation.
+NDN-MMRA: Multi-Stage Multicast Rate Adaptation in Named Data Networking WLAN.
+Adaptive and Robust Partition Learning for Person Retrieval With Policy Gradient.
+Model-Based Joint Bit Allocation Between Geometry and Color for Video-Based 3D Point Cloud Compression.
+Adversarial 3D Convolutional Auto-Encoder for Abnormal Event Detection in Videos.
+Temporal Textual Localization in Video via Adversarial Bi-Directional Interaction Networks.
+KTransGAN: Variational Inference-Based Knowledge Transfer for Unsupervised Conditional Generative Learning.
+DCR: A Unified Framework for Holistic/Partial Person ReID.
+Temporal Constraint Background-Aware Correlation Filter With Saliency Map.
+PFAN++: Bi-Directional Image-Text Retrieval With Position Focused Attention Network.
+Speaker Clustering by Co-Optimizing Deep Representation Learning and Cluster Estimation.
+Salient Object Detection in Stereoscopic 3D Images Using a Deep Convolutional Residual Autoencoder.
+Deep Unsupervised Self-Evolutionary Hashing for Image Retrieval.
+Speech Personality Recognition Based on Annotation Classification Using Log-Likelihood Distance and Extraction of Essential Audio Features.
+LCSegNet: An Efficient Semantic Segmentation Network for Large-Scale Complex Chinese Character Recognition.
+Universal-to-Specific Framework for Complex Action Recognition.
+Explore Video Clip Order With Self-Supervised and Curriculum Learning for Video Applications.
+Blind 3D-Printing Watermarking Using Moment Alignment and Surface Norm Distribution.
+Deep Multi-View Subspace Clustering With Unified and Discriminative Learning.
+Improving Student Learning Satisfaction by Using an Innovative DASH-Based Multiple Sensorial Media Delivery Solution.
+A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment.
+Visual Question Answering With Dense Inter- and Intra-Modality Interactions.
+Self-Supervised Deep TripleNet for Video Object Segmentation.
+Monocular 3D Facial Expression Features for Continuous Affect Recognition.
+MVANet: Multi-Task Guided Multi-View Attention Network for Chinese Food Recognition.
+Learning Spatial-Temporal Representations Over Walking Tracklet for Long-Term Person Re-Identification in the Wild.
+A New Multihypothesis-Based Compressed Video Sensing Reconstruction System.
+Deep Semantic Parsing of Freehand Sketches With Homogeneous Transformation, Soft-Weighted Loss, and Staged Learning.
+Wildfish++: A Comprehensive Fish Benchmark for Multimedia Research.
+Learning the Relation Between Interested Objects and Aesthetic Region for Image Cropping.
+CoLEAP: Cooperative Learning-Based Edge Scheme With Caching and Prefetching for DASH Video Delivery.
+Collaborative Image Relevance Learning for Visual Re-Ranking.
+Parametric Shape Estimation of Human Body Under Wide Clothing.
+Optimal Wireless Streaming of Multi-Quality 360 VR Video By Exploiting Natural, Relative Smoothness-Enabled, and Transcoding-Enabled Multicast Opportunities.
+Privacy-Preserving In-Home Fall Detection Using Visual Shielding Sensing and Private Information-Embedding.
+Comparative Perceptual Assessment of Visual Signals Using Free Energy Features.
+An Approximation Algorithm to Maximize User Capacity for an Auto-Scaling VoD System.
+One-Shot Texture Retrieval Using Global Grouping Metric.
+Hard Pixel Mining for Depth Privileged Semantic Segmentation.
+Low-Cost Anti-Copying 2D Barcode by Exploiting Channel Noise Characteristics.
+A New Approach for Character Recognition of Multi-Style Vehicle License Plates.
+Deep Hashing With Weighted Spatial Importance.
+C-GCN: Correlation Based Graph Convolutional Network for Audio-Video Emotion Recognition.
+Controlling P2P-CDN Live Streaming Services at SDN-Enabled Multi-Access Edge Datacenters.
+Wide Color Gamut Image Content Characterization: Method, Evaluation, and Applications.
+Kernelized Multiview Subspace Analysis By Self-Weighted Learning.
+Adaptive Multi-Feature Reliability Re-Determinative Correlation Filter for Visual Tracking.
+Sparkle: User-Aware Viewport Prediction in 360-Degree Video Streaming.
+String Prediction for 4: 2: 0 Format Screen Content Coding and Its Implementation in AVS3.
+Predicting the Perceptual Quality of Point Cloud: A 3D-to-2D Projection-Based Exploration.
+Hierarchical Group-Level Emotion Recognition.
+Learning to Hash With Dimension Analysis Based Quantizer for Image Retrieval.
+Domain-Oriented Semantic Embedding for Zero-Shot Learning.
+Anisotropic Graph Convolutional Network for Semi-Supervised Learning.
+Rank-Consistency Deep Hashing for Scalable Multi-Label Image Search.
+User Identity Linkage Across Social Media via Attentive Time-Aware User Modeling.
+Aggregating Global and Local Visual Representation for Vehicle Re-IDentification.
+Environmental Sound Classification Using Local Binary Pattern and Audio Features Collaboration.
+Dynamic Motion Estimation and Evolution Video Prediction Network.
+Emotion Knowledge Driven Video Highlight Detection.
+Image-Text Multimodal Emotion Classification via Multi-View Attentional Network.
+Story-driven Video Editing.
+MaD-DLS: Mean and Deviation of Deep and Local Similarity for Image Quality Assessment.
+Point Cloud Rendering After Coding: Impacts on Subjective and Objective Quality.
+Pixel-Level Non-local Image Smoothing With Objective Evaluation.
+Adaptive Partial Multi-View Hashing for Efficient Social Image Retrieval.
+TBEFN: A Two-Branch Exposure-Fusion Network for Low-Light Image Enhancement.
+Multi-Encoder Towards Effective Anomaly Detection in Videos.
+Acoustic Room Modelling Using 360 Stereo Cameras.
+CAA-Net: Conditional Atrous CNNs With Attention for Explainable Device-Robust Acoustic Scene Classification.
+Modeling Fashion Influence From Photos.
+Iterative Knowledge Distillation for Automatic Check-Out.
+Transformer Encoder With Multi-Modal Multi-Head Attention for Continuous Affect Recognition.
+A Resource-Efficient Parallel Connected Component Labeling Algorithm and Its Hardware Implementation.
+Improving Driver Gaze Prediction With Reinforced Attention.
+Robust and Efficient RGB-D SLAM in Dynamic Environments.
+Domain Adaptation for Food Intake Classification With Teacher/Student Learning.
+Capturing Relevant Context for Visual Tracking.
+Re-Visiting Discriminator for Blind Free-Viewpoint Image Quality Assessment.
+Blind Quality Assessment of Screen Content Images Via Macro-Micro Modeling of Tensor Domain Dictionary.
+DSLR: Deep Stacked Laplacian Restorer for Low-Light Image Enhancement.
+Learning Dual-Pooling Graph Neural Networks for Few-Shot Video Classification.
+Discriminative Region Mining for Object Detection.
+Collaborative Social-Aware and QoE-Driven Video Caching and Adaptation in Edge Network.
+TTL-IQA: Transitive Transfer Learning Based No-Reference Image Quality Assessment.
+Redundancy and Optimization of tANS Entropy Encoders.
+SEA: Sentence Encoder Assembly for Video Retrieval by Textual Queries.
+Temporal Action Localization Using Long Short-Term Dependency.
+Person Retrieval in Surveillance Videos Via Deep Attribute Mining and Reasoning.
+Fast Multi-Type Tree Partitioning for Versatile Video Coding Using a Lightweight Neural Network.
+Complementary Incremental Hashing With Query-Adaptive Re-Ranking for Image Retrieval.
+Learning Fundamental Visual Concepts Based on Evolved Multi-Edge Concept Graph.
+Parameter Sharing Exploration and Hetero-Center Triplet Loss for Visible-Thermal Person Re-Identification.
+Referring Expression Comprehension: A Survey of Methods and Datasets.
+Multimodal Disentangled Domain Adaption for Social Media Event Rumor Detection.
+PVC-SLP: Perceptual Vibrotactile-Signal Compression Based-on Sparse Linear Prediction.
+APSE: Attention-Aware Polarity-Sensitive Embedding for Emotion-Based Image Retrieval.
+From Edge to Keypoint: An End-to-End Framework For Indoor Layout Estimation.
+A Hybrid Approach for Detecting Prerequisite Relations in Multi-Modal Food Recipes.
+Deep Texture Exemplar Extraction Based on Trimmed T-CNN.
+Adaptively Clustering-Driven Learning for Visual Relationship Detection.
+Predicting User Quitting Ratio in Adaptive Bitrate Video Streaming.
+Semantic-Driven Interpretable Deep Multi-Modal Hashing for Large-Scale Multimedia Retrieval.
+On Reliable Multi-View Affinity Learning for Subspace Clustering.

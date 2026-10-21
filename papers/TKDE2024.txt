@@ -1,0 +1,666 @@
+A Survey of Graph-Based Deep Learning for Anomaly Detection in Distributed Systems.
+A Unified Framework for Contextual and Factoid Question Generation.
+Balanced Class-Incremental 3D Object Classification and Retrieval.
+Broad Learning Autoencoder With Graph Structure for Data Clustering.
+CityTrans: Domain-Adversarial Training With Knowledge Transfer for Spatio-Temporal Prediction Across Cities.
+Convergence of a Fast Hierarchical Alternating Least Squares Algorithm for Nonnegative Matrix Factorization.
+CT-Auth: Capacitive Touchscreen-Based Continuous Authentication on Smartphones.
+Efficient Discovery of Functional Dependencies on Massive Data.
+Efficient Privacy-Preserving Spatial Data Query in Cloud Computing.
+Embedding Graph Convolutional Networks in Recurrent Neural Networks for Predictive Monitoring.
+Exploiting Group-Level Behavior Pattern for Session-Based Recommendation.
+FuFaction: Fuzzy Factual Inconsistency Correction on Crowdsourced Documents With Hybrid-Mask at the Hidden-State Level.
+GraphMM: Graph-Based Vehicular Map Matching by Leveraging Trajectory and Road Correlations.
+Hierarchical Alignment With Polar Contrastive Learning for Next-Basket Recommendation.
+Human Cognition-Based Consistency Inference Networks for Multi-Modal Fake News Detection.
+Knowledge Graph Contrastive Learning Based on Relation-Symmetrical Structure.
+Multi-Modal Hashing for Efficient Multimedia Retrieval: A Survey.
+Multi-Scale Self-Supervised Graph Contrastive Learning With Injective Node Augmentation.
+Neural Moderation of ASMR Erotica Content in Social Networks.
+Neural Similarity Search on Supergraph Containment.
+PUTS: Privacy-Preserving and Utility-Enhancing Framework for Trajectory Synthesization.
+Quantum Bandit With Amplitude Amplification Exploration in an Adversarial Environment.
+SAFER-STUDENT for Safe Deep Semi-Supervised Learning With Unseen-Class Unlabeled Data.
+Self-Supervised Learning for Recommender Systems: A Survey.
+Size-Constrained Community Search on Large Networks: An Effective and Efficient Solution.
+Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting.
+Spatiotemporal Propagation Learning for Network-Wide Flight Delay Prediction.
+Static and Streaming Discovery of Maximal Linear Representation Between Time Series.
+Towards Semi-Supervised Universal Graph Classification.
+Two-Stage Asymmetric Similarity Preserving Hashing for Cross-Modal Retrieval.
+WL-Align: Weisfeiler-Lehman Relabeling for Aligning Users Across Networks via Regularized Representation Learning.
+Causal Distillation for Alleviating Performance Heterogeneity in Recommender Systems.
+Collaborative Knowledge Graph Fusion by Exploiting the Open Corpus.
+Differentiable and Scalable Generative Adversarial Models for Data Imputation.
+Discovering Dynamic Patterns From Spatiotemporal Data With Time-Varying Low-Rank Autoregression.
+DropConn: Dropout Connection Based Random GNNs for Molecular Property Prediction.
+Dual Attention Graph Convolutional Network for Relation Extraction.
+Dual Contrastive Learning for Efficient Static Feature Representation in Sequential Recommendations.
+Elastic Multi-View Subspace Clustering With Pairwise and High-Order Correlations.
+Enhance Knowledge Graph Embedding by Mixup.
+Ensemble Clustering With Attentional Representation.
+Evidence Reasoning and Curriculum Learning for Document-Level Relation Extraction.
+Extracting Top- Frequent and Diversified Patterns in Knowledge Graphs.
+From Minimum Change to Maximum Density: On Determining Near-Optimal S-Repair.
+GNN Cleaner: Label Cleaner for Graph Structured Data.
+GPU-Based Efficient Parallel Heuristic Algorithm for High-Utility Itemset Mining in Large Transaction Datasets.
+GS-RS: A Generative Approach for Alleviating Cold Start and Filter Bubbles in Recommender Systems.
+Individual and Structural Graph Information Bottlenecks for Out-of-Distribution Generalization.
+Integrated Personalized and Diversified Search Based on Search Logs.
+Interpretable Stochastic Block Influence Model: Measuring Social Influence Among Homophilous Communities.
+Multi-Modal Knowledge Graph Construction and Application: A Survey.
+Multi-View Fuzzy Representation Learning With Rules Based Model.
+NEAR: Non-Supervised Explainability Architecture for Accurate Review-Based Collaborative Filtering.
+On Atomicity and Confidentiality Across Blockchains Under Failures.
+PEAK: Privacy-Enhanced Incentive Mechanism for Distributed -Anonymity in LBS.
+Probabilistic Modeling of Assimilate-Contrast Effects in Online Rating Systems.
+Reliability-Driven Local Community Search in Dynamic Networks.
+Semi-Supervised Local Community Detection.
+Social-Enhanced Explainable Recommendation With Knowledge Graph.
+The Influence of Digital Technologies on Knowledge Management in Engineering: A Systematic Literature Review.
+Towards Effective and Robust Graph Contrastive Learning With Graph Autoencoding.
+TRustworthy Uncertainty Propagation for Sequential Time-Series Analysis in RNNs.
+Two-Step Strategy for Domain Adaptation Retrieval.
+XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation.
+$D^{2}MTS$: Enabling Dependable Data Collection With Multiple Crowdsourcers Trust Sharing in Mobile Crowdsensing.
+A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends.
+Boosting Subspace Co-Clustering via Bilateral Graph Convolution.
+Collaborative Graph Neural Networks for Attributed Network Embedding.
+Comprehensive Privacy Analysis on Federated Recommender System Against Attribute Inference Attacks.
+DB-LSH 2.0: Locality-Sensitive Hashing With Query-Based Dynamic Bucketing.
+Denoising Variational Graph of Graphs Auto-Encoder for Predicting Structured Entity Interactions.
+Distance Information Improves Heterogeneous Graph Neural Networks.
+Domain Adaptation and Summary Distillation for Unsupervised Query Focused Summarization.
+Dynamic Assortment Selection Under Inventory and Limited Switches Constraints.
+Efficient Balanced Signed Biclique Search in Signed Bipartite Graphs.
+Efficient Classification by Removing Bayesian Confusing Samples.
+Enhancing Locally Adaptive Smoothing of Graph Neural Networks Via Laplacian Node Disagreement.
+Fast and Slow Thinking: A Two-Step Schema-Aware Approach for Instance Completion in Knowledge Graphs.
+Generating Counterfactual Instances for Explainable Class-Imbalance Learning.
+Identifying Large Structural Balanced Cliques in Signed Graphs.
+Iterative Graph Self-Distillation.
+Knowledge-Aware Collaborative Filtering With Pre-Trained Language Model for Personalized Review-Based Rating Prediction.
+Learning Idempotent Representation for Subspace Clustering.
+Let the Information Fly: Reconstructing Social Network After a Node Deleted.
+Model-Free Subsampling Method Based on Uniform Designs.
+Multivariate Cognitive Response Framework for Student Performance Prediction on MOOC.
+Outliers Robust Unsupervised Feature Selection for Structured Sparse Subspace.
+Parallel and External-Memory Construction of Minimal Perfect Hash Functions With PTHash.
+Query-Aware Explainable Product Search With Reinforcement Knowledge Graph Reasoning.
+Refining Codes for Locality Sensitive Hashing.
+RFDG: Reinforcement Federated Domain Generalization.
+Sample Efficient Offline-to-Online Reinforcement Learning.
+Super Resolution Graph With Conditional Normalizing Flows for Temporal Link Prediction.
+Topic Modeling on Document Networks With Dirichlet Optimal Transport Barycenter.
+Two-Layer Space-Oriented Partitioning for Non-Point Data.
+Unified Dense Subgraph Detection: Fast Spectral Theory Based Algorithms.
+XMQAs: Constructing Complex-Modified Question-Answering Dataset for Robust Question Understanding.
+A Fast Algorithm for Moderating Critical Nodes via Edge Removal.
+A Hierarchical Block Distance Model for Ultra Low-Dimensional Graph Representations.
+A Survey of Knowledge Enhanced Pre-Trained Language Models.
+A Survey on Neural Data-to-Text Generation.
+Beyond Co-Occurrence: Multi-Modal Session-Based Recommendation.
+Clustering Ensemble via Diffusion on Adaptive Multiplex.
+Continuous-Time User Preference Modelling for Temporal Sets Prediction.
+Deciphering Clusters With a Deterministic Measure of Clustering Tendency.
+DIOR: Learning to Hash With Label Noise Via Dual Partition and Contrastive Learning.
+Efficient $k$k-Clique Counting on Large Graphs: The Power of Color-Based Sampling Approaches.
+FairSample: Training Fair and Accurate Graph Convolutional Neural Networks Efficiently.
+Flexible Tensor Learning for Multi-View Clustering With Markov Chain.
+FlGan: GAN-Based Unbiased Federated Learning Under Non-IID Settings.
+Fraction-Score: A Generalized Support Measure for Weighted and Maximal Co-Location Pattern Mining.
+Graph Adversarial Immunization for Certifiable Robustness.
+GREASE: Graph Imbalance Reduction by Adding Sets of Edges.
+Hierarchical Aggregations for High-Dimensional Multiplex Graph Embedding.
+HSMH: A Hierarchical Sequence Multi-Hop Reasoning Model With Reinforcement Learning.
+Incremental Maximal Clique Enumeration for Hybrid Edge Changes in Large Dynamic Graphs.
+Integrating Entity Attributes for Error-Aware Knowledge Graph Embedding.
+Kullback-Leibler Divergence-Based Out-of-Distribution Detection With Flow-Based Generative Models.
+Learning to Understand the Vague Graph for Stock Prediction With Momentum Spillovers.
+Multi-Hop Knowledge Graph Reasoning in Few-Shot Scenarios.
+Multi-Label Clinical Time-Series Generation via Conditional GAN.
+Multi-Task Decouple Learning With Hierarchical Attentive Point Process.
+Out-of-Distribution Generalization With Causal Feature Separation.
+Stage-Aware Hierarchical Attentive Relational Network for Diagnosis Prediction.
+Synthesizing Human Trajectories Based on Variational Point Processes.
+Task Assignment With Efficient Federated Preference Learning in Spatial Crowdsourcing.
+Towards Flexible and Adaptive Neural Process for Cold-Start Recommendation.
+Towards Practical Oblivious Join Processing.
+Adaptive Clustering Based Personalized Federated Learning Framework for Next POI Recommendation With Location Noise.
+An Efficient and Distributed Framework for Real-Time Trajectory Stream Clustering.
+Anonymous, Secure, Traceable, and Efficient Decentralized Digital Forensics.
+Bidirectional Attentive Multi-View Clustering.
+Compressed Data Direct Computing for Databases.
+Cryptographic Primitives in Privacy-Preserving Machine Learning: A Survey.
+DKWS: A Distributed System for Keyword Search on Massive Graphs.
+Event-Based Dynamic Graph Representation Learning for Patent Application Trend Prediction.
+EvoS&R: Evolving Multiple Seeds and Radii for Varying Density Data Clustering.
+Exploring Large-Scale Financial Knowledge Graph for SMEs Supply Chain Mining.
+GIaNt: Protein-Ligand Binding Affinity Prediction via Geometry-Aware Interactive Graph Neural Network.
+GTCAlign: Global Topology Consistency-Based Graph Alignment.
+Reading Broadly to Open Your Mind: Improving Open Relation Extraction With Search Documents Under Self-Supervisions.
+Investigating the Sample Weighting Mechanism Using an Interpretable Weighting Framework.
+Multi-Scale Attention Flow for Probabilistic Time Series Forecasting.
+Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering.
+Outlier Detection Using Three-Way Neighborhood Characteristic Regions and Corresponding Fusion Measurement.
+Partial Clustering Ensemble.
+Penalized Flow Hypergraph Local Clustering.
+Predicting Human Mobility via Self-Supervised Disentanglement Learning.
+Privacy-Preserving Constrained Domain Generalization Via Gradient Alignment.
+Reconnecting the Estranged Relationships: Optimizing the Influence Propagation in Evolving Networks.
+Revisiting Adversarial Attacks on Graph Neural Networks for Graph Classification.
+Rule-Guided Counterfactual Explainable Recommendation.
+Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study.
+Tackling Long-Tailed Distribution Issue in Graph Neural Networks via Normalization.
+TED$^+$+: Towards Discovering Top-k Edge-Diversified Patterns in a Graph Database.
+Towards a Unified Understanding of Uncertainty Quantification in Traffic Flow Forecasting.
+Unsupervised Detection of Behavioural Drifts With Dynamic Clustering and Trajectory Analysis.
+Variational Counterfactual Prediction Under Runtime Domain Corruption.
+veffChain: Enabling Freshness Authentication of Rich Queries Over Blockchain Databases.
+A Fast Learned Key-Value Store for Concurrent and Distributed Systems.
+A More Context-Aware Approach for Textual Adversarial Attacks Using Probability Difference-Guided Beam Search.
+A Robust Database Watermarking Scheme That Preserves Statistical Characteristics.
+A Trajectory-Oriented Locality-Sensitive Hashing Method for User Identification.
+AutoAlign: Fully Automatic and Effective Knowledge Graph Alignment Enabled by Large Language Models.
+COPP-Miner: Top-k Contrast Order-Preserving Pattern Mining for Time Series Classification.
+Counterfactual Explainable Conversational Recommendation.
+Cross-Domain Recommendation via Progressive Structural Alignment.
+CUBE: Causal Intervention-Based Counterfactual Explanation for Prediction Models.
+Efficient Frequency-Based Randomization for Spatial Trajectories Under Differential Privacy.
+Enabling Efficient, Verifiable, and Secure Conjunctive Keyword Search in Hybrid-Storage Blockchains.
+Explainable Legal Case Matching via Graph Optimal Transport.
+FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-Based Node Classification.
+Knowledge Graph-Based Behavior Denoising and Preference Learning for Sequential Recommendation.
+Learning Informative Representation for Fairness-Aware Multivariate Time-Series Forecasting: A Group-Based Perspective.
+Locality-Aware Tail Node Embeddings on Homogeneous and Heterogeneous Networks.
+Multi-Source Domain Adaptation Enhanced Warehouse Dwell Time Prediction.
+Multithreading Heterogeneous Graph Aggregation.
+Multi-View Attributed Network Embedding Using Manifold Regularization Preserving Non-Negative Matrix Factorization.
+Neural Abstractive Summarization for Long Text and Multiple Tables.
+Normalized Robust PCA With Adaptive Reconstruction Error Minimization.
+PATNet: Propensity-Adjusted Temporal Network for Joint Imputation and Prediction Using Binary EHRs With Observation Bias.
+Schema-Aware Hyper-Relational Knowledge Graph Embeddings for Link Prediction.
+Simultaneous Deep Clustering and Feature Selection via K-Concrete Autoencoder.
+Spatio-Temporal Memory Augmented Multi-Level Attention Network for Traffic Prediction.
+StableGCN: Decoupling and Reconciling Information Propagation for Collaborative Filtering.
+STWave$^+$+: A Multi-Scale Efficient Spectral Graph Attention Network With Long-Term Trends for Disentangled Traffic Flow Forecasting.
+TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation.
+Uncertainty-Guided Boundary Learning for Imbalanced Social Event Detection.
+Variational Continuous Label Distribution Learning for Multi-Label Text Classification.
+Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics.
+WAKE: A Weakly Supervised Business Process Anomaly Detection Framework via a Pre-Trained Autoencoder.
+A Distributed Solution for Efficient K Shortest Paths Computation Over Dynamic Road Networks.
+A Generic Schema Evolution Approach for NoSQL and Relational Databases.
+A Neural Database for Answering Aggregate Queries on Incomplete Relational Data.
+A Suite of Efficient Randomized Algorithms for Streaming Record Linkage.
+A Survey on Generative Diffusion Models.
+A Unified and Scalable Algorithm Framework of User-Defined Temporal $(k,\mathcal {X})$(k,X)-Core Query.
+An Effective Optimization Method for Fuzzy $k$k-Means With Entropy Regularization.
+An Index for Set Intersection With Post-Filtering.
+AStore: Uniformed Adaptive Learned Index and Cache for RDMA-Enabled Key-Value Store.
+Bayes-Enhanced Multi-View Attention Networks for Robust POI Recommendation.
+Co-Engaged Location Group Search in Location-Based Social Networks.
+Comfort-Aware Lane Change Planning With Exit Strategy for Autonomous Vehicle.
+Denoising Item Graph With Disentangled Learning for Recommendation.
+DepMSTAT: Multimodal Spatio-Temporal Attentional Transformer for Depression Detection.
+Dynamic Graph Embedding via Meta-Learning.
+Dynamic Quantification With Constrained Error Under Unknown General Dataset Shift.
+Efficient Algorithms for Group Hitting Probability Queries on Large Graphs.
+Efficient Skyline Frequent-Utility Itemset Mining Algorithm on Massive Data.
+Enhancing Drug Recommendations Via Heterogeneous Graph Representation Learning in EHR Networks.
+Explainable Recommender With Geometric Information Bottleneck.
+Focused Contrastive Loss for Classification With Pre-Trained Language Models.
+Fraud's Bargain Attack: Generating Adversarial Text Samples via Word Manipulation Process.
+Geometric-Contextual Mutual Infomax Path Aggregation for Relation Reasoning on Knowledge Graph.
+Give us the Facts: Enhancing Large Language Models With Knowledge Graphs for Fact-Aware Language Modeling.
+Half-Xor: A Fully-Dynamic Sketch for Estimating the Number of Distinct Values in Big Tables.
+Heterogeneous Graph Condensation.
+Hierarchical Context Representation and Self-Adaptive Thresholding for Multivariate Anomaly Detection.
+Hybrid Regret Minimization: A Submodular Approach.
+Label-Free Multivariate Time Series Anomaly Detection.
+Lauca: A Workload Duplicator for Benchmarking Transactional Database Performance.
+LDPGuard: Defenses Against Data Poisoning Attacks to Local Differential Privacy Protocols.
+Learning a Structural Causal Model for Intuition Reasoning in Conversation.
+Learning Graph ODE for Continuous-Time Sequential Recommendation.
+Learning Hierarchical Preferences for Recommendation With Mixture Intention Neural Stochastic Processes.
+Link Prediction in Stagewise Graphs.
+LSADEN: Local Spatial-Aware Community Detection in Evolving Geo-Social Networks.
+MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering.
+MPV: Enabling Fine-Grained Query Authentication in Hybrid-Storage Blockchain.
+On Data Distribution Leakage in Cross-Silo Federated Learning.
+On Efficiently Processing MIT Queries in Trajectory Data.
+Optimizing Long-Term Efficiency and Fairness in Ride-Hailing Under Budget Constraint via Joint Order Dispatching and Driver Repositioning.
+Personalized Elastic Embedding Learning for On-Device Recommendation.
+Personalized Prompt for Sequential Recommendation.
+Popularity Balanced Multi-Task Bundling for Mobile Crowd Sensing.
+Position Matters: Play a Sequential Game to Detect Significant Communities.
+ProjPert: Projection-Based Perturbation for Label Protection in Split Learning Based Vertical Federated Learning.
+RDGT: Enhancing Group Cognitive Diagnosis With Relation-Guided Dual-Side Graph Transformer.
+Reinforced Path Reasoning for Counterfactual Explainable Recommendation.
+Row-Sparse Principal Component Analysis via Coordinate Descent Method.
+RustGraph: Robust Anomaly Detection in Dynamic Graphs by Jointly Learning Structural-Temporal Dependency.
+SNMCF: A Scalable Non-Negative Matrix Co-Factorization for Student Cognitive Modeling.
+Stacked Network to Realize Spectral Clustering With Adaptive Graph Learning.
+Structures Aware Fine-Grained Contrastive Adversarial Hashing for Cross-Media Retrieval.
+TagRec++: Hierarchical Label Aware Attention Network for Question Categorization.
+Temporal Social Graph Network Hashing for Efficient Recommendation.
+Towards Hierarchical Intent Disentanglement for Bundle Recommendation.
+Towards Very Deep Representation Learning for Subspace Clustering.
+Unifying Large Language Models and Knowledge Graphs: A Roadmap.
+Vertex Encoding for Edge Nonexistence Determination With SIMD Acceleration.
+Vertical Federated Learning: Concepts, Advances, and Challenges.
+A Survey of Multi-Dimensional Indexes: Past and Future Trends.
+An Efficient Adaptive Multi-Kernel Learning With Safe Screening Rule for Outlier Detection.
+Belief Rényi Divergence of Divergence and its Application in Time Series Classification.
+BGAE: Auto-Encoding Multi-View Bipartite Graph Clustering.
+BIC-Based Mixture Model Defense Against Data Poisoning Attacks on Classifiers: A Comprehensive Study.
+Compact Estimator for Streaming Triangle Counting.
+Context-Aware Commonsense Knowledge Graph Reasoning With Path-Guided Explanations.
+DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection.
+Differentiable Clustering for Graph Attention.
+Dimensionality Reduction for Partial Label Learning: A Unified and Adaptive Approach.
+Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting.
+Efficient Algorithms for Rank-Regret Minimization.
+FedCORE: Federated Learning for Cross-Organization Recommendation Ecosystem.
+Federated Continual Learning via Knowledge Fusion: A Survey.
+Fresh Data Retrieval With Speed-Adjustable Mobile Devices in Cyber-Physical Systems.
+GNNGO3D: Protein Function Prediction Based on 3D Structure and Functional Hierarchy Learning.
+HJE: Joint Convolutional Representation Learning for Knowledge Hypergraph Completion.
+HyObscure: Hybrid Obscuring for Privacy-Preserving Data Publishing.
+Improving Automatic Parallel Training via Balanced Memory Workload Optimization.
+Instance Selection via Voronoi Neighbors for Binary Classification Tasks.
+Inter-Intra Modality Knowledge Learning and Clustering Noise Alleviation for Unsupervised Visible-Infrared Person Re-Identification.
+LDPTube: Theoretical Utility Benchmark and Enhancement for LDP Mechanisms in High-Dimensional Space.
+Learnable Model Augmentation Contrastive Learning for Sequential Recommendation.
+Learned Optimizer for Online Approximate Query Processing in Data Exploration.
+Longer Pick-Up for Less Pay: Towards Discount-Based Mobility Services.
+MC-SQ and MC-MQ: Ensembles for Multi-Class Quantification.
+MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection.
+Metric Distribution to Vector: Constructing Data Representation via Broad-Scale Discrepancies.
+Modeling Spatio-Temporal Dynamical Systems With Neural Discrete Learning and Levels-of-Experts.
+Motif-Driven Contrastive Learning of Graph Representations.
+Multi-Label Classification With High-Rank and High-Order Label Correlations.
+Multi-Modal Traumatic Brain Injury Prognosis via Structure-Aware Field-Wise Learning.
+Nearly Optimal Rates of Privacy-Preserving Sparse Generalized Eigenvalue Problem.
+Network Controllability Perspectives on Graph Representation.
+On Efficient Shortest Path Computation on Terrain Surface: A Direction-Oriented Approach.
+Online Learning From Evolving Feature Spaces With Deep Variational Models.
+Open-Domain Semi-Supervised Learning via Glocal Cluster Structure Exploitation.
+Partial Label Feature Selection: An Adaptive Approach.
+Revisiting the Effective Number Theory for Imbalanced Learning.
+Robust and Consistent Anchor Graph Learning for Multi-View Clustering.
+Robust Multi-Kernel Nearest Neighborhood for Outlier Detection.
+Semi-Supervised Graph Contrastive Learning With Virtual Adversarial Augmentation.
+Simple and Efficient Partial Graph Adversarial Attack: A New Perspective.
+Spatio-Temporal Enhanced Contrastive and Contextual Learning for Weather Forecasting.
+Supporting Your Idea Reasonably: A Knowledge-Aware Topic Reasoning Strategy for Citation Recommendation.
+Toward Enhanced Robustness in Unsupervised Graph Representation Learning: A Graph Information Bottleneck Perspective.
+Trajectory Distribution Aware Graph Convolutional Network for Trajectory Prediction Considering Spatio-Temporal Interactions and Scene Information.
+Using Methods From Dimensionality Reduction for Active Learning With Low Query Budget.
+Z-Laplacian Matrix Factorization: Network Embedding With Interpretable Graph Signals.
+A Light-Weight and Robust Tensor Convolutional Autoencoder for Anomaly Detection.
+A Novel Algorithm for Efficiently Mining Spatial Multi-Level Co-Location Patterns.
+A Teacher-Free Graph Knowledge Distillation Framework With Dual Self-Distillation.
+A Unified Meta-Learning Framework for Fair Ranking With Curriculum Learning.
+Agree to Disagree: Personalized Temporal Embedding and Routing for Stock Forecast.
+AiFed: An Adaptive and Integrated Mechanism for Asynchronous Federated Data Mining.
+An Efficient Verification Approach to Separation of Duty in Attribute-Based Access Control.
+An Experimental Study on Federated Equi-Joins.
+Attention Is Not the Only Choice: Counterfactual Reasoning for Path-Based Explainable Recommendation.
+BiTDB: Constructing A Built-in TEE Secure Database for Embedded Systems.
+BM-FL: A Balanced Weight Strategy for Multi-Stage Federated Learning Against Multi-Client Data Skewing.
+CCML: Curriculum and Contrastive Learning Enhanced Meta-Learner for Personalized Spatial Trajectory Prediction.
+CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network.
+Data-Aware Adaptive Compression for Stream Processing.
+DIBA: A Re-Configurable Stream Processor.
+Differentially Private Federated Learning on Non-iid Data: Convergence Analysis and Adaptive Optimization.
+Efficient Algorithms for Personalized PageRank Computation: A Survey.
+Efficient and Privacy-Preserving Skyline Queries Over Encrypted Data Under a Blockchain-Based Audit Architecture.
+Efficient Maximal Biclique Enumeration on Large Signed Bipartite Graphs.
+Efficient Multiview Representation Learning With Correntropy and Anchor Graph.
+Ego-Network Segmentation via (Weighted) Jaccard Median.
+Feature Space Recovery for Efficient Incomplete Multi-View Clustering.
+FELight: Fairness-Aware Traffic Signal Control via Sample-Efficient Reinforcement Learning.
+Graph Alignment Neural Network Model With Graph to Sequence Learning.
+GTRL: An Entity Group-Aware Temporal Knowledge Graph Representation Learning Method.
+Hierarchical Dynamic Graph Clustering Network.
+I-Razor: A Differentiable Neural Input Razor for Feature Selection and Dimension Search in DNN-Based Recommender Systems.
+Learning With Location-Based Fairness: A Statistically-Robust Framework and Acceleration.
+Maintaining Top-$t$ Cores in Dynamic Graphs.
+MatchXML: An Efficient Text-Label Matching Framework for Extreme Multi-Label Text Classification.
+Mitigating Hidden Confounding Effects for Causal Recommendation.
+Online Feature Selection With Varying Feature Spaces.
+Online Learning for Data Streams With Incomplete Features and Labels.
+PanDa: Prompt Transfer Meets Knowledge Distillation for Efficient Model Adaptation.
+Revisiting Attack-Caused Structural Distribution Shift in Graph Anomaly Detection.
+Rewriting Queries for Hyper-Relations.
+RNP-Miner: Repetitive Nonoverlapping Sequential Pattern Mining.
+Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.
+SHINE: A Scalable Heterogeneous Inductive Graph Neural Network for Large Imbalanced Datasets.
+Smart Contract Vulnerability Detection Based on Automated Feature Extraction and Feature Interaction.
+Supervised Feature Selection via Multi-Center and Local Structure Learning.
+Task Allocation in Spatial Crowdsourcing: An Efficient Geographic Partition Framework.
+Text-Rich Graph Neural Networks With Subjective-Objective Semantic Modeling.
+UNM: A Universal Approach for Noisy Multi-Label Learning.
+Unsupervised Transfer Aided Lifelong Regression for Learning New Tasks Without Target Output.
+WebUltron: An Ultimate Retriever on Webpages Under the Model-Centric Paradigm.
+A Survey for Federated Learning Evaluations: Goals and Measures.
+Black-Box Adversarial Attack on Graph Neural Networks With Node Voting Mechanism.
+Bootstrapping on Continuous-Time Dynamic Graphs for Crowd Flow Modeling.
+Contrastive Time-Series Anomaly Detection.
+Data Provenance via Differential Auditing.
+Deep Multi-Modal Hashing With Semantic Enhancement for Multi-Label Micro-Video Retrieval.
+DForest: A Minimal Dimensionality-Aware Indexing for High-Dimensional Exact Similarity Search.
+Discovering Predictable Latent Factors for Time Series Forecasting.
+DMM: A Deep Reinforcement Learning Based Map Matching Framework for Cellular Data.
+Edge-Protected Triangle Count Estimation Under Relationship Local Differential Privacy.
+FRAMU: Attention-Based Machine Unlearning Using Federated Reinforcement Learning.
+GAN-Based Temporal Association Rule Mining on Multivariate Time Series Data.
+Heterogeneous Graph Contrastive Learning With Meta-Path Contexts and Adaptively Weighted Negative Samples.
+Improved Contraction-Expansion Subspace Ensemble for High-Dimensional Imbalanced Data Classification.
+Integrating Visualised Automatic Temporal Relation Graph into Multi-Task Learning for Alzheimer's Disease Progression Prediction.
+Interaction Subgraph Sequential Topology-Aware Network for Transferable Recommendation.
+Large-Scale Graph Label Propagation on GPUs.
+MorphDAG: A Workload-Aware Elastic DAG-Based Blockchain.
+Multi-Class Imbalance Classification Based on Data Distribution and Adaptive Weights.
+Multi-Passage Machine Reading Comprehension Through Multi-Task Learning and Dual Verification.
+Noised Multi-Layer Networks Clustering With Graph Denoising and Structure Learning.
+Preventing Inferences Through Data Dependencies on Sensitive Data.
+Prompt-Learning for Short Text Classification.
+RARE: Robust Masked Graph Autoencoder.
+Result Diversification in Search and Recommendation: A Survey.
+Spatial-Temporal Interval Aware Individual Future Trajectory Prediction.
+Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey.
+SV-Learner: Support-Vector Contrastive Learning for Robust Learning With Noisy Labels.
+Unravelling Token Ecosystem of EOSIO Blockchain.
+When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture.
+A Circumstance-Aware Neural Framework for Explainable Legal Judgment Prediction.
+A Clustering Framework for Unsupervised and Semi-Supervised New Intent Discovery.
+A D-Truss-Equivalence Based Index for Community Search Over Large Directed Graphs.
+A Feature Importance-Based Multi-Layer CatBoost for Student Performance Prediction.
+A Survey on Concurrent Processing of Graph Analytical Queries: Systems and Algorithms.
+A Truthful Pricing-Based Defending Strategy Against Adversarial Attacks in Budgeted Combinatorial Multi-Armed Bandits.
+A Unified Framework for Mining Batch and Periodic Batch in Data Streams.
+Adaptively Topological Tensor Network for Multi-View Subspace Clustering.
+AdaRisk: Risk-Adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection.
+Adversarial Contrastive Learning for Evidence-Aware Fake News Detection With Graph Neural Networks.
+Anomaly Detection Under Contaminated Data With Contamination-Immune Bidirectional GANs.
+Application of Gradient Boosting in the Design of Fuzzy Rule-Based Regression Models.
+Attention-Aware Social Graph Transformer Networks for Stochastic Trajectory Prediction.
+AutoSR: Automatic Sequential Recommendation System Design.
+BADFL: Backdoor Attack Defense in Federated Learning From Local Model Perspective.
+Bidirectional Fusion With Cross-View Graph Filter for Multi-View Clustering.
+Bilateral Multi-Behavior Modeling for Reciprocal Recommendation in Online Recruitment.
+Bi-Level Graph Structure Learning for Next POI Recommendation.
+Block-Diagonal Guided DBSCAN Clustering.
+Calibrated One-Class Classification for Unsupervised Time Series Anomaly Detection.
+$\mathsf {CheetahTraj}$CheetahTraj: Efficient Visualization for Large Trajectory Dataset With Quality Guarantee.
+CIPPO: Contrastive Imitation Proximal Policy Optimization for Recommendation Based on Reinforcement Learning.
+Collaborative Learning With Heterogeneous Local Models: A Rule-Based Knowledge Fusion Approach.
+Concept Factorization Based Multiview Clustering for Large-Scale Data.
+Confidence-Induced Granular Partial Label Feature Selection via Dependency and Similarity.
+ContCommRTD: A Distributed Content-Based Misinformation-Aware Community Detection System for Real-Time Disaster Reporting.
+Contrastive Incomplete Cross-Modal Hashing.
+Contrastive Multi-Bit Collaborative Learning for Deep Cross-Modal Hashing.
+Counter-Empirical Attacking Based on Adversarial Reinforcement Learning for Time-Relevant Scoring System.
+Cross-Lingual Cross-Modal Retrieval With Noise-Robust Fine-Tuning.
+CS-DAHIN: Community Search Over Dynamic Attribute Heterogeneous Network.
+CStream: Parallel Data Stream Compression on Multicore Edge Devices.
+D&A: Resource Optimization in Personalized PageRank Computations Using Multi-Core Machines.
+Decentralized Privacy Preservation for Critical Connections in Graphs.
+Deep Hierarchy-Aware Proxy Hashing With Self-Paced Learning for Cross-Modal Retrieval.
+Determining Mean First-Passage Time for Random Walks on Stochastic Uniform Growth Tree Networks.
+Discovering and Maintaining the Best $k$k in Core Decomposition.
+Distributed and Joint Evidential K-Nearest Neighbor Classification.
+Distributed Rumor Source Detection via Boosted Federated Learning.
+Dual Variational Graph Reconstruction Learning for Social Recommendation.
+Dynamic Graph Regularization for Multi-Stream Concept Drift Self-Adaptation.
+Effective and Efficient Multi-View Imputation With Optimal Transport.
+Efficient Key-Aggregate Cryptosystem With User Revocation for Selective Group Data Sharing in Cloud Storage.
+Efficient Skyline Keyword-Based Tree Retrieval on Attributed Graphs.
+Empowering Molecule Discovery for Molecule-Caption Translation With Large Language Models: A ChatGPT Perspective.
+EPS$^{2}$2: Privacy Preserving Set-Valued Data Analysis in the Shuffle Model.
+Expectation Distance-Based Distributional Clustering for Noise-Robustness.
+Exploiting Duality in Aspect Sentiment Triplet Extraction With Sequential Prompting.
+Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches.
+Exploring Flat Minima for Domain Generalization With Large Learning Rates.
+Fast and Scalable Ridesharing Search.
+Fast Approximated Multiple Kernel K-Means.
+Fast Long Sequence Time-Series Forecasting for Edge Service Running State Based on Data Drift and Non-Stationarity.
+Feature Selection With Discernibility and Independence Criteria.
+FedEDB: Building a Federated and Encrypted Data Store via Consortium Blockchains.
+Focusing on Relevant Responses for Multi-Modal Rumor Detection.
+Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs.
+Generalized Measure-Biased Sampling and Priority Sampling.
+Global Meets Local: Dual Activation Hashing Network for Large-Scale Fine-Grained Image Retrieval.
+Global-Local Feature Learning via Dynamic Spatial-Temporal Graph Neural Network in Meteorological Prediction.
+Granular-Ball Fuzzy Set and Its Implement in SVM.
+Graph Contrastive Learning With Personalized Augmentation.
+Graph Out-of-Distribution Generalization With Controllable Data Augmentation.
+Graph Rewiring and Preprocessing for Graph Neural Networks Based on Effective Resistance.
+Graph Structure Reshaping Against Adversarial Attacks on Graph Neural Networks.
+Graphusion: Latent Diffusion for Graph Generation.
+HAQJSK: Hierarchical-Aligned Quantum Jensen-Shannon Kernels for Graph Classification.
+Hessian Aware Low-Rank Perturbation for Order-Robust Continual Learning.
+TKDP: Threefold Knowledge-Enriched Deep Prompt Tuning for Few-Shot Named Entity Recognition.
+HTAP Databases: A Survey.
+I/O-Efficient Multi-Criteria Shortest Paths Query Processing on Large Graphs.
+Improving Conversational Recommender System Via Contextual and Time-Aware Modeling With Less Domain-Specific Knowledge.
+Interrelated Dense Pattern Detection in Multilayer Networks.
+Knowledge-Guided Causal Intervention for Weakly-Supervised Object Localization.
+Laplacian Convolutional Representation for Traffic Time Series Imputation.
+Learning From Noisy Labels via Dynamic Loss Thresholding.
+Learning-Based Attribute-Augmented Proximity Matrix Factorization for Attributed Network Embedding.
+Learning-Based Sample Tuning for Approximate Query Processing in Interactive Data Exploration.
+LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading.
+MAP: Model Aggregation and Personalization in Federated Learning With Incomplete Classes.
+Micro-Macro Spatial-Temporal Graph-Based Encoder-Decoder for Map-Constrained Trajectory Recovery.
+More Interpretable Graph Similarity Computation via Maximum Common Subgraph Inference.
+MulRF: A Multi-Dimensional Range Filter for Sublinear Time Range Query Processing.
+Multilingual Taxonomic Web Page Categorization Through Ensemble Knowledge Distillation.
+Multi-Modal Validation and Domain Interaction Learning for Knowledge-Based Visual Question Answering.
+Multiple Kernel Clustering With Adaptive Multi-Scale Partition Selection.
+Multi-Prototypes Convex Merging Based K-Means Clustering Algorithm.
+Multi-Resolution Expansion of Analysis in Time-Frequency Domain for Time Series Forecasting.
+Nationwide Behavior-Aware Coordinates Mining From Uncertain Delivery Events.
+Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey.
+Neural Networks Learn Specified Information for Imbalanced Data Classification.
+NIERT: Accurate Numerical Interpolation Through Unifying Scattered Data Representations Using Transformer Encoder.
+O(1)-Time Complexity for Fixed Sliding-Window Aggregation Over Out-of-Order Data Streams.
+ODIN: Object Density Aware Index for C$k$kNN Queries Over Moving Objects on Road Networks.
+Optimization of Graph Clustering Inspired by Dynamic Belief Systems.
+Optimizing the Number of Clusters for Billion-Scale Quantization-Based Nearest Neighbor Search.
+Out-of-Distribution Evidence-Aware Fake News Detection via Dual Adversarial Debiasing.
+Persistence-Based Motif Discovery in Time Series.
+Popularity Prediction via Modeling Temporal Dependencies on Dynamic Evolution Process.
+Privacy-Preserving Deep Learning Based Record Linkage.
+PromptCast: A New Prompt-Based Learning Paradigm for Time Series Forecasting.
+Prototype Similarity Distillation for Communication-Efficient Federated Unsupervised Representation Learning.
+Query-Oriented Data Augmentation for Session Search.
+Recommender Systems in the Era of Large Language Models (LLMs).
+Revisiting Few-Shot Learning From a Causal Perspective.
+Robust Knowledge Adaptation for Dynamic Graph Neural Networks.
+Robust Tensor Subspace Learning for Incomplete Multi-View Clustering.
+Scalable and Sustainable Graph-Based Traffic Prediction With Adaptive Deep Learning.
+Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI.
+Scope-Free Global Multi-Condition-Aware Industrial Missing Data Imputation Framework via Diffusion Transformer.
+SDAC-DA: Semi-Supervised Deep Attributed Clustering Using Dual Autoencoder.
+Similarity Transitivity Broken-Aware Multi-Modal Hashing.
+Sketching Data Distribution by Rotation.
+SkipNode: On Alleviating Performance Degradation for Deep Graph Convolutional Networks.
+Smoothing Outlier Scores Is All You Need to Improve Outlier Detectors.
+Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs.
+Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation.
+Start From Zero: Triple Set Prediction for Automatic Knowledge Graph Completion.
+Temporal Graph Multi-Aspect Embeddings.
+Temporal Knowledge Graph Reasoning With Dynamic Memory Enhancement.
+The Capacity and Robustness Trade-Off: Revisiting the Channel Independent Strategy for Multivariate Time Series Forecasting.
+The GraphTempo Framework for Exploring the Evolution of a Graph Through Pattern Aggregation.
+Toward Lightweight End-to-End Semantic Learning of Real-Time Human Activity Recognition for Enabling Ambient Intelligence.
+Towards Knowledge-Aware and Deep Reinforced Cross-Domain Recommendation Over Collaborative Knowledge Graph.
+Towards Rumor Detection With Multi-Granularity Evidences: A Dataset and Benchmark.
+Trajectory-Aware Task Coalition Assignment in Spatial Crowdsourcing.
+Transductive Reward Inference on Graph.
+TTSR: Tensor-Train Subspace Representation Method for Visual Domain Adaptation.
+Unified ABSA via Annotation-Decoupled Multi-Task Instruction Tuning.
+University Evaluation Through Graduate Employment Prediction: An Influence Based Graph Autoencoder Approach.
+Unleash the Power of Inconsistency-Based Semi-Supervised Active Learning by Dynamic Programming of Curriculum Learning.
+Unsupervised Domain-Agnostic Fake News Detection Using Multi-Modal Weak Signals.
+Unsupervised Graph Transformer With Augmentation-Free Contrastive Learning.
+XKT: Toward Explainable Knowledge Tracing Model With Cognitive Learning Theories for Questions of Multiple Knowledge Concepts.
+Ze-HFS: Zentropy-Based Uncertainty Measure for Heterogeneous Feature Selection and Knowledge Discovery.
+A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation.
+Amalur: The Convergence of Data Integration and Machine Learning.
+Automated Data Cleaning can Hurt Fairness in Machine Learning-Based Decision Making.
+Decentralized and Incremental Discovery of Relaxed Functional Dependencies Using Bitwise Similarity.
+Efficient Model-Relational Data Management: Challenges and Opportunities.
+Effortless Locality on Data Systems Using Relational Fabric.
+Managing Metaverse Data Tsunami: Actionable Insights.
+A Bidirectional Extraction-Then-Evaluation Framework for Complex Relation Extraction.
+A Data-Driven Three-Stage Adaptive Pattern Mining Approach for Multi-Energy Loads.
+A Derivative Topic Dissemination Model Based on Representation Learning and Topic Relevance.
+A Dynamic Analysis-Powered Explanation Framework for Malware Detection.
+A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications.
+A Survey on Service Route and Time Prediction in Instant Delivery: Taxonomy, Progress, and Prospects.
+A Survey on Time-Series Pre-Trained Models.
+Accurate and Scalable Graph Convolutional Networks for Recommendation Based on Subgraph Propagation.
+Acquiring New Knowledge Without Losing Old Ones for Effective Continual Dialogue Policy Learning.
+AdaBoost-Stacking Based on Incremental Broad Learning System.
+Adversarial Attack and Defense on Discrete Time Dynamic Graphs.
+Adversarial Graph Neural Network for Multivariate Time Series Anomaly Detection.
+AME-LSIFT: Attention-Aware Multi-Label Ensemble With Label Subset-SpecIfic FeaTures.
+An Balanced, and Scalable Graph-Based Multiview Clustering Method.
+Automatic Index Tuning: A Survey.
+BigSet: An Efficient Set Intersection Approach.
+Budget-Constrained Ego Network Extraction With Maximized Willingness.
+C2F-Explainer: Explaining Transformers Better Through a Coarse-to-Fine Strategy.
+Causal Discovery From Unknown Interventional Datasets Over Overlapping Variable Sets.
+Change Point Detection in Multi-Channel Time Series via a Time-Invariant Representation.
+Classification With Trust: A Supervised Approach Based on Sequential Ellipsoidal Partitioning.
+Cloud-Native Databases: A Survey.
+Comparison Queries Generation Using Mathematical Programming for Exploratory Data Analysis.
+Continual Learning for Smart City: A Survey.
+Conversational Recommendation With Online Learning and Clustering on Misspecified Users.
+Cross-Domain Graph Level Anomaly Detection.
+Cross-Feature Interactive Tabular Data Modeling With Multiplex Graph Neural Networks.
+Cross-Regional Fraud Detection via Continual Learning With Knowledge Transfer.
+Debiased Pairwise Learning for Implicit Collaborative Filtering.
+Deep Learning Approaches for Similarity Computation: A Survey.
+Deep Multi-Task Learning for Spatio-Temporal Incomplete Qualitative Event Forecasting.
+Deep Session Heterogeneity-Aware Network for Click Through Rate Prediction.
+Diff-RNTraj: A Structure-Aware Diffusion Model for Road Network-Constrained Trajectory Generation.
+Diffusion-Based Graph Generative Methods.
+Digger-Guider: High-Frequency Factor Extraction for Stock Trend Prediction.
+DINE: Dimensional Interpretability of Node Embeddings.
+Discovering the Representation Bottleneck of Graph Neural Networks.
+DREAM: Domain-Agnostic Reverse Engineering Attributes of Black-Box Model.
+Dynamical Targeted Ensemble Learning for Streaming Data With Concept Drift.
+E2S2: Encoding-Enhanced Sequence-to-Sequence Pretraining for Language Understanding and Generation.
+Effective Generalized Low-Rank Tensor Contextual Bandits.
+Efficient and Effective Augmentation Framework With Latent Mixup and Label-Guided Contrastive Learning for Graph Classification.
+Efficient and Private Federated Trajectory Matching.
+Efficient Heterogeneous Graph Learning via Random Projection.
+Efficient Neural Network-Based Estimation of Interval Shapley Values.
+Efficient Unsupervised Graph Embedding With Attributed Graph Reduction and Dual-Level Loss.
+Eigenvalue Ratio Inspired Partition Learning and Fusion for Multiple Kernel Clustering.
+Enabling Verifiable and Secure Range Query in Multi-User Setting Under Cloud Environments.
+Enhancing Precision Drug Recommendations via In-Depth Exploration of Motif Relationships.
+Euclidean Distance is Not Your Swiss Army Knife.
+Feature-Aware Contrastive Learning With Bidirectional Transformers for Sequential Recommendation.
+FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning.
+Federated Learning With Heterogeneous Client Expectations: A Game Theory Approach.
+Fine-Grained Semantics Enhanced Contrastive Learning for Graphs.
+Forecasting Turning Points in Stock Price by Integrating Chart Similarity and Multipersistence.
+FPrompt-PLM: Flexible-Prompt on Pretrained Language Model for Continual Few-Shot Relation Extraction.
+FPSR+: Toward Robust, Efficient, and Scalable Collaborative Filtering With Partition-Aware Item Similarity Modeling.
+Fractal Belief Rényi Divergence With its Applications in Pattern Classification.
+Friedkin-Johnsen Model for Opinion Dynamics on Signed Graphs.
+From a Timeline Contact Graph to Close Contact Tracing and Infection Diffusion Intervention.
+From Wide to Deep: Dimension Lifting Network for Parameter-Efficient Knowledge Graph Embedding.
+General Quasi Overlap Functions and Fuzzy Neighborhood Systems-Based Fuzzy Rough Sets With Their Applications.
+GeoCo: Geographical Correlation Enhanced Network for POI Recommendation.
+Global Optimal Travel Planning for Massive Travel Queries in Road Networks.
+Graph Diffusion-Based Representation Learning for Sequential Recommendation.
+Graph Representation Learning Based on Cognitive Spreading Activations.
+Heterogeneous Multivariate Functional Time Series Modeling: A State Space Approach.
+Hierarchical Active Learning With Label Proportions on Data Regions.
+High-Capacity Framework for Reversible Data Hiding Using Asymmetric Numeral Systems.
+HoGRN: Explainable Sparse Knowledge Graph Completion via High-Order Graph Reasoning Network.
+Human-AI Interaction: Human Behavior Routineness Shapes AI Performance.
+Hyperbolic Graph Learning for Social Recommendation.
+Hyperedge Graph Contrastive Learning.
+Imbalanced Node Classification With Synthetic Over-Sampling.
+Improving Conversational Recommendation System Through Personalized Preference Modeling and Knowledge Graph.
+Information Cascade Popularity Prediction via Probabilistic Diffusion.
+Interdependence-Adaptive Mutual Information Maximization for Graph Contrastive Learning.
+Is Sharing Neighbor Generator in Federated Graph Learning Safe?
+Iterative Soft Prompt-Tuning for Unsupervised Domain Adaptation.
+Joint Optimization of Pricing, Dispatching and Repositioning in Ride-Hailing With Multiple Models Interplayed Reinforcement Learning.
+Kairos: Enabling Prompt Monitoring of Information Diffusion Over Temporal Networks.
+Large Language Models on Graphs: A Comprehensive Survey.
+L-ASCRA: A Linearithmic Time Approximate Spectral Clustering Algorithm Using Topologically-Preserved Representatives.
+Latent Structure-Aware View Recovery for Incomplete Multi-View Clustering.
+Learning Prioritized Node-Wise Message Propagation in Graph Neural Networks.
+Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction.
+LightCTS*: Lightweight Correlated Time Series Forecasting Enhanced With Model Distillation.
+Lightweight Conceptual Dictionary Learning for Text Classification Using Information Compression.
+LogoRA: Local-Global Representation Alignment for Robust Time Series Classification.
+Look Into Gradients: Learning Compact Hash Codes for Out-of-Distribution Retrieval.
+Make Heterophilic Graphs Better Fit GNN: A Graph Rewiring Approach.
+Mining User Consistent and Robust Preference for Unified Cross Domain Recommendation.
+Mixed-Modality Clustering via Generative Graph Structure Matching.
+MOCOLNet: A Momentum Contrastive Learning Network for Multimodal Aspect-Level Sentiment Analysis.
+Model-Agnostic Causal Embedding Learning for Counterfactually Group-Fair Recommendation.
+Modeling Dynamic Item Tendency Bias in Sequential Recommendation With Causal Intervention.
+Multi-Level Graph Knowledge Contrastive Learning.
+Multimodal Graph Causal Embedding for Multimedia-Based Recommendation.
+Multi-Source Shortest Path Query With Assembly Points on Large Graphs.
+Multi-Task Spatial-Temporal Transformer for Multi-Variable Meteorological Forecasting.
+Multi-View Adaptive Fusion Network for Spatially Resolved Transcriptomics Data Clustering.
+Neighbor Distribution Learning for Minority Class Augmentation.
+One Subgraph for All: Efficient Reasoning on Opening Subgraphs for Inductive Knowledge Graph Completion.
+Online Dynamic Hybrid Broad Learning System for Real-Time Safety Assessment of Dynamic Systems.
+Online Learning and Detecting Corrupted Users for Conversational Recommendation Systems.
+Online Learning of Temporal Association Rule on Dynamic Multivariate Time Series Data.
+Open Continual Feature Selection via Granular-Ball Knowledge Transfer.
+OPF-Miner: Order-Preserving Pattern Mining With Forgetting Mechanism for Time Series.
+Optimization Techniques for Unsupervised Complex Table Reasoning via Self-Training Framework.
+Parallel Contraction Hierarchies Construction on Road Networks.
+PLBR: A Semi-Supervised Document Key Information Extraction via Pseudo-Labeling Bias Rectification.
+Pre-Training General Trajectory Embeddings With Maximum Multi-View Entropy Coding.
+PrivFusion: Privacy-Preserving Model Fusion via Decentralized Federated Graph Matching.
+Progressive Skeleton Learning for Effective Local-to-Global Causal Structure Learning.
+Prompt Tuning on Graph-Augmented Low-Resource Text Classification.
+ProtoUDA: Prototype-Based Unsupervised Adaptation for Cross-Domain Text Recognition.
+ReiPool: Reinforced Pooling Graph Neural Networks for Graph-Level Representation Learning.
+Reliable Node Similarity Matrix Guided Contrastive Graph Clustering.
+Rethinking Robust Multivariate Time Series Anomaly Detection: A Hierarchical Spatio-Temporal Variational Perspective.
+Robust Multi-View Clustering With Noisy Correspondence.
+Robustness-Reinforced Knowledge Distillation With Correlation Distance and Network Pruning.
+RollStore: Hybrid Onchain-Offchain Data Indexing for Blockchain Applications.
+RTOD: Efficient Outlier Detection With Ray Tracing Cores.
+SaaN 2L-GRL: Two-Level Graph Representation Learning Empowered With Subgraph-as-a-Node.
+SE Factual Knowledge in Frozen Giant Code Model: A Study on FQN and Its Retrieval.
+Securing Multi-Source Domain Adaptation With Global and Domain-Wise Privacy Demands.
+Sequential Trajectory Data Publishing With Adaptive Grid-Based Weighted Differential Privacy.
+Shapley Value Approximation Based on Complementary Contribution.
+SLA$^{{\text{2}}}$2P: Self-Supervised Anomaly Detection With Adversarial Perturbation.
+Solving the Imbalanced Problem by Metric Learning and Oversampling.
+Spatial-Temporal Cross-View Contrastive Pre-Training for Check-in Sequence Representation Learning.
+SpikeLog: Log-Based Anomaly Detection via Potential-Assisted Spiking Neuron Network.
+SUHDSA: Secure, Useful, and High-Performance Data Stream Anonymization.
+Symmetrical Self-Representation and Data-Grouping Strategy for Unsupervised Feature Selection.
+Task Assignment Framework for Online Car-Hailing Systems With Electric Vehicles.
+THCN: A Hawkes Process Based Temporal Causal Convolutional Network for Extrapolation Reasoning in Temporal Knowledge Graphs.
+ThreatInsight: Innovating Early Threat Detection Through Threat-Intelligence-Driven Analysis and Attribution.
+Towards Effective Long-Term Wind Power Forecasting: A Deep Conditional Generative Spatio-Temporal Approach.
+Towards Effective Top-N Hamming Search via Bipartite Graph Contrastive Hashing.
+Training Recommenders Over Large Item Corpus With Importance Sampling.
+Triple Factorization-Based SNLF Representation With Improved Momentum-Incorporated AGD: A Knowledge Transfer Approach.
+TripleSurv: Triplet Time-Adaptive Coordinate Learning Approach for Survival Analysis.
+Type-LDD: A Type-Driven Lite Concept Drift Detector for Data Streams.
+Uni-Modal Event-Agnostic Knowledge Distillation for Multimodal Fake News Detection.
+Unsupervised Graph Representation Learning Beyond Aggregated View.
+When Learned Indexes Meet Persistent Memory: The Analysis and the Optimization.
+When Quantum Computing Meets Database: A Hybrid Sampling Framework for Approximate Query Processing.
+ZBTree: A Fast and Scalable B$^+$+-Tree for Persistent Memory.

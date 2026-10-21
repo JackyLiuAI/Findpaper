@@ -1,0 +1,263 @@
+Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2019, Paris, France, July 21-25, 2019.
+The Importance of Interaction for Information Retrieval.
+Automatic Understanding of the Visual World.
+A General Framework for Counterfactual Learning-to-Rank.
+To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions.
+Domain Adaptation for Enterprise Email Search.
+Health Cards for Consumer Health Search.
+Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation.
+Harvesting Drug Effectiveness from Social Media.
+Generic Intent Representation in Web Search.
+Quantifying and Alleviating the Language Prior Problem in Visual Question Answering.
+Document Gated Reader for Open-Domain Question Answering.
+Adaptive Multi-Attention Network Incorporating Answer Information for Duplicate Question Detection.
+Answering Complex Questions by Joining Multi-Document Evidence with Quasi Knowledge Graphs.
+Controlling Risk of Web Question Answering.
+Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation.
+Noise Contrastive Estimation for One-Class Collaborative Filtering.
+Compositional Coding for Collaborative Filtering.
+Unified Collaborative Filtering over Graph Embeddings.
+Neural Graph Collaborative Filtering.
+Knowledge Tracing with Sequential Key-Value Memory Networks.
+Personal Knowledge Base Construction from Text-based Lifelogs.
+Identifying Entity Properties from Text with Zero-shot Learning.
+One-Class Order Embedding for Dependency Relation Prediction.
+ENT Rank: Retrieving Entities for Topical Information Needs through Entity-Neighbor-Text Relations.
+An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation.
+A Neural Influence Diffusion Model for Social Recommendation.
+Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation.
+Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation.
+Transparent, Scrutable and Explainable User Models for Personalized Recommendation.
+A Capsule Network for Recommendation and Explaining What You Like and Dislike.
+Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.
+The FacT: Taming Latent Factor Models for Explainability with Factorization Trees.
+Privacy-aware Document Ranking with Neural Signals.
+Legal Intelligence for E-commerce: Multi-task Learning by Leveraging Multiview Dispute Representation.
+Hierarchical Matching Network for Crime Classification.
+Learning from Fact-checkers: Analysis and Generation of Fact-checking Language.
+A Collaborative Session-based Recommendation Approach with Parallel Memory Modules.
+Similarity-Based Synthetic Document Representations for Meta-Feature Generation in Text Classification.
+Finding Camouflaged Needle in a Haystack?: Pornographic Products Detection via Berrypicking Tree Model.
+Why do Users Issue Good Queries?: Neural Correlates of Term Specificity.
+Context Attentive Document Ranking and Query Suggestion.
+Information Needs, Queries, and Query Performance Prediction.
+Task Completion Detection: A Study in the Context of Intelligent Systems.
+Bridging Gaps: Predicting User and Task Characteristics from Partial User Information.
+Human Behavior Inspired Machine Reading Comprehension.
+EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation.
+User Attention-guided Multimodal Dialog Systems.
+Triple-to-Text: Converting RDF Triples into High-Quality Natural Languages via Optimizing an Inverse KL Divergence.
+Video Dialog via Multi-Grained Convolutional Self-Attention Context Networks.
+Asking Clarifying Questions in Open-Domain Information-Seeking Conversations.
+Accelerated Query Processing Via Similarity Score Prediction.
+Optimal Freshness Crawl Under Politeness Constraints.
+Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors.
+CROSS: Cross-platform Recommendation for Social E-Commerce.
+Hot Topic-Aware Retweet Prediction with Masked Self-attentive Model.
+Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning.
+Online User Representation Learning Across Heterogeneous Social Networks.
+PSGAN: A Minimax Game for Personalized Search with Limited and Noisy Click Data.
+Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction.
+Multi-view Embedding-based Synonyms for Email Search.
+Context-Aware Intent Identification in Email Conversations.
+Which Diversity Evaluation Measures Are "Good"?
+Investigating Passage-level Relevance and Its Role in Document-level Relevance Judgment.
+Jointly Modeling Relevance and Sensitivity for Search Among Sensitive Content.
+Revisiting Online Personal Search Metrics with the User in Mind.
+Scalable Deep Multimodal Learning for Cross-Modal Retrieval.
+Neural-Network Lexical Translation for Cross-lingual IR from Text and Speech.
+Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos.
+Bayesian Personalized Feature Interaction Selection for Factorization Machines.
+CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation.
+π-Net: A Parallel Information-sharing Network for Shared-account Cross-domain Sequential Recommendations.
+Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings.
+Effects of User Negative Experience in Mobile News Streaming.
+Online Multi-modal Hashing with Dynamic Query-adaption.
+Supervised Hierarchical Cross-Modal Hashing.
+Unsupervised Neural Generative Semantic Hashing.
+Outline Generation: Understanding the Inherent Content Structure of Documents.
+DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases.
+Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network: Towards Visually Explainable Recommendation.
+Interpretable Fashion Matching with Rich Attributes.
+Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching.
+Teach Machine How to Read: Reading Behavior Inspired Relevance Estimation.
+Improving the Accuracy of System Performance Estimation by Using Shards.
+Fast Approximate Filtering of Search Results Sorted by Attribute.
+Intervention Harvesting for Context-Dependent Examination-Bias Estimation.
+Variance Reduction in Gradient Exploration for Online Learning to Rank.
+Yelling at Your TV: An Analysis of Speech Recognition Errors and Subsequent User Behavior on Entertainment Systems.
+Learning More From Less: Towards Strengthening Weak Supervision for Ad-Hoc Retrieval.
+Network Embedding and Change Modeling in Dynamic Heterogeneous Networks.
+From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories.
+Length-adaptive Neural Network for Answer Selection.
+Embedding Edge-attributed Relational Hierarchies.
+Leveraging Emotional Signals for Credibility Detection.
+Encoding Syntactic Dependency and Topical Information for Social Emotion Classification.
+Information Cascades Modeling via Deep Multi-Task Learning.
+An Analysis of the Change in Discussions on Social Media with Bitcoin Price.
+Ensembles of Recurrent Networks for Classifying the Relationship of Fake News Titles.
+Contextually Propagated Term Weights for Document Representation.
+Time-Limits and Summaries for Faster Relevance Assessing.
+Deep Collaborative Discrete Hashing with Semantic-Invariant Structure.
+On Topic Difficulty in IR Evaluation: The Effect of Systems, Corpora, and System Components.
+M-HIN: Complex Embeddings for Heterogeneous Information Networks via Metagraphs.
+How to Deal with Scarce Annotations in Answer Selection.
+One-Class Collaborative Filtering with the Queryable Variational Autoencoder.
+Developing Evaluation Metrics for Instant Search Using Mixed Methods Methods.
+FAQ Retrieval Using Attentive Matching.
+Item Recommendation by Combining Relative and Absolute Feedback Data.
+Multiple Query Processing via Logic Function Factoring.
+Information Nutritional Label and Word Embedding to Estimate Information Check-Worthiness.
+Unbiased Low-Variance Estimators for Precision and Related Information Retrieval Effectiveness Measures.
+Multi-Level Matching Networks for Text Matching.
+Investigating the Interplay Between Searchers' Privacy Concerns and Their Search Behavior.
+A Systematic Comparison of Methods for Finding Good Premises for Claims.
+Graph Intention Network for Click-through Rate Prediction in Sponsored Search.
+A Scalable Virtual Document-Based Keyword Search System for RDF Datasets.
+Query-Task Mapping.
+An Analysis of Query Reformulation Techniques for Precision Medicine.
+Using Trails to Support Users with Tasks of Varying Scope.
+An Axiomatic Approach to Regularizing Neural Ranking Models.
+Deeper Text Understanding for IR with Contextual Neural Language Modeling.
+Understanding the Interpretability of Search Result Summaries.
+Content-Based Weak Supervision for Ad-Hoc Re-Ranking.
+Evaluating Variable-Length Multiple-Option Lists in Chatbots and Mobile Search.
+On Tradeoffs Between Document Signature Methods for a Legal Due Diligence Corpus.
+A study on the Interpretability of Neural Retrieval Models using DeepSHAP.
+Automatic Task Completion Flows from Web APIs.
+Ontology-Aware Clinical Abstractive Summarization.
+Hyperlink Classification via Structured Graph Embedding.
+Answer-enhanced Path-aware Relation Detection over Knowledge Base.
+Block-distributed Gradient Boosted Trees.
+Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval.
+Coarse-to-Fine Grained Classification.
+Local Matrix Approximation based on Graph Random Walk.
+A Context-based Framework for Resource Citation Classification in Scientific Literatures.
+Text Retrieval Priors for Bayesian Logistic Regression.
+A Lightweight Representation of News Events on Social Media.
+Analyzing and Predicting News Popularity in an Instant Messaging Service.
+Adversarial Training for Review-Based Recommendations.
+A New Perspective on Score Standardization.
+Adversarial Collaborative Neural Network for Robust Recommendation.
+Sequence and Time Aware Neighborhood for Session-based Recommendations: STAN.
+Addressing Vocabulary Gap in E-commerce Search.
+Gated Spectral Units: Modeling Co-evolving Patterns for Sequential Recommendation.
+Deep Distribution Network: Addressing the Data Sparsity Issue for Top-N Recommendation.
+Normalized Query Commitment Revisited.
+Quantifying Bias and Variance of System Rankings.
+Towards Better Support for Exploratory Search through an Investigation of Notes-to-self and Notes-to-share.
+The Emotion Profile of Web Search.
+CEDR: Contextualized Embeddings for Document Ranking.
+Learning Unsupervised Semantic Document Representation for Fine-grained Aspect-based Sentiment Analysis.
+Evaluating Resource-Lean Cross-Lingual Embedding Models in Unsupervised Retrieval.
+FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance.
+Argument Search: Assessing Argument Relevance.
+Order-aware Embedding Neural Network for CTR Prediction.
+The Impact of Score Ties on Repeatability in Document Ranking.
+Critically Examining the "Neural Hype": Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models.
+BERT with History Answer Embedding for Conversational Question Answering.
+On the Effect of Low-Frequency Terms on Neural-IR Models.
+Effective Medical Archives Processing Using Knowledge Graphs.
+Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.
+A Study on Agreement in PICO Span Annotations.
+Corpus-based Set Expansion with Lexical Features and Distributed Representations.
+Sparse Tensor Co-clustering as a Tool for Document Categorization.
+Numeral Attachment with Auxiliary Tasks.
+Decoding The Style And Bias of Song Lyrics.
+Retrieving Multi-Entity Associations: An Evaluation of Combination Modes for Word Embeddings.
+Modeling Transferable Topics for Cross-Target Stance Detection.
+TDP: Personalized Taxi Demand Prediction Based on Heterogeneous Graph Embedding.
+Uncovering Insurance Fraud Conspiracy with Network Learning.
+Training Streaming Factorization Machines with Alternating Least Squares.
+Social Attentive Deep Q-network for Recommendation.
+Cleaned Similarity for Better Memory-Based Recommenders.
+ABCPRec: Adaptively Bridging Consumer and Producer Roles for User-Generated Content Recommendation.
+Improving Collaborative Metric Learning with Efficient Negative Sampling.
+SAIN: Self-Attentive Integration Network for Recommendation.
+Towards Context-Aware Evaluation for Image Search.
+A Horizontal Patent Test Collection.
+Dynamic Sampling Meets Pooling.
+Help Me Search: Leveraging User-System Collaboration for Query Construction to Improve Accuracy for Difficult Queries.
+On Anonymous Commenting: A Greedy Approach to Balance Utilization and Anonymity for Instagram Users.
+Neural Compatibility Ranking for Text-based Fashion Matching.
+NRPA: Neural Recommendation with Personalized Attention.
+Vertical Search Blending: A Real-world Counterfactual Dataset.
+Revisiting Approximate Metric Optimization in the Age of Deep Neural Networks.
+Name Entity Recognition with Policy-Value Networks.
+Revealing the Role of User Moods in Struggling Search Tasks.
+Selecting Discriminative Terms for Relevance Model.
+A Dataset of Systematic Review Updates.
+Query Performance Prediction for Pseudo-Feedback-Based Retrieval.
+Reinforcement Learning for User Intent Prediction in Customer Service Bots.
+Enhanced News Retrieval: Passages Lead the Way!
+Contextual Dialogue Act Classification for Open-Domain Conversational Agents.
+Accelerating Exact Inner Product Retrieval by CPU-GPU Systems.
+LIRME: Locally Interpretable Ranking Model Explanation.
+Solr Integration in the Anserini Information Retrieval Toolkit.
+Parrot: A Python-based Interactive Platform for Information Retrieval Research.
+An Open-Access Platform for Transparent and Reproducible Structured Searching.
+MatchZoo: A Learning, Practicing, and Developing System for Neural Text Matching.
+AgentBuddy: an IR System based on Bandit Algorithms to Reduce Cognitive Load for Customer Care Agents.
+AliISA: Creating an Interactive Search Experience in E-commerce Platforms.
+SCSS-LIE: A Novel Synchronous Collaborative Search System with a Live Interactive Engine.
+Information Retrieval Meets Scalable Text Analytics: Solr Integration with Spark.
+Social Knowledge Graph Explorer.
+cwl_eval: An Evaluation Tool for Information Retrieval.
+TrecTools: an Open-source Python Library for Information Retrieval Practitioners Involved in TREC-like Campaigns.
+Automatic Curation of Content Tables for Educational Videos.
+Explanatory and Actionable Debugging for Machine Learning: A TableQA Demonstration.
+A Pipeline for Disaster Response and Relief Coordination.
+Event Tracker: A Text Analytics Platform for Use During Disasters.
+KANDINSKY: Abstract Art-Inspired Visualization of Social Discussions.
+EXACT: Attributed Entity Extraction By Annotating Texts.
+Expert-Guided Entity Extraction using Expressive Rules.
+An Experimentation Platform for Precision Medicine.
+WestSearch Plus: A Non-factoid Question-Answering System for the Legal Domain.
+Demonstrating Requirement Search on a University Degree Search Application.
+Alexa, Can You Help Me Shop?
+Challenges in Search on Streaming Services: Netflix Case Study.
+Challenges and Opportunities in Understanding Spoken Queries Directed at Modern Entertainment Platforms.
+Ghosting: Contextualized Query Auto-Completion on Amazon Search.
+Simulacra and Selection: Clothing Set Recommendation at Stitch Fix.
+Searching for Communities: a Facebook Way.
+From Semantic Retrieval to Pairwise Ranking: Applying Deep Learning in E-commerce Search.
+Beyond Keyword Targeting: An End-to-End Ad Retrieval Framework for Sponsored Search.
+Nobody Said it Would be Easy: A Decade of R&D Projects in Information Access from Thomson over Reuters to Refinitiv.
+Family History Discovery through Search at Ancestry.
+USEing Transfer Learning in Retrieval of Statistical Data.
+Find Relevant Cases in All Cases: Your Journey at Doctrine.
+Non-factoid Question Answering in the Legal Domain.
+Looking for Opportunities: Challenges in Procurement Search.
+Effective Online Evaluation for Web Search.
+Building Economic Models and Measures of Search.
+Fairness and Discrimination in Retrieval and Recommendation.
+Deep Natural Language Processing for Search Systems.
+Extracting, Mining and Predicting Users' Interests from Social Networks.
+Web Table Extraction, Retrieval and Augmentation.
+Example-based Search: a New Frontier for Exploratory Search.
+Deep Chit-Chat: Deep Learning for Chatbots.
+Learning to Quantify: Estimating Class Prevalence via Supervised Learning.
+SIGIR 2019 Tutorial on Explainable Recommendation and Search.
+Learning to Rank in Theory and Practice: From Gradient Boosting to Neural Networks and Unbiased Learning.
+ECOM'19: The SIGIR 2019 Workshop on eCommerce.
+Workshop on Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval (FACTS-IR).
+ROME 2019: Workshop on Reducing Online Misinformation Exposure.
+Third International Workshop on Recent Trends in News Information Retrieval (NewsIR'19).
+The SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019).
+WCIS 2019: 1st Workshop on Conversational Interaction Systems.
+EARS 2019: The 2nd International Workshop on ExplainAble Recommendation and Search.
+Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2019).
+Dynamic Content Monitoring and Exploration using Vector Spaces.
+Characterizing the Stages of Complex Tasks.
+Ranking Robustness In Adversarial Retrieval Settings.
+Event Information Retrieval from Text.
+Implicit Entity Recognition, Classification and Linking in Tweets.
+Biomedical Heterogeneous Data Integration and Rank Retrieval using Data Bridges.
+From Query Variations To Learned Relevance Modeling.
+Multimodal Data Fusion with Quantum Inspiration.
+Document Distance Metric Learning in an Interactive Exploration Process.
+Measuring Job Search Effectiveness.
+Informing the Design of Conversational IR Systems: Framework and Result Presentation.
+Evaluating Risk-Sensitive Text Retrieval.
+Efficient and Effective Text-Annotation through Active Learning.
+A Domain-Independent and Multilingual Approach for Crisis Event Detection and Understanding.

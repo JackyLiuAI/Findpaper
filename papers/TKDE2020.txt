@@ -1,0 +1,185 @@
+A Semi-Supervised Approach to Message Stance Classification.
+An Attribute-Specific Ranking Method Based on Language Models for Keyword Search over Graphs.
+Answering Why-Not Group Spatial Keyword Queries.
+DAG: A General Model for Privacy-Preserving Data Mining.
+Deep Private-Feature Extraction.
+Enhanced Graph Transforming V2 Algorithm for Non-Simple Graph in Big Data Pre-Processing.
+Finding Critical Users in Social Communities: The Collapsed Core and Truss Problems.
+GAT: A Unified GPU-Accelerated Framework for Processing Batch Trajectory Queries.
+Massively Distributed Time Series Indexing and Querying.
+Recurrent Poisson Factorization for Temporal Recommendation.
+Reducing Uncertainty of Schema Matching via Crowdsourcing with Accuracy Rates.
+Scalable Detection of Crowd Motion Patterns.
+Semi-Supervised Feature Selection via Sparse Rescaled Linear Square Regression.
+Sequence Pattern Mining with Variables.
+VR-SGD: A Simple Stochastic Variance Reduction Method for Machine Learning.
+An Efficient Destination Prediction Approach Based on Future Trajectory Prediction and Transition Matrix Optimization.
+Anomaly Detection Using Local Kernel Density Estimation and Context-Based Regression.
+BRIGHT - Drift-Aware Demand Predictions for Taxi Networks.
+Conversion Prediction from Clickstream: Modeling Market Prediction and Customer Predictability.
+Design and Implementation of SSD-Assisted Backup and Recovery for Database Systems.
+Enriching Data Imputation under Similarity Rule Constraints.
+Fast and Low Memory Cost Matrix Factorization: Algorithm, Analysis, and Case Study.
+Learning to Weight for Text Classification.
+MV-RNN: A Multi-View Recurrent Neural Network for Sequential Recommendation.
+QuickPoint: Efficiently Identifying Densest Sub-Graphs in Online Social Networks for Event Stream Dissemination.
+r-HUMO: A Risk-Aware Human-Machine Cooperation Framework for Entity Resolution with Quality Guarantees.
+Scalable Dynamic Graph Summarization.
+Training Simplification and Model Simplification for Deep Learning : A Minimal Effort Back Propagation Method.
+XINA: Explainable Instance Alignment Using Dominance Relationship.
+Simple Statistics Are Sometime Too Simple: A Case Study in Social Media Data.
+A Transformation-Based Framework for KNN Set Similarity Search.
+ChronoGraph: Enabling Temporal Graph Traversals for Efficient Information Diffusion Analysis over Time.
+Deep Inductive Graph Representation Learning.
+Dynamic Connection-Based Social Group Recommendation.
+Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning.
+Learning New Words from Keystroke Data with Local Differential Privacy.
+Personalized Video Recommendation Using Rich Contents from Videos.
+Re-Revisiting Learning on Hypergraphs: Confidence Interval, Subgradient Method, and Extension to Multiclass.
+SAL-Hashing: A Self-Adaptive Linear Hashing Index for SSDs.
+Scheduling Resources to Multiple Pipelines of One Query in a Main Memory Database Cluster.
+Unlocking Author Power: On the Exploitation of Auxiliary Author-Retweeter Relations for Predicting Key Retweeters.
+User Interface Derivation for Business Processes.
+Using Latent Knowledge to Improve Real-Time Activity Recognition for Smart IoT.
+Utilizing Neural Networks and Linguistic Metadata for Early Detection of Depression Indications in Text Sequences.
+VA-Store: A Virtual Approximate Store Approach to Supporting Repetitive Big Data in Genome Sequence Analyses.
+A Hybrid Discriminative Mixture Model for Cumulative Citation Recommendation.
+Addressing the Item Cold-Start Problem by Attribute-Driven Active Learning.
+An Efficient Approach to Finding Dense Temporal Subgraphs.
+Feature Selection for Neural Networks Using Group Lasso Regularization.
+GERF: A Group Event Recommendation Framework Based on Learning-to-Rank.
+Jointly Learning Topics in Sentence Embedding for Document Summarization.
+Multi-Campaign Oriented Spatial Crowdsourcing.
+NewMCOS: Towards a Practical Multi-Cloud Oblivious Storage Scheme.
+On Combining Biclustering Mining and AdaBoost for Breast Tumor Classification.
+Reducing Web Page Complexity to Facilitate Effective User Navigation.
+Scalable Spectral Clustering for Overlapping Community Detection in Large-Scale Networks.
+Similarity Join and Similarity Self-Join Size Estimation in a Streaming Environment.
+SRA: Secure Reverse Auction for Task Assignment in Spatial Crowdsourcing.
+Adaptive Consistency Propagation Method for Graph Clustering.
+Bayesian Networks for Data Integration in the Absence of Foreign Keys.
+Discrimination-Aware Projected Matrix Factorization.
+LN-SNE: Log-Normal Distributed Stochastic Neighbor Embedding for Anomaly Detection.
+Nonparametric Density Estimation Using Copula Transform, Bayesian Sequential Partitioning, and Diffusion-Based Kernel Estimator.
+A Hybrid E-Learning Recommendation Approach Based on Learners' Influence Propagation.
+A Scalable Multi-Data Sources Based Recursive Approximation Approach for Fast Error Recovery in Big Sensing Data on Cloud.
+Adversarial Training Towards Robust Multimedia Recommender System.
+ASCENT: Active Supervision for Semi-Supervised Learning.
+Boosting with Lexicographic Programming: Addressing Class Imbalance without Cost Tuning.
+Control-Flow Modeling with Declare: Behavioral Properties, Computational Complexity, and Tools.
+Efficient Entity Resolution on Heterogeneous Records.
+Efficient Process Conformance Checking on the Basis of Uncertain Event-to-Activity Mappings.
+Generalized Translation-Based Embedding of Knowledge Graph.
+Joint Label Prediction Based Semi-Supervised Adaptive Concept Factorization for Robust Data Representation.
+Joint Learning of Question Answering and Question Generation.
+K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks.
+Quality Control in Crowdsourcing Using Sequential Zero-Determinant Strategies.
+Semi-Supervised Deep Learning Approach for Transportation Mode Identification Using GPS Trajectory Data.
+Trust Relationship Prediction in Alibaba E-Commerce Platform.
+A Generalized Locally Linear Factorization Machine with Supervised Variational Encoding.
+A Joint Two-Phase Time-Sensitive Regularized Collaborative Ranking Model for Point of Interest Recommendation.
+Artifact-Based Workflows for Supporting Simulation Studies.
+Citywide Bike Usage Prediction in a Bike-Sharing System.
+Discerning Influence Patterns with Beta-Poisson Factorization in Microblogging Environments.
+Ensemble of Classifiers Based on Multiobjective Genetic Sampling for Imbalanced Data.
+GMC: Graph-Based Multi-View Clustering.
+Mining Behavioral Sequence Constraints for Classification.
+Optimal Margin Distribution Machine.
+Parallel Simulated Annealing with a Greedy Algorithm for Bayesian Network Structure Learning.
+Semi-Supervised Learning with Auto-Weighting Feature and Adaptive Graph.
+The Disruptions of 5G on Data-Driven Technologies and Applications.
+Towards Automatic Construction of Diverse, High-Quality Image Datasets.
+Ultra-Scalable Spectral Clustering and Ensemble Clustering.
+ESPM: Efficient Spatial Pattern Matching.
+A Review of Judgment Analysis Algorithms for Crowdsourced Opinions.
+Affinity Regularized Non-Negative Matrix Factorization for Lifelong Topic Modeling.
+Blocking Self-Avoiding Walks Stops Cyber-Epidemics: A Scalable GPU-Based Approach.
+Complication Risk Profiling in Diabetes Care: A Bayesian Multi-Task and Feature Relationship Learning Approach.
+CVTM: A Content-Venue-Aware Topic Model for Group Event Recommendation.
+Discovery and Recognition of Emerging Human Activities Using a Hierarchical Mixture of Directional Statistical Models.
+Efficient Contour Computation of Group-Based Skyline.
+Evaluation of the Sample Clustering Process on Graphs.
+Graph K-means Based on Leader Identification, Dynamic Game, and Opinion Dynamics.
+Haery: A Hadoop Based Query System on Accumulative and High-Dimensional Data Model for Big Data.
+Inferring Full Diffusion History from Partial Timestamps.
+Learning Distilled Graph for Large-Scale Social Network Data Clustering.
+Modeling and Computing Probabilistic Skyline on Incomplete Data.
+Multi-View Scaling Support Vector Machines for Classification and Feature Selection.
+Top-k Dominating Queries on Skyline Groups.
+Active Online Learning for Social Media Analysis to Support Crisis Management.
+Answering Top-$k$ k Graph Similarity Queries in Graph Databases.
+Approximate Nearest Neighbor Search on High Dimensional Data - Experiments, Analyses, and Improvement.
+Cleaning Data with Forbidden Itemsets.
+Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation.
+Generative Adversarial Active Learning for Unsupervised Outlier Detection.
+Interactive Bike Lane Planning Using Sharing Bikes' Trajectories.
+Model-Based Synthetic Sampling for Imbalanced Data.
+Multi-Party High-Dimensional Data Publishing Under Differential Privacy.
+Privacy-Preserving User Profile Matching in Social Networks.
+Reliable Accuracy Estimates from k-Fold Cross Validation.
+ROAM: A Fundamental Routing Query on Road Networks with Efficiency.
+Robust Multi-Label Learning with PRO Loss.
+T-PCCE: Twitter Personality based Communicative Communities Extraction System for Big Data.
+Translation-Based Sequential Recommendation for Complex Users on Sparse Data.
+Voice of Charity: Prospecting the Donation Recurrence & Donor Retention in Crowdfunding.
+A Constrained Randomization Approach to Interactive Visual Data Exploration with Subjective Feedback.
+Adaptive Self-Paced Deep Clustering with Data Augmentation.
+An Effective Clustering Method over CF$^+$+ Tree Using Multiple Range Queries.
+Equilibrium of Redundancy in Relational Model for Optimized Data Retrieval.
+Evaluating Overfit and Underfit in Models of Network Community Structure.
+Evaluation of Community Detection Methods.
+Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization.
+LERI: Local Exploration for Rare-Category Identification.
+Member Behavior in Dynamic Online Communities: Role Affiliation Frequency Model.
+Memory Augmented Deep Generative Models for Forecasting the Next Shot Location in Tennis.
+Mining Novel Multivariate Relationships in Time Series Data Using Correlation Networks.
+On Optimally Partitioning Variable-Byte Codes.
+Structural Representation Learning for User Alignment Across Social Networks.
+Variable Weighting in Fuzzy k-Means Clustering to Determine the Number of Clusters.
+A Hierarchical Attention Model for Social Contextual Image Recommendation.
+A Nodes' Evolution Diversity Inspired Method to Detect Anomalies in Dynamic Social Networks.
+Automatic Classification of Algorithm Citation Functions in Scientific Literature.
+BATON: Batch One-Hop Personalized PageRanks with Efficiency and Accuracy.
+Cross-Domain Sentiment Encoding through Stochastic Word Embedding.
+Efficient Learning with Exponentially-Many Conjunctive Precursors for Interpretable Spatial Event Forecasting.
+Fraud Detection in Dynamic Interaction Network.
+Joint Multi-View Hashing for Large-Scale Near-Duplicate Video Retrieval.
+OLAP over Probabilistic Data Cubes II: Parallel Materialization and Extended Aggregates.
+On the Usefulness of SQL-Query-Similarity Measures to Find User Interests.
+Online Knowledge Level Tracking with Data-Driven Student Models and Collaborative Filtering.
+Parameter-Free Weighted Multi-View Projected Clustering with Structured Graph Learning.
+SentiDiff: Combining Textual Information and Sentiment Diffusion Patterns for Twitter Sentiment Analysis.
+User Group Analytics Survey and Research Opportunities.
+A Crowdsourcing Framework for Collecting Tabular Data.
+A Framework for Supervised Classification Performance Analysis with Information-Theoretic Methods.
+A General Centrality Framework-Based on Node Navigability.
+A Novel Trust Model Based Overlapping Community Detection Algorithm for Social Networks.
+A Variational Bayesian Framework for Cluster Analysis in a Complex Network.
+Deep Learning Driven Venue Recommender for Event-Based Social Networks.
+Detecting Communities with Multiplex Semantics by Distinguishing Background, General, and Specialized Topics.
+Entropy-based Sampling Approaches for Multi-Class Imbalanced Problems.
+Fast Discrete Collaborative Multi-Modal Hashing for Large-Scale Multimedia Retrieval.
+Ghost Imputation: Accurately Reconstructing Missing Data of the Off Period.
+On Nearby-Fit Spatial Keyword Queries.
+Real-Time Ambulance Redeployment: A Data-Driven Approach.
+Reference-Based Framework for Spatio-Temporal Trajectory Compression and Query Processing.
+Similarity Search for Dynamic Data Streams.
+SURGE: Continuous Detection of Bursty Regions Over a Stream of Spatial Objects.
+Understanding Urban Dynamics via Context-Aware Tensor Factorization with Neighboring Regularization.
+Automated Data Slicing for Model Validation: A Big Data - AI Integration Approach.
+Best Bang for the Buck: Cost-Effective Seed Selection for Online Social Networks.
+Capturing Joint Label Distribution for Multi-Label Classification Through Adversarial Learning.
+Combine Topic Modeling with Semantic Embedding: Embedding Enhanced Topic Model.
+Destination-Aware Task Assignment in Spatial Crowdsourcing: A Worker Decomposition Approach.
+Enabling Ternary Hash Tree Based Integrity Verification for Secure Cloud Data Storage.
+Impacts of Fractional Hot-Deck Imputation on Learning and Prediction of Engineering Data.
+Locally Balanced Inductive Matrix Completion for Demand-Supply Inference in Stationless Bike-Sharing Systems.
+Multiview Semi-Supervised Learning Model for Image Classification.
+Multi-View Support Vector Machines with the Consensus and Complementarity Information.
+Network Embedding via Coupled Kernelized Multi-Dimensional Array Factorization.
+Robust Low-Rank Kernel Subspace Clustering based on the Schatten p-norm and Correntropy.
+Scalable Multiway Stream Joins in Hardware.
+Scientific Workflow Protocol Discovery from Public Event Logs in Clouds.
+Skia: Scalable and Efficient In-Memory Analytics for Big Spatial-Textual Data.
+Sticky Policies: A Survey.
+Corrections to "NATERGM: A Model for Examining the Role of Nodal Attributes in Dynamic Social Media Networks".

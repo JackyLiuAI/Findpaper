@@ -1,0 +1,3 @@
+Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation
+Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation
+Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation
